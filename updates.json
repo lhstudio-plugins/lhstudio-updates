@@ -1,5 +1,34 @@
 {
   "whatsapp": "972547103775",
-  "plugins": {},
+  "plugins": {
+    "LH Chord Studio": {
+      "version": "2.32.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.32.0/LH-Chord-Studio-Setup-2.32.0.exe",
+      "sha256": "7836f76b89e089dceeb530472bf71e9d6f8e58837cbaa3ebde27c9bc6ee0b808",
+      "notes_en": [
+        "New ACCOMP mode: 5 two-hand piano accompaniments (guitar on piano, thumb bounces, thumbs, broken chord, bass + chord).",
+        "Free chord editing: loop length 1-32 bars, drag a chord past the end, split a chord into 2/3/4.",
+        "New THEORY tab explains every chord and suggests replacements; DETECT shows key, tempo, meter and the chords that fit."
+      ],
+      "notes_he": [
+        "מצב ליווי חדש: 5 ליוויי פסנתר בשתי ידיים (גיטרה על פסנתר, הקפצות אגודל, אגודלים, אקורד מפורק, בס + אקורד).",
+        "עריכה חופשית: לופ מ-1 עד 32 תיבות, גרירת אקורד מעבר לסוף, חיתוך אקורד ל-2/3/4.",
+        "לשונית תיאוריה חדשה שמסבירה כל אקורד ומציעה תחליפים; זיהוי מציג סולם, טמפו, משקל והאקורדים שמתאימים לשיר."
+      ]
+    },
+    "LH Chord Finder": {
+      "version": "2.32.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.32.0/LH-Chord-Finder-Setup-2.32.0.exe",
+      "sha256": "7991a9a3bed024f251d39a164876771aaa406881c90fa2c67ff6dfc739da9886",
+      "notes_en": [
+        "Smarter chord brain: understands more feeling words (Hebrew and English) and keeps the chosen style."
+      ],
+      "notes_he": [
+        "מוח אקורדים חכם יותר: מבין יותר מילות רגש (בעברית ובאנגלית) ונשאר בסגנון שבחרת."
+      ]
+    }
+  },
   "announcement": {}
 }
