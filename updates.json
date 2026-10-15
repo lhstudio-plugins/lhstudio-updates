@@ -28,7 +28,56 @@
       "notes_he": [
         "מוח אקורדים חכם יותר: מבין יותר מילות רגש (בעברית ובאנגלית) ונשאר בסגנון שבחרת."
       ]
+    },
+    "LH Limit": {
+      "version": "2.36.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Limit-Setup-2.36.0.exe",
+      "sha256": "bf63c75fbe626de2e6e0a9d80527ab829a5c81fc807b10c3f2090154a9573f7f",
+      "notes_en": [
+        "New: true-peak mastering limiter with 4 styles (CLEAN / PUNCH / DENSE / AGGRO).",
+        "AUTOMAT sets the GAIN for the loudness you choose.",
+        "LUFS + true-peak meters, UNITY, DELTA, oversampling up to 8x."
+      ],
+      "notes_he": [
+        "חדש: לימיטר מאסטרינג True Peak עם 4 סגנונות.",
+        "AUTOMAT קובע את ההגבר לפי העוצמה שבוחרים.",
+        "מדי LUFS ופיק אמיתי, אותה עוצמה, דלתא ודגימת יתר עד 8x."
+      ]
+    },
+    "LH Glue": {
+      "version": "2.36.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Glue-Setup-2.36.0.exe",
+      "sha256": "3d2cce3fae6f8bbb4278cf15079c7c37d1a039574ce333534cea7610204fc98f",
+      "notes_en": [
+        "New: console bus compressor - glues the mix together.",
+        "AUTO GAIN and a needle meter."
+      ],
+      "notes_he": [
+        "חדש: מדחס באס בסגנון קונסולה - מדביק את המיקס.",
+        "עם AUTO GAIN ומד מחוג."
+      ]
+    },
+    "LH Lift": {
+      "version": "2.36.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Lift-Setup-2.36.0.exe",
+      "sha256": "b9511a7460c012b11ca526d1351686a2ed50f2de285b0c45d7adae0291e1c4d6",
+      "notes_en": [
+        "New: multiband enhancer for presence and air.",
+        "5 modes: EXCITE / EXPAND / AIR / CRUSH / GATED."
+      ],
+      "notes_he": [
+        "חדש: אנהנסר מולטי-בנד לנוכחות ולאוויר.",
+        "5 מצבים: EXCITE / EXPAND / AIR / CRUSH / GATED."
+      ]
     }
   },
-  "announcement": {}
+  "announcement": {
+    "id": "lh-limit-2.36.0",
+    "plugin": "LH Limit",
+    "text_en": "LH Limit - a true-peak mastering limiter with 4 styles and AUTOMAT loudness.",
+    "text_he": "LH Limit - לימיטר מאסטרינג True Peak עם 4 סגנונות ו-AUTOMAT לעוצמה."
+  }
 }
