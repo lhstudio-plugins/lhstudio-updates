@@ -45,20 +45,6 @@
         "מדי LUFS ופיק אמיתי, אותה עוצמה, דלתא ודגימת יתר עד 8x."
       ]
     },
-    "LH Glue": {
-      "version": "2.36.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Glue-Setup-2.36.0.exe",
-      "sha256": "3d2cce3fae6f8bbb4278cf15079c7c37d1a039574ce333534cea7610204fc98f",
-      "notes_en": [
-        "New: console bus compressor - glues the mix together.",
-        "AUTO GAIN and a needle meter."
-      ],
-      "notes_he": [
-        "חדש: מדחס באס בסגנון קונסולה - מדביק את המיקס.",
-        "עם AUTO GAIN ומד מחוג."
-      ]
-    },
     "LH Lift": {
       "version": "2.36.0",
       "important": false,
