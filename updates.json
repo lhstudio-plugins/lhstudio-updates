@@ -220,6 +220,38 @@
         "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
         "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
       ]
+    },
+    "LH Drummer": {
+      "version": "2.39.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.39.0/LH-Drummer-Setup-2.39.0.exe",
+      "sha256": "4d278aa659fb427450ab67f9a3d05e69001801b5c07f0b09d54a3463753c63b4",
+      "notes_en": [
+        "New: a MIDI drummer + 16-pad sampler - grooves in 14 styles (~190 beats), fills into verse / chorus / bridge / drop (68 real-drummer phrases), smart touches.",
+        "Tell it what you want in Hebrew or English; bring your own groove (MIDI / audio) and it adds the fill and what is missing.",
+        "LOCK FILL keeps a fill you like; drag the MIDI straight into your DAW."
+      ],
+      "notes_he": [
+        "חדש: מתופף MIDI + סמפלר 16 פדים - גרוב ב-14 סגנונות (כ-190 מקצבים), מעברים לבית / פזמון / גשר / דרופ (68 פראזות של מתופף אמיתי), וטאצ'ים חכמים.",
+        "כותבים לו בעברית או באנגלית מה רוצים; מביאים גרוב משלכם (מידי / אודיו) והוא מוסיף מעבר ואת מה שחסר.",
+        "נעל מעבר שומר מעבר שאהבתם; גוררים את המידי ישר לתוכנה."
+      ]
+    },
+    "LH Inhale": {
+      "version": "2.39.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.39.0/LH-Inhale-Setup-2.39.0.exe",
+      "sha256": "e3eedc58f6a25bfdc7b74167a350578e3338d975ffae91e34a9496c3c1eede73",
+      "notes_en": [
+        "New: a reverse-reverb vocal riser - capture a phrase and get the swell that rises into it.",
+        "SPACE, SPEED (time only - the pitch stays), WIDTH, BREATH, SHAPE, VOICE; 13 presets.",
+        "Drag the riser straight into your DAW, on the beat."
+      ],
+      "notes_he": [
+        "חדש: רייזר ריוורס-ריוורב לווקאל - מקליטים משפט ומקבלים את הרייזר שעולה לתוכו.",
+        "מרחב, מהירות (רק זמן, הפיץ' נשמר), רוחב, נשימה, צורה, קול; 13 פריסטים.",
+        "גוררים את הרייזר ישר לתוכנה, על הביט."
+      ]
     }
   },
   "announcement": {
