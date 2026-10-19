@@ -222,19 +222,19 @@
       ]
     },
     "LH Drummer": {
-      "version": "2.39.0",
+      "version": "2.40.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.39.0/LH-Drummer-Setup-2.39.0.exe",
-      "sha256": "4d278aa659fb427450ab67f9a3d05e69001801b5c07f0b09d54a3463753c63b4",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.40.0/LH-Drummer-Setup-2.40.0.exe",
+      "sha256": "bb69b598e40dc3d672cfd1943e9914bbabe898ff61a2af864e7d5e1e37bbe328",
       "notes_en": [
-        "New: a MIDI drummer + 16-pad sampler - grooves in 14 styles (~190 beats), fills into verse / chorus / bridge / drop (68 real-drummer phrases), smart touches.",
-        "Tell it what you want in Hebrew or English; bring your own groove (MIDI / audio) and it adds the fill and what is missing.",
-        "LOCK FILL keeps a fill you like; drag the MIDI straight into your DAW."
+        "A built-in acoustic sound library: 39 real drum sounds, up to 12 velocity layers; a SOUND menu on every pad and a MY SOUNDS folder for your own.",
+        "100+ new beats, 68 real-drummer fills, LOCK FILL / NEW FILL, smart touches, and FX for all the drums (reverb, delay, EQ, compressor).",
+        "Fixes: the dragged MIDI has the exact length and full velocity; Cubase plays only your MIDI parts (PREVIEW = the drummer with the song); copy a hit / half a bar."
       ],
       "notes_he": [
-        "חדש: מתופף MIDI + סמפלר 16 פדים - גרוב ב-14 סגנונות (כ-190 מקצבים), מעברים לבית / פזמון / גשר / דרופ (68 פראזות של מתופף אמיתי), וטאצ'ים חכמים.",
-        "כותבים לו בעברית או באנגלית מה רוצים; מביאים גרוב משלכם (מידי / אודיו) והוא מוסיף מעבר ואת מה שחסר.",
-        "נעל מעבר שומר מעבר שאהבתם; גוררים את המידי ישר לתוכנה."
+        "ספריית סאונדים אקוסטית בתוך הפלאגין: 39 סאונדים של תופים אמיתיים, עד 12 רמות עוצמה; תפריט 'סאונד' לכל פד, ותיקיית 'הסאונדים שלי' לסאונדים משלכם.",
+        "מעל 100 מקצבים חדשים, 68 מעברים של מתופף אמיתי, נעל מעבר / מעבר חדש, טאצ'ים חכמים, ואפקטים לכל התופים (ריברב, דיליי, איקולייזר, קומפרסור).",
+        "תיקונים: המידי שגוררים באורך מדויק ובעוצמה מלאה; קיובייס מנגן רק את המידי שלכם (האזנה = המתופף עם השיר); העתקת מכה / חצי תיבה."
       ]
     },
     "LH Inhale": {
