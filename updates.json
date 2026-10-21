@@ -1,263 +1,339 @@
 {
-  "whatsapp": "972547103775",
-  "plugins": {
-    "LH Chord Studio": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Chord-Studio-Setup-2.37.0.exe",
-      "sha256": "5fd5484555bf04331d9b6dec8f2c1e3883ba26fc7fb255823de6b058b427349b",
-      "notes_en": [
-        "In Hebrew only the words change - nothing moves.",
-        "Interface polish."
-      ],
-      "notes_he": [
-        "בעברית רק המילים מתחלפות - שום דבר לא זז.",
-        "שיפורים בממשק."
-      ]
-    },
-    "LH Chord Finder": {
-      "version": "2.32.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.32.0/LH-Chord-Finder-Setup-2.32.0.exe",
-      "sha256": "7991a9a3bed024f251d39a164876771aaa406881c90fa2c67ff6dfc739da9886",
-      "notes_en": [
-        "Smarter chord brain: understands more feeling words (Hebrew and English) and keeps the chosen style."
-      ],
-      "notes_he": [
-        "מוח אקורדים חכם יותר: מבין יותר מילות רגש (בעברית ובאנגלית) ונשאר בסגנון שבחרת."
-      ]
-    },
-    "LH Limit": {
-      "version": "2.36.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Limit-Setup-2.36.0.exe",
-      "sha256": "bf63c75fbe626de2e6e0a9d80527ab829a5c81fc807b10c3f2090154a9573f7f",
-      "notes_en": [
-        "New: true-peak mastering limiter with 4 styles (CLEAN / PUNCH / DENSE / AGGRO).",
-        "AUTOMAT sets the GAIN for the loudness you choose.",
-        "LUFS + true-peak meters, UNITY, DELTA, oversampling up to 8x."
-      ],
-      "notes_he": [
-        "חדש: לימיטר מאסטרינג True Peak עם 4 סגנונות.",
-        "AUTOMAT קובע את ההגבר לפי העוצמה שבוחרים.",
-        "מדי LUFS ופיק אמיתי, אותה עוצמה, דלתא ודגימת יתר עד 8x."
-      ]
-    },
-    "LH Lift": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Lift-Setup-2.37.0.exe",
-      "sha256": "a0face1e67d3ab1dc20f09ae14d37203d6268ed36ab0c652563e04ef023fb4ee",
-      "notes_en": [
-        "New mode names: SPARKLE, OPEN, SILK, GRIT, TIGHT.",
-        "Cleaner controls: LIFT, DETECT and MIX."
-      ],
-      "notes_he": [
-        "שמות חדשים למצבים: ניצוץ, פתיחה, משי, גריט, הדוק.",
-        "בקרים פשוטים יותר: הרמה, זיהוי ומיקס."
-      ]
-    },
-    "LH Pulse": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Pulse-Setup-2.37.0.exe",
-      "sha256": "a5120562c3a3ac2921ee1b5a27836cd792b4c3c743dd7acc2827a1d8f270f478",
-      "notes_en": [
-        "New design: a big MOVE knob, a signal-chain strip you drag to reorder, and one large edit panel.",
-        "New ALL button: the whole chain at once in small cards.",
-        "New effect names (SQUASH, WOBBLE, REPEAT...). In Hebrew only the words change."
-      ],
-      "notes_he": [
-        "עיצוב חדש: כפתור תנועה גדול, שרשרת שגוררים כדי לשנות סדר, ופאנל עריכה גדול אחד.",
-        "כפתור 'כולם' חדש: כל השרשרת בבת אחת בכרטיסים קטנים.",
-        "שמות חדשים לאפקטים (דחיסה, גל, חזרה...). בעברית רק המילים מתחלפות."
-      ]
-    },
-    "LH Ember": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Ember-Setup-2.37.0.exe",
-      "sha256": "0a67dfdc6c40ef9947f46cac5f83be41e59c7663c80b65751f2e8da2f3cabf07",
-      "notes_en": [
-        "LH Saturn is now LH Ember - your old projects still open.",
-        "New Style Grid design with a big DRIVE dial and four TONE knobs."
-      ],
-      "notes_he": [
-        "LH Saturn נקרא עכשיו LH Ember - פרויקטים ישנים נפתחים כרגיל.",
-        "עיצוב חדש: רשת סגנונות, חוגת דרייב גדולה וארבעה כפתורי טון."
-      ]
-    },
-    "LH Snap": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Snap-Setup-2.37.0.exe",
-      "sha256": "06aec5f6bbf33902498285134314b0791f27404d47b0d864146381da95f2184c",
-      "notes_en": [
-        "LH Art Attack is now LH Snap - your old projects still open.",
-        "One big waveform, a new SLICES view of what the knobs do, and AUTO GAIN."
-      ],
-      "notes_he": [
-        "LH Art Attack נקרא עכשיו LH Snap - פרויקטים ישנים נפתחים כרגיל.",
-        "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
-      ]
-    },
-    "LH Cutter": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Cutter-Setup-2.37.0.exe",
-      "sha256": "1dc3a2c3e8b3ce4659e6ff02e7ebd537e999b2ba55f1f18989d83aeb0e72dd19",
-      "notes_en": [
-        "LH Chop is now LH Cutter - your old projects and presets still open."
-      ],
-      "notes_he": [
-        "LH Chop נקרא עכשיו LH Cutter - פרויקטים ופריסטים ישנים נפתחים כרגיל."
-      ]
-    },
-    "LH Flow": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Flow-Setup-2.37.0.exe",
-      "sha256": "e5925ea0381f0edd2f4727bd3545084ea8c0bff096d143b2f4edcbba4e74cb4a",
-      "notes_en": [
-        "LH Volume Shaper is now LH Flow - your old projects still open.",
-        "New library of 21 shapes for kick, bass, pump and gate."
-      ],
-      "notes_he": [
-        "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
-        "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
-      ]
-    },
-    "LH Auto Phase": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Auto-Phase-Setup-2.37.0.exe",
-      "sha256": "c904db6847b3c1072cbde1f031d5bef9c8bbc0bd81dbefb2bb408e5f5fb8d6b5",
-      "notes_en": [
-        "New wide design with a full-width scope.",
-        "In Hebrew only the words change."
-      ],
-      "notes_he": [
-        "עיצוב רחב חדש עם תצוגה על כל הרוחב.",
-        "בעברית רק המילים מתחלפות."
-      ]
-    },
-    "LH Vocal Tune": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Vocal-Tune-Setup-2.37.0.exe",
-      "sha256": "bcfda8228aeda9be4503f9c09dacc2787be6e3a87b2a85321383465ed300fb56",
-      "notes_en": [
-        "New design: a big pitch wheel, a KEY / SCALE pill and a piano that shows the note.",
-        "Click piano keys to build your own scale. New OUTPUT knob."
-      ],
-      "notes_he": [
-        "עיצוב חדש: גלגל גדול, בחירת סולם ופסנתר שמראה את התו.",
-        "לחיצה על קלידי הפסנתר בונה סולם משלך. כפתור יציאה חדש."
-      ]
-    },
-    "LH Voice Pitch": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Voice-Pitch-Setup-2.37.0.exe",
-      "sha256": "19f19fbb18a7f7a92db052ddf30df6c57b0da9fa3307a34c4f64e5c94eac999f",
-      "notes_en": [
-        "Refreshed design."
-      ],
-      "notes_he": [
-        "עיצוב מחודש."
-      ]
-    },
-    "LH Saturn": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Ember-Setup-2.37.0.exe",
-      "sha256": "0a67dfdc6c40ef9947f46cac5f83be41e59c7663c80b65751f2e8da2f3cabf07",
-      "notes_en": [
-        "LH Saturn is now LH Ember - your old projects still open.",
-        "New Style Grid design with a big DRIVE dial and four TONE knobs."
-      ],
-      "notes_he": [
-        "LH Saturn נקרא עכשיו LH Ember - פרויקטים ישנים נפתחים כרגיל.",
-        "עיצוב חדש: רשת סגנונות, חוגת דרייב גדולה וארבעה כפתורי טון."
-      ]
-    },
-    "LH Art Attack": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Snap-Setup-2.37.0.exe",
-      "sha256": "06aec5f6bbf33902498285134314b0791f27404d47b0d864146381da95f2184c",
-      "notes_en": [
-        "LH Art Attack is now LH Snap - your old projects still open.",
-        "One big waveform, a new SLICES view of what the knobs do, and AUTO GAIN."
-      ],
-      "notes_he": [
-        "LH Art Attack נקרא עכשיו LH Snap - פרויקטים ישנים נפתחים כרגיל.",
-        "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
-      ]
-    },
-    "LH Chop": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Cutter-Setup-2.37.0.exe",
-      "sha256": "1dc3a2c3e8b3ce4659e6ff02e7ebd537e999b2ba55f1f18989d83aeb0e72dd19",
-      "notes_en": [
-        "LH Chop is now LH Cutter - your old projects and presets still open."
-      ],
-      "notes_he": [
-        "LH Chop נקרא עכשיו LH Cutter - פרויקטים ופריסטים ישנים נפתחים כרגיל."
-      ]
-    },
-    "LH Volume Shaper": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Flow-Setup-2.37.0.exe",
-      "sha256": "e5925ea0381f0edd2f4727bd3545084ea8c0bff096d143b2f4edcbba4e74cb4a",
-      "notes_en": [
-        "LH Volume Shaper is now LH Flow - your old projects still open.",
-        "New library of 21 shapes for kick, bass, pump and gate."
-      ],
-      "notes_he": [
-        "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
-        "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
-      ]
-    },
-    "LH Drummer": {
-      "version": "2.40.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.40.0/LH-Drummer-Setup-2.40.0.exe",
-      "sha256": "bb69b598e40dc3d672cfd1943e9914bbabe898ff61a2af864e7d5e1e37bbe328",
-      "notes_en": [
-        "A built-in acoustic sound library: 39 real drum sounds, up to 12 velocity layers; a SOUND menu on every pad and a MY SOUNDS folder for your own.",
-        "100+ new beats, 68 real-drummer fills, LOCK FILL / NEW FILL, smart touches, and FX for all the drums (reverb, delay, EQ, compressor).",
-        "Fixes: the dragged MIDI has the exact length and full velocity; Cubase plays only your MIDI parts (PREVIEW = the drummer with the song); copy a hit / half a bar."
-      ],
-      "notes_he": [
-        "ספריית סאונדים אקוסטית בתוך הפלאגין: 39 סאונדים של תופים אמיתיים, עד 12 רמות עוצמה; תפריט 'סאונד' לכל פד, ותיקיית 'הסאונדים שלי' לסאונדים משלכם.",
-        "מעל 100 מקצבים חדשים, 68 מעברים של מתופף אמיתי, נעל מעבר / מעבר חדש, טאצ'ים חכמים, ואפקטים לכל התופים (ריברב, דיליי, איקולייזר, קומפרסור).",
-        "תיקונים: המידי שגוררים באורך מדויק ובעוצמה מלאה; קיובייס מנגן רק את המידי שלכם (האזנה = המתופף עם השיר); העתקת מכה / חצי תיבה."
-      ]
-    },
-    "LH Inhale": {
-      "version": "2.39.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.39.0/LH-Inhale-Setup-2.39.0.exe",
-      "sha256": "e3eedc58f6a25bfdc7b74167a350578e3338d975ffae91e34a9496c3c1eede73",
-      "notes_en": [
-        "New: a reverse-reverb vocal riser - capture a phrase and get the swell that rises into it.",
-        "SPACE, SPEED (time only - the pitch stays), WIDTH, BREATH, SHAPE, VOICE; 13 presets.",
-        "Drag the riser straight into your DAW, on the beat."
-      ],
-      "notes_he": [
-        "חדש: רייזר ריוורס-ריוורב לווקאל - מקליטים משפט ומקבלים את הרייזר שעולה לתוכו.",
-        "מרחב, מהירות (רק זמן, הפיץ' נשמר), רוחב, נשימה, צורה, קול; 13 פריסטים.",
-        "גוררים את הרייזר ישר לתוכנה, על הביט."
-      ]
-    }
-  },
-  "announcement": {
-    "id": "lh-limit-2.36.0",
-    "plugin": "LH Limit",
-    "text_en": "LH Limit - a true-peak mastering limiter with 4 styles and AUTOMAT loudness.",
-    "text_he": "LH Limit - לימיטר מאסטרינג True Peak עם 4 סגנונות ו-AUTOMAT לעוצמה."
-  }
+    "whatsapp":  "972547103775",
+    "plugins":  {
+                    "LH Chord Finder":  {
+                                            "version":  "2.32.0",
+                                            "important":  false,
+                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.32.0/LH-Chord-Finder-Setup-2.32.0.exe",
+                                            "sha256":  "7991a9a3bed024f251d39a164876771aaa406881c90fa2c67ff6dfc739da9886",
+                                            "notes_en":  [
+                                                             "Smarter chord brain: understands more feeling words (Hebrew and English) and keeps the chosen style."
+                                                         ],
+                                            "notes_he":  [
+                                                             "מוח אקורדים חכם יותר: מבין יותר מילות רגש (בעברית ובאנגלית) ונשאר בסגנון שבחרת."
+                                                         ]
+                                        },
+                    "LH Limit":  {
+                                     "version":  "2.36.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Limit-Setup-2.36.0.exe",
+                                     "sha256":  "bf63c75fbe626de2e6e0a9d80527ab829a5c81fc807b10c3f2090154a9573f7f",
+                                     "notes_en":  [
+                                                      "New: true-peak mastering limiter with 4 styles (CLEAN / PUNCH / DENSE / AGGRO).",
+                                                      "AUTOMAT sets the GAIN for the loudness you choose.",
+                                                      "LUFS + true-peak meters, UNITY, DELTA, oversampling up to 8x."
+                                                  ],
+                                     "notes_he":  [
+                                                      "חדש: לימיטר מאסטרינג True Peak עם 4 סגנונות.",
+                                                      "AUTOMAT קובע את ההגבר לפי העוצמה שבוחרים.",
+                                                      "מדי LUFS ופיק אמיתי, אותה עוצמה, דלתא ודגימת יתר עד 8x."
+                                                  ]
+                                 },
+                    "LH Lift":  {
+                                    "version":  "2.37.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Lift-Setup-2.37.0.exe",
+                                    "sha256":  "a0face1e67d3ab1dc20f09ae14d37203d6268ed36ab0c652563e04ef023fb4ee",
+                                    "notes_en":  [
+                                                     "New mode names: SPARKLE, OPEN, SILK, GRIT, TIGHT.",
+                                                     "Cleaner controls: LIFT, DETECT and MIX."
+                                                 ],
+                                    "notes_he":  [
+                                                     "שמות חדשים למצבים: ניצוץ, פתיחה, משי, גריט, הדוק.",
+                                                     "בקרים פשוטים יותר: הרמה, זיהוי ומיקס."
+                                                 ]
+                                },
+                    "LH Pulse":  {
+                                     "version":  "2.37.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Pulse-Setup-2.37.0.exe",
+                                     "sha256":  "a5120562c3a3ac2921ee1b5a27836cd792b4c3c743dd7acc2827a1d8f270f478",
+                                     "notes_en":  [
+                                                      "New design: a big MOVE knob, a signal-chain strip you drag to reorder, and one large edit panel.",
+                                                      "New ALL button: the whole chain at once in small cards.",
+                                                      "New effect names (SQUASH, WOBBLE, REPEAT...). In Hebrew only the words change."
+                                                  ],
+                                     "notes_he":  [
+                                                      "עיצוב חדש: כפתור תנועה גדול, שרשרת שגוררים כדי לשנות סדר, ופאנל עריכה גדול אחד.",
+                                                      "כפתור \u0027כולם\u0027 חדש: כל השרשרת בבת אחת בכרטיסים קטנים.",
+                                                      "שמות חדשים לאפקטים (דחיסה, גל, חזרה...). בעברית רק המילים מתחלפות."
+                                                  ]
+                                 },
+                    "LH Ember":  {
+                                     "version":  "2.37.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Ember-Setup-2.37.0.exe",
+                                     "sha256":  "0a67dfdc6c40ef9947f46cac5f83be41e59c7663c80b65751f2e8da2f3cabf07",
+                                     "notes_en":  [
+                                                      "LH Saturn is now LH Ember - your old projects still open.",
+                                                      "New Style Grid design with a big DRIVE dial and four TONE knobs."
+                                                  ],
+                                     "notes_he":  [
+                                                      "LH Saturn נקרא עכשיו LH Ember - פרויקטים ישנים נפתחים כרגיל.",
+                                                      "עיצוב חדש: רשת סגנונות, חוגת דרייב גדולה וארבעה כפתורי טון."
+                                                  ]
+                                 },
+                    "LH Snap":  {
+                                    "version":  "2.37.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Snap-Setup-2.37.0.exe",
+                                    "sha256":  "06aec5f6bbf33902498285134314b0791f27404d47b0d864146381da95f2184c",
+                                    "notes_en":  [
+                                                     "LH Art Attack is now LH Snap - your old projects still open.",
+                                                     "One big waveform, a new SLICES view of what the knobs do, and AUTO GAIN."
+                                                 ],
+                                    "notes_he":  [
+                                                     "LH Art Attack נקרא עכשיו LH Snap - פרויקטים ישנים נפתחים כרגיל.",
+                                                     "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
+                                                 ]
+                                },
+                    "LH Flow":  {
+                                    "version":  "2.37.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Flow-Setup-2.37.0.exe",
+                                    "sha256":  "e5925ea0381f0edd2f4727bd3545084ea8c0bff096d143b2f4edcbba4e74cb4a",
+                                    "notes_en":  [
+                                                     "LH Volume Shaper is now LH Flow - your old projects still open.",
+                                                     "New library of 21 shapes for kick, bass, pump and gate."
+                                                 ],
+                                    "notes_he":  [
+                                                     "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
+                                                     "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
+                                                 ]
+                                },
+                    "LH Auto Phase":  {
+                                          "version":  "2.37.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Auto-Phase-Setup-2.37.0.exe",
+                                          "sha256":  "c904db6847b3c1072cbde1f031d5bef9c8bbc0bd81dbefb2bb408e5f5fb8d6b5",
+                                          "notes_en":  [
+                                                           "New wide design with a full-width scope.",
+                                                           "In Hebrew only the words change."
+                                                       ],
+                                          "notes_he":  [
+                                                           "עיצוב רחב חדש עם תצוגה על כל הרוחב.",
+                                                           "בעברית רק המילים מתחלפות."
+                                                       ]
+                                      },
+                    "LH Vocal Tune":  {
+                                          "version":  "2.37.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Vocal-Tune-Setup-2.37.0.exe",
+                                          "sha256":  "bcfda8228aeda9be4503f9c09dacc2787be6e3a87b2a85321383465ed300fb56",
+                                          "notes_en":  [
+                                                           "New design: a big pitch wheel, a KEY / SCALE pill and a piano that shows the note.",
+                                                           "Click piano keys to build your own scale. New OUTPUT knob."
+                                                       ],
+                                          "notes_he":  [
+                                                           "עיצוב חדש: גלגל גדול, בחירת סולם ופסנתר שמראה את התו.",
+                                                           "לחיצה על קלידי הפסנתר בונה סולם משלך. כפתור יציאה חדש."
+                                                       ]
+                                      },
+                    "LH Voice Pitch":  {
+                                           "version":  "2.37.0",
+                                           "important":  false,
+                                           "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Voice-Pitch-Setup-2.37.0.exe",
+                                           "sha256":  "19f19fbb18a7f7a92db052ddf30df6c57b0da9fa3307a34c4f64e5c94eac999f",
+                                           "notes_en":  [
+                                                            "Refreshed design."
+                                                        ],
+                                           "notes_he":  [
+                                                            "עיצוב מחודש."
+                                                        ]
+                                       },
+                    "LH Saturn":  {
+                                      "version":  "2.37.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Ember-Setup-2.37.0.exe",
+                                      "sha256":  "0a67dfdc6c40ef9947f46cac5f83be41e59c7663c80b65751f2e8da2f3cabf07",
+                                      "notes_en":  [
+                                                       "LH Saturn is now LH Ember - your old projects still open.",
+                                                       "New Style Grid design with a big DRIVE dial and four TONE knobs."
+                                                   ],
+                                      "notes_he":  [
+                                                       "LH Saturn נקרא עכשיו LH Ember - פרויקטים ישנים נפתחים כרגיל.",
+                                                       "עיצוב חדש: רשת סגנונות, חוגת דרייב גדולה וארבעה כפתורי טון."
+                                                   ]
+                                  },
+                    "LH Art Attack":  {
+                                          "version":  "2.37.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Snap-Setup-2.37.0.exe",
+                                          "sha256":  "06aec5f6bbf33902498285134314b0791f27404d47b0d864146381da95f2184c",
+                                          "notes_en":  [
+                                                           "LH Art Attack is now LH Snap - your old projects still open.",
+                                                           "One big waveform, a new SLICES view of what the knobs do, and AUTO GAIN."
+                                                       ],
+                                          "notes_he":  [
+                                                           "LH Art Attack נקרא עכשיו LH Snap - פרויקטים ישנים נפתחים כרגיל.",
+                                                           "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
+                                                       ]
+                                      },
+                    "LH Volume Shaper":  {
+                                             "version":  "2.37.0",
+                                             "important":  false,
+                                             "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Flow-Setup-2.37.0.exe",
+                                             "sha256":  "e5925ea0381f0edd2f4727bd3545084ea8c0bff096d143b2f4edcbba4e74cb4a",
+                                             "notes_en":  [
+                                                              "LH Volume Shaper is now LH Flow - your old projects still open.",
+                                                              "New library of 21 shapes for kick, bass, pump and gate."
+                                                          ],
+                                             "notes_he":  [
+                                                              "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
+                                                              "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
+                                                          ]
+                                         },
+                    "LH Inhale":  {
+                                      "version":  "2.39.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.39.0/LH-Inhale-Setup-2.39.0.exe",
+                                      "sha256":  "e3eedc58f6a25bfdc7b74167a350578e3338d975ffae91e34a9496c3c1eede73",
+                                      "notes_en":  [
+                                                       "New: a reverse-reverb vocal riser - capture a phrase and get the swell that rises into it.",
+                                                       "SPACE, SPEED (time only - the pitch stays), WIDTH, BREATH, SHAPE, VOICE; 13 presets.",
+                                                       "Drag the riser straight into your DAW, on the beat."
+                                                   ],
+                                      "notes_he":  [
+                                                       "חדש: רייזר ריוורס-ריוורב לווקאל - מקליטים משפט ומקבלים את הרייזר שעולה לתוכו.",
+                                                       "מרחב, מהירות (רק זמן, הפיץ\u0027 נשמר), רוחב, נשימה, צורה, קול; 13 פריסטים.",
+                                                       "גוררים את הרייזר ישר לתוכנה, על הביט."
+                                                   ]
+                                  },
+                    "LH Dyna":  {
+                                    "version":  "2.43.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Dyna-Setup-2.43.0.exe",
+                                    "sha256":  "fb00b4fc5a8391b09968c90a8c2b509cf1114b379a1a2de906aa743036475b71",
+                                    "notes_en":  [
+                                                     "New look: the whole window is the graph, and each band\u0027s controls float in a small panel at the bottom.",
+                                                     "New ATTACK and RELEASE knobs, + ADD BAND and LINK SPEED.",
+                                                     "An S button above every band, double-click a point = back to 0, and a much lighter load on the computer."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: כל החלון הוא הגרף, והכפתורים של כל באנד בפאנל קטן למטה.",
+                                                     "כפתורי התקפה ושחרור חדשים, הוספת באנד וקישור מהירות.",
+                                                     "כפתור S מעל כל באנד, לחיצה כפולה מחזירה נקודה ל-0, והרבה פחות עומס על המחשב."
+                                                 ]
+                                },
+                    "LH Drummer":  {
+                                       "version":  "2.43.0",
+                                       "important":  false,
+                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Drummer-Setup-2.43.0.exe",
+                                       "sha256":  "5d2ad1aba7e50369e2cfb3177b7c078a25f90cd4ef5eaaf804dc3ad859de3c31",
+                                       "notes_en":  [
+                                                        "New SPLIT screen: drop a drum loop and it is split into rows.",
+                                                        "Right-click a row: replace, change, edit its pad or remove it.",
+                                                        "A clearer grid."
+                                                    ],
+                                       "notes_he":  [
+                                                        "מסך SPLIT חדש: גוררים לופ תופים והוא מתפרק לשורות.",
+                                                        "קליק ימני על שורה: החלפה, שינוי, עריכת הפד או מחיקה.",
+                                                        "רשת ברורה יותר."
+                                                    ]
+                                   },
+                    "LH Chord Studio":  {
+                                            "version":  "2.43.0",
+                                            "important":  false,
+                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Chord-Studio-Setup-2.43.0.exe",
+                                            "sha256":  "1727d50d7168bfc6d570d1d7c64c9545d3e34777c4073dfaf13ed29d61ceb2d4",
+                                            "notes_en":  [
+                                                             "New OPEN button under SOUND opens the external instrument.",
+                                                             "Right-click CHANGE CHORD opens instantly."
+                                                         ],
+                                            "notes_he":  [
+                                                             "כפתור פתח חדש מתחת ל-SOUND שפותח את הכלי החיצוני.",
+                                                             "קליק ימני להחלפת אקורד נפתח מיד."
+                                                         ]
+                                        },
+                    "LH Cutter":  {
+                                      "version":  "2.43.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Cutter-Setup-2.43.0.exe",
+                                      "sha256":  "9eb811a9655e079f031744ef3b194cc201092470e06be2c12d3882b51cc9a5c1",
+                                      "notes_en":  [
+                                                       "A capture that starts before the vocal no longer leaves empty slices."
+                                                   ],
+                                      "notes_he":  [
+                                                       "הקלטה שמתחילה לפני השירה כבר לא משאירה פרוסות ריקות."
+                                                   ]
+                                  },
+                    "LH Chop":  {
+                                    "version":  "2.43.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Cutter-Setup-2.43.0.exe",
+                                    "sha256":  "9eb811a9655e079f031744ef3b194cc201092470e06be2c12d3882b51cc9a5c1",
+                                    "notes_en":  [
+                                                     "A capture that starts before the vocal no longer leaves empty slices."
+                                                 ],
+                                    "notes_he":  [
+                                                     "הקלטה שמתחילה לפני השירה כבר לא משאירה פרוסות ריקות."
+                                                 ]
+                                },
+                    "LH Distortion":  {
+                                          "version":  "2.43.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Distortion-Setup-2.43.0.exe",
+                                          "sha256":  "484380d6613f3569866e0d5d6ee81bc6c09e2a8dea6de09c6d45f2294fafbbe0",
+                                          "notes_en":  [
+                                                           "New AUTO GAIN button keeps the level steady while you push harder."
+                                                       ],
+                                          "notes_he":  [
+                                                           "כפתור AUTO GAIN חדש ששומר על העוצמה גם כשמגבירים את העיוות."
+                                                       ]
+                                      },
+                    "LH Clean":  {
+                                     "version":  "2.43.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Clean-Setup-2.43.0.exe",
+                                     "sha256":  "884d144ff8408479c5be5dc53aeabc03f06cb46e45e16d6d31c0a2ea1517920d",
+                                     "notes_en":  [
+                                                      "Clearer display, and fixes."
+                                                  ],
+                                     "notes_he":  [
+                                                      "תצוגה ברורה יותר ותיקונים."
+                                                  ]
+                                 },
+                    "LH EQ":  {
+                                  "version":  "2.43.0",
+                                  "important":  false,
+                                  "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-EQ-Setup-2.43.0.exe",
+                                  "sha256":  "437c757341affab8c6b8621f8b579fdd5e565dcfb696bc38a5f153fca5f4e61d",
+                                  "notes_en":  [
+                                                   "First release."
+                                               ],
+                                  "notes_he":  [
+                                                   "גרסה ראשונה."
+                                               ]
+                              },
+                    "LH De-Esser":  {
+                                        "version":  "2.43.0",
+                                        "important":  false,
+                                        "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-De-Esser-Setup-2.43.0.exe",
+                                        "sha256":  "8daed0860da761de1e918aaac43473e5e2218802e83d2a29270f43a0c2ffb556",
+                                        "notes_en":  [
+                                                         "First release."
+                                                     ],
+                                        "notes_he":  [
+                                                         "גרסה ראשונה."
+                                                     ]
+                                    },
+                    "LH Harmony":  {
+                                       "version":  "2.43.0",
+                                       "important":  false,
+                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Harmony-Setup-2.43.0.exe",
+                                       "sha256":  "dbcbf175e48c20a656877a793b32a9e6fea37bb251c0156f626b8dba13752eab",
+                                       "notes_en":  [
+                                                        "First release."
+                                                    ],
+                                       "notes_he":  [
+                                                        "גרסה ראשונה."
+                                                    ]
+                                   }
+                },
+    "announcement":  {
+                         "id":  "lh-limit-2.36.0",
+                         "plugin":  "LH Limit",
+                         "text_en":  "LH Limit - a true-peak mastering limiter with 4 styles and AUTOMAT loudness.",
+                         "text_he":  "LH Limit - לימיטר מאסטרינג True Peak עם 4 סגנונות ו-AUTOMAT לעוצמה."
+                     }
 }
