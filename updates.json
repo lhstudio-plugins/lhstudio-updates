@@ -329,15 +329,15 @@
                                     "version":  "2.44.0",
                                     "important":  false,
                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Kick-Setup-2.44.0.exe",
-                                    "sha256":  "0a3cce546db13d0bb38927b48aa060c52fc9416cf539a62f4d94d16f6de9fae8",
+                                    "sha256":  "4cf21fc02e66b2aa17ef1c4392c3eb3071771833754d3d7ef86844b9854782cc",
                                     "notes_en":  [
                                                      "New: a kick-drum instrument - draw the PITCH and VOLUME curves with the mouse and hear it change as you drag.",
-                                                     "IMPORT FROM SONG: drop a song, it finds the cleanest kick (not the darbuka) and rebuilds it as curves you can edit.",
+                                                     "44 ready kicks by style: club, trance, remix, wedding, punchy, full.",
                                                      "Tuned to your song\u0027s key, our own click library, drag the kick straight into Cubase."
                                                  ],
                                     "notes_he":  [
                                                      "חדש: כלי לבניית קיק - מציירים עם העכבר את עקומות הגובה והעוצמה ושומעים את השינוי תוך כדי גרירה.",
-                                                     "ייבוא משיר: גוררים שיר, הוא מוצא את הקיק הכי נקי (לא את הדרבוקה) ובונה אותו מחדש כעקומות לעריכה.",
+                                                     "44 קיקים מוכנים לפי סגנון: מועדונים, טראנס, רמיקסים, חתונות, פאנצ\u0027י, מלא.",
                                                      "מכוון לסולם של השיר, ספריית קליקים משלנו, וגוררים את הקיק ישר לקיובייס."
                                                  ]
                                 },
