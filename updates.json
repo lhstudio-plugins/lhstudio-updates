@@ -184,19 +184,17 @@
                                                           ]
                                          },
                     "LH Inhale":  {
-                                      "version":  "2.39.0",
+                                      "version":  "2.44.0",
                                       "important":  false,
-                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.39.0/LH-Inhale-Setup-2.39.0.exe",
-                                      "sha256":  "e3eedc58f6a25bfdc7b74167a350578e3338d975ffae91e34a9496c3c1eede73",
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Inhale-Setup-2.44.0.exe",
+                                      "sha256":  "23b50c3b9037ba0afc9c2ce8e1aa24e940c5fd7cf6292ca1f925872e9842ae86",
                                       "notes_en":  [
-                                                       "New: a reverse-reverb vocal riser - capture a phrase and get the swell that rises into it.",
-                                                       "SPACE, SPEED (time only - the pitch stays), WIDTH, BREATH, SHAPE, VOICE; 13 presets.",
-                                                       "Drag the riser straight into your DAW, on the beat."
+                                                       "New TREMOLO wave: SINE, SQUARE or TRIANGLE, with a SPEED pad.",
+                                                       "SLOW keeps the rise exactly as before - no jump at the start."
                                                    ],
                                       "notes_he":  [
-                                                       "חדש: רייזר ריוורס-ריוורב לווקאל - מקליטים משפט ומקבלים את הרייזר שעולה לתוכו.",
-                                                       "מרחב, מהירות (רק זמן, הפיץ\u0027 נשמר), רוחב, נשימה, צורה, קול; 13 פריסטים.",
-                                                       "גוררים את הרייזר ישר לתוכנה, על הביט."
+                                                       "גל טרמולו חדש: סינוס, ריבוע או משולש, עם משטח מהירות.",
+                                                       "איטי שומר על העלייה בדיוק כמו קודם - בלי קפיצה בהתחלה."
                                                    ]
                                   },
                     "LH Dyna":  {
@@ -216,33 +214,31 @@
                                                  ]
                                 },
                     "LH Drummer":  {
-                                       "version":  "2.43.0",
+                                       "version":  "2.44.0",
                                        "important":  false,
-                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Drummer-Setup-2.43.0.exe",
-                                       "sha256":  "5d2ad1aba7e50369e2cfb3177b7c078a25f90cd4ef5eaaf804dc3ad859de3c31",
+                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Drummer-Setup-2.44.0.exe",
+                                       "sha256":  "0787cf2786493adcf012aaa77040fa88b7288174977d1d8d6a3d8609bfd1e301",
                                        "notes_en":  [
-                                                        "New SPLIT screen: drop a drum loop and it is split into rows.",
-                                                        "Right-click a row: replace, change, edit its pad or remove it.",
-                                                        "A clearer grid."
+                                                        "The SPLIT screen moved out: splitting a drum loop now lives in LH Loop DNA.",
+                                                        "Drummer is lighter and simpler again: beats, fills, PADS and YOUR GROOVE."
                                                     ],
                                        "notes_he":  [
-                                                        "מסך SPLIT חדש: גוררים לופ תופים והוא מתפרק לשורות.",
-                                                        "קליק ימני על שורה: החלפה, שינוי, עריכת הפד או מחיקה.",
-                                                        "רשת ברורה יותר."
+                                                        "מסך SPLIT יצא מהדראמר: פירוק לופ תופים נמצא עכשיו ב-LH Loop DNA.",
+                                                        "הדראמר שוב קל ופשוט: ביטים, מילויים, פדים ו-YOUR GROOVE."
                                                     ]
                                    },
                     "LH Chord Studio":  {
-                                            "version":  "2.43.0",
+                                            "version":  "2.44.0",
                                             "important":  false,
-                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Chord-Studio-Setup-2.43.0.exe",
-                                            "sha256":  "1727d50d7168bfc6d570d1d7c64c9545d3e34777c4073dfaf13ed29d61ceb2d4",
+                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Chord-Studio-Setup-2.44.0.exe",
+                                            "sha256":  "11c66273a2cb5eb5388d182612a29c0ae1437c31d146bf2c7ff13d3f93e95b2b",
                                             "notes_en":  [
-                                                             "New OPEN button under SOUND opens the external instrument.",
-                                                             "Right-click CHANGE CHORD opens instantly."
+                                                             "Much lighter on the CPU while it plays (about half).",
+                                                             "Right-click CHANGE CHORD shows the whole list at once."
                                                          ],
                                             "notes_he":  [
-                                                             "כפתור פתח חדש מתחת ל-SOUND שפותח את הכלי החיצוני.",
-                                                             "קליק ימני להחלפת אקורד נפתח מיד."
+                                                             "הרבה יותר קל על המעבד בזמן נגינה (בערך חצי).",
+                                                             "קליק ימני לשינוי אקורד מראה את כל הרשימה בבת אחת."
                                                          ]
                                         },
                     "LH Cutter":  {
@@ -328,7 +324,79 @@
                                        "notes_he":  [
                                                         "גרסה ראשונה."
                                                     ]
-                                   }
+                                   },
+                    "LH Kick":  {
+                                    "version":  "2.44.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Kick-Setup-2.44.0.exe",
+                                    "sha256":  "0a3cce546db13d0bb38927b48aa060c52fc9416cf539a62f4d94d16f6de9fae8",
+                                    "notes_en":  [
+                                                     "New: a kick-drum instrument - draw the PITCH and VOLUME curves with the mouse and hear it change as you drag.",
+                                                     "IMPORT FROM SONG: drop a song, it finds the cleanest kick (not the darbuka) and rebuilds it as curves you can edit.",
+                                                     "Tuned to your song\u0027s key, our own click library, drag the kick straight into Cubase."
+                                                 ],
+                                    "notes_he":  [
+                                                     "חדש: כלי לבניית קיק - מציירים עם העכבר את עקומות הגובה והעוצמה ושומעים את השינוי תוך כדי גרירה.",
+                                                     "ייבוא משיר: גוררים שיר, הוא מוצא את הקיק הכי נקי (לא את הדרבוקה) ובונה אותו מחדש כעקומות לעריכה.",
+                                                     "מכוון לסולם של השיר, ספריית קליקים משלנו, וגוררים את הקיק ישר לקיובייס."
+                                                 ]
+                                },
+                    "LH Granular":  {
+                                        "version":  "2.44.0",
+                                        "important":  false,
+                                        "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Granular-Setup-2.44.0.exe",
+                                        "sha256":  "b3e4d4866ab94beba12f12324d4eed9cb268fd4a69418ce97792c2a9887c53a0",
+                                        "notes_en":  [
+                                                         "New: a live granular effect - turns any sound into clouds, shimmers and stutters.",
+                                                         "42 presets in 4 groups: vocal, pads, synth, FX and rhythm."
+                                                     ],
+                                        "notes_he":  [
+                                                         "חדש: אפקט גרנולרי חי - הופך כל סאונד לעננים, נצנוצים וגמגומים.",
+                                                         "42 פריסטים ב-4 קבוצות: ווקאל, פדים, סינת\u0027, אפקטים וקצב."
+                                                     ]
+                                    },
+                    "LH Modulation":  {
+                                          "version":  "2.44.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Modulation-Setup-2.44.0.exe",
+                                          "sha256":  "12f3b7b504b2de433663fcb8c6ae283ac01260490802d0e47f62ba9805a46c6f",
+                                          "notes_en":  [
+                                                           "New ONE-EFFECT view: SINGLE opens one big panel for one effect, with tabs to switch.",
+                                                           "Light another tab\u0027s LED to add that effect to the chain."
+                                                       ],
+                                          "notes_he":  [
+                                                           "תצוגת אפקט אחד חדשה: SINGLE פותח פאנל גדול לאפקט אחד, עם לשוניות להחלפה.",
+                                                           "מדליקים את הנורה של לשונית אחרת כדי להוסיף את האפקט הזה לשרשרת."
+                                                       ]
+                                      },
+                    "LH Sample Finder":  {
+                                             "version":  "2.44.0",
+                                             "important":  false,
+                                             "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Sample-Finder-Setup-2.44.0.exe",
+                                             "sha256":  "14fab29fa6c1b7ee672ed01b157a655b5dad7dea7468da39fcf842e0d6611da3",
+                                             "notes_en":  [
+                                                              "New KEY column: kicks, 808s, subs, bass and tom one-shots show their note.",
+                                                              "Filter by key (C..B or NO KEY) to find a kick that fits your song."
+                                                          ],
+                                             "notes_he":  [
+                                                              "עמודת KEY חדשה: קיקים, 808, סאבים, בסים וטומים מראים את התו שלהם.",
+                                                              "סינון לפי תו (C..B או בלי תו) כדי למצוא קיק שמתאים לשיר."
+                                                          ]
+                                         },
+                    "LH Sub":  {
+                                   "version":  "2.44.0",
+                                   "important":  true,
+                                   "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Sub-Setup-2.44.0.exe",
+                                   "sha256":  "13846ee0477fd714e02cbd8d53d72976f66aa66302a368e7606efef58702ea5a",
+                                   "notes_en":  [
+                                                    "Stability fix: a rare crash in the host is fixed.",
+                                                    "Recommended for everyone."
+                                                ],
+                                   "notes_he":  [
+                                                    "תיקון יציבות: קריסה נדירה בתוכנה תוקנה.",
+                                                    "מומלץ לכולם."
+                                                ]
+                               }
                 },
     "announcement":  {
                          "id":  "lh-limit-2.36.0",
