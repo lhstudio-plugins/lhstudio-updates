@@ -87,34 +87,6 @@
                                                      "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
                                                  ]
                                 },
-                    "LH Flow":  {
-                                    "version":  "2.37.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Flow-Setup-2.37.0.exe",
-                                    "sha256":  "e5925ea0381f0edd2f4727bd3545084ea8c0bff096d143b2f4edcbba4e74cb4a",
-                                    "notes_en":  [
-                                                     "LH Volume Shaper is now LH Flow - your old projects still open.",
-                                                     "New library of 21 shapes for kick, bass, pump and gate."
-                                                 ],
-                                    "notes_he":  [
-                                                     "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
-                                                     "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
-                                                 ]
-                                },
-                    "LH Auto Phase":  {
-                                          "version":  "2.37.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Auto-Phase-Setup-2.37.0.exe",
-                                          "sha256":  "c904db6847b3c1072cbde1f031d5bef9c8bbc0bd81dbefb2bb408e5f5fb8d6b5",
-                                          "notes_en":  [
-                                                           "New wide design with a full-width scope.",
-                                                           "In Hebrew only the words change."
-                                                       ],
-                                          "notes_he":  [
-                                                           "עיצוב רחב חדש עם תצוגה על כל הרוחב.",
-                                                           "בעברית רק המילים מתחלפות."
-                                                       ]
-                                      },
                     "LH Vocal Tune":  {
                                           "version":  "2.37.0",
                                           "important":  false,
@@ -129,18 +101,6 @@
                                                            "לחיצה על קלידי הפסנתר בונה סולם משלך. כפתור יציאה חדש."
                                                        ]
                                       },
-                    "LH Voice Pitch":  {
-                                           "version":  "2.37.0",
-                                           "important":  false,
-                                           "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Voice-Pitch-Setup-2.37.0.exe",
-                                           "sha256":  "19f19fbb18a7f7a92db052ddf30df6c57b0da9fa3307a34c4f64e5c94eac999f",
-                                           "notes_en":  [
-                                                            "Refreshed design."
-                                                        ],
-                                           "notes_he":  [
-                                                            "עיצוב מחודש."
-                                                        ]
-                                       },
                     "LH Saturn":  {
                                       "version":  "2.37.0",
                                       "important":  false,
@@ -169,20 +129,6 @@
                                                            "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
                                                        ]
                                       },
-                    "LH Volume Shaper":  {
-                                             "version":  "2.37.0",
-                                             "important":  false,
-                                             "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Flow-Setup-2.37.0.exe",
-                                             "sha256":  "e5925ea0381f0edd2f4727bd3545084ea8c0bff096d143b2f4edcbba4e74cb4a",
-                                             "notes_en":  [
-                                                              "LH Volume Shaper is now LH Flow - your old projects still open.",
-                                                              "New library of 21 shapes for kick, bass, pump and gate."
-                                                          ],
-                                             "notes_he":  [
-                                                              "LH Volume Shaper נקרא עכשיו LH Flow - פרויקטים ישנים נפתחים כרגיל.",
-                                                              "ספרייה חדשה של 21 צורות לקיק, בס, פאמפ ושער."
-                                                          ]
-                                         },
                     "LH Inhale":  {
                                       "version":  "2.44.0",
                                       "important":  false,
@@ -197,22 +143,6 @@
                                                        "איטי שומר על העלייה בדיוק כמו קודם - בלי קפיצה בהתחלה."
                                                    ]
                                   },
-                    "LH Dyna":  {
-                                    "version":  "2.43.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Dyna-Setup-2.43.0.exe",
-                                    "sha256":  "fb00b4fc5a8391b09968c90a8c2b509cf1114b379a1a2de906aa743036475b71",
-                                    "notes_en":  [
-                                                     "New look: the whole window is the graph, and each band\u0027s controls float in a small panel at the bottom.",
-                                                     "New ATTACK and RELEASE knobs, + ADD BAND and LINK SPEED.",
-                                                     "An S button above every band, double-click a point = back to 0, and a much lighter load on the computer."
-                                                 ],
-                                    "notes_he":  [
-                                                     "מראה חדש: כל החלון הוא הגרף, והכפתורים של כל באנד בפאנל קטן למטה.",
-                                                     "כפתורי התקפה ושחרור חדשים, הוספת באנד וקישור מהירות.",
-                                                     "כפתור S מעל כל באנד, לחיצה כפולה מחזירה נקודה ל-0, והרבה פחות עומס על המחשב."
-                                                 ]
-                                },
                     "LH Drummer":  {
                                        "version":  "2.44.0",
                                        "important":  false,
@@ -265,18 +195,6 @@
                                                      "הקלטה שמתחילה לפני השירה כבר לא משאירה פרוסות ריקות."
                                                  ]
                                 },
-                    "LH Distortion":  {
-                                          "version":  "2.43.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Distortion-Setup-2.43.0.exe",
-                                          "sha256":  "484380d6613f3569866e0d5d6ee81bc6c09e2a8dea6de09c6d45f2294fafbbe0",
-                                          "notes_en":  [
-                                                           "New AUTO GAIN button keeps the level steady while you push harder."
-                                                       ],
-                                          "notes_he":  [
-                                                           "כפתור AUTO GAIN חדש ששומר על העוצמה גם כשמגבירים את העיוות."
-                                                       ]
-                                      },
                     "LH Clean":  {
                                      "version":  "2.43.0",
                                      "important":  false,
@@ -325,22 +243,6 @@
                                                         "גרסה ראשונה."
                                                     ]
                                    },
-                    "LH Kick":  {
-                                    "version":  "2.44.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Kick-Setup-2.44.0.exe",
-                                    "sha256":  "4cf21fc02e66b2aa17ef1c4392c3eb3071771833754d3d7ef86844b9854782cc",
-                                    "notes_en":  [
-                                                     "New: a kick-drum instrument - draw the PITCH and VOLUME curves with the mouse and hear it change as you drag.",
-                                                     "44 ready kicks by style: club, trance, remix, wedding, punchy, full.",
-                                                     "Tuned to your song\u0027s key, our own click library, drag the kick straight into Cubase."
-                                                 ],
-                                    "notes_he":  [
-                                                     "חדש: כלי לבניית קיק - מציירים עם העכבר את עקומות הגובה והעוצמה ושומעים את השינוי תוך כדי גרירה.",
-                                                     "44 קיקים מוכנים לפי סגנון: מועדונים, טראנס, רמיקסים, חתונות, פאנצ\u0027י, מלא.",
-                                                     "מכוון לסולם של השיר, ספריית קליקים משלנו, וגוררים את הקיק ישר לקיובייס."
-                                                 ]
-                                },
                     "LH Granular":  {
                                         "version":  "2.44.0",
                                         "important":  false,
@@ -396,7 +298,123 @@
                                                     "תיקון יציבות: קריסה נדירה בתוכנה תוקנה.",
                                                     "מומלץ לכולם."
                                                 ]
-                               }
+                               },
+                    "LH Vocal Grid":  {
+                                          "version":  "2.45.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Vocal-Grid-Setup-2.45.0.exe",
+                                          "sha256":  "56beb488acd81e5371c0dd6d5c7eba7d21fe71e1d7ec799094a134b8fbb79e3f",
+                                          "notes_en":  [
+                                                           "New: puts your vocal on the grid. Load a vocal or a phone video; it suggests the tempo, STRENGTH keeps it natural, the pitch is untouched.",
+                                                           "Guide beat: kick and snare steps that play with the vocal; drag the vocal, the kick and the snare to Cubase as separate WAVs, all on the same bar."
+                                                       ],
+                                          "notes_he":  [
+                                                           "חדש: מיישר את השירה לגריד. טוענים שירה או וידאו מהטלפון; הוא מציע טמפו, העוצמה שומרת על טבעיות, הגובה לא משתנה.",
+                                                           "ביט מנחה: קיק וסנר במשבצות שמתנגנים עם השירה; גוררים לקיובייס את השירה, הקיק והסנר כ-WAV נפרדים, כולם על אותה תיבה."
+                                                       ]
+                                      },
+                    "LH Bass Lines":  {
+                                          "version":  "2.45.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Bass-Lines-Setup-2.45.0.exe",
+                                          "sha256":  "69b7fbfd60a2e9183a3652c25eb9b3ea325fcec33c892d9d58113398e8e29b90",
+                                          "notes_en":  [
+                                                           "New: a library of 107 MIDI bass grooves (Mizrahi, urban, rolling 16ths) that follow your tempo.",
+                                                           "Plays through your own bass instrument (EXTERNAL)."
+                                                       ],
+                                          "notes_he":  [
+                                                           "חדש: ספרייה של 107 גרובים של בס ב-MIDI (מזרחי, אורבני, שש-עשריות מתגלגלות) שעוקבים אחרי הטמפו שלך.",
+                                                           "מנגן דרך כלי הבס שלך (EXTERNAL)."
+                                                       ]
+                                      },
+                    "LH Dyna":  {
+                                    "version":  "2.45.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Dyna-Setup-2.45.0.exe",
+                                    "sha256":  "aaa78b4b3517bd603fcc4a16449de462b9ed6a3e5222ebcbb98fd9c88c0db095",
+                                    "notes_en":  [
+                                                     "Now a focused multiband compressor: the dynamic EQ mode was removed.",
+                                                     "AUTOMAT lays out up to 4 touching zones for the source; fixed: zones no longer land on top of each other.",
+                                                     "A new instance opens clean (all bands off)."
+                                                 ],
+                                    "notes_he":  [
+                                                     "עכשיו מולטיבנד נקי וממוקד: מצב ה-EQ הדינמי הוסר.",
+                                                     "AUTOMAT מסדר עד 4 אזורים צמודים לפי המקור; תוקן: אזורים כבר לא נופלים זה על זה.",
+                                                     "פתיחה חדשה מתחילה נקייה (כל הבנדים כבויים)."
+                                                 ]
+                                },
+                    "LH Kick":  {
+                                    "version":  "2.45.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Kick-Setup-2.45.0.exe",
+                                    "sha256":  "8f3f14f29f036ff389eb172530ea7847833db7979fd7b7309752c49745712178",
+                                    "notes_en":  [
+                                                     "New LOOP button next to PLAY: hear the kick on every beat while you shape it."
+                                                 ],
+                                    "notes_he":  [
+                                                     "כפתור LOOP חדש ליד PLAY: שומעים את הקיק על כל פעמה בזמן שמעצבים אותו."
+                                                 ]
+                                },
+                    "LH Distortion":  {
+                                          "version":  "2.45.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Distortion-Setup-2.45.0.exe",
+                                          "sha256":  "8a4d330354615c40d2056bffc9ab6b18b9f459639bb0cbee26a444ecb79d1eab",
+                                          "notes_en":  [
+                                                           "Back to the dark turquoise look, with the same layout and controls."
+                                                       ],
+                                          "notes_he":  [
+                                                           "חזרה למראה הכהה והטורקיז, עם אותו סידור ואותם כפתורים."
+                                                       ]
+                                      },
+                    "LH Auto Phase":  {
+                                          "version":  "2.45.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Auto-Phase-Setup-2.45.0.exe",
+                                          "sha256":  "59e5cf3995d01f889f5f09bc83c21fdc87211df664e02e589125ceba22c5f847",
+                                          "notes_en":  [
+                                                           "AUTO ALIGN is much faster on loops: about 2.5 seconds for a 1-bar loop (it could take up to 9)."
+                                                       ],
+                                          "notes_he":  [
+                                                           "AUTO ALIGN מהיר בהרבה על לופים: בערך 2.5 שניות ללופ של תיבה אחת (לפני כן עד 9)."
+                                                       ]
+                                      },
+                    "LH Flow":  {
+                                    "version":  "2.45.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Flow-Setup-2.45.0.exe",
+                                    "sha256":  "c6ee52a650782e2cfb53a6d38c8b5ecb66e5785f0364d3ab6007b4ef97d561bd",
+                                    "notes_en":  [
+                                                     "The display now shows the incoming sound\u0027s waveform behind the curve, cleaner than the old bars."
+                                                 ],
+                                    "notes_he":  [
+                                                     "התצוגה מראה עכשיו את גל הסאונד הנכנס מאחורי העקומה, נקי יותר מהעמודות הישנות."
+                                                 ]
+                                },
+                    "LH Volume Shaper":  {
+                                             "version":  "2.45.0",
+                                             "important":  false,
+                                             "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Flow-Setup-2.45.0.exe",
+                                             "sha256":  "c6ee52a650782e2cfb53a6d38c8b5ecb66e5785f0364d3ab6007b4ef97d561bd",
+                                             "notes_en":  [
+                                                              "The display now shows the incoming sound\u0027s waveform behind the curve, cleaner than the old bars."
+                                                          ],
+                                             "notes_he":  [
+                                                              "התצוגה מראה עכשיו את גל הסאונד הנכנס מאחורי העקומה, נקי יותר מהעמודות הישנות."
+                                                          ]
+                                         },
+                    "LH Voice Pitch":  {
+                                           "version":  "2.45.0",
+                                           "important":  false,
+                                           "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Voice-Pitch-Setup-2.45.0.exe",
+                                           "sha256":  "69126962ce205cb6d5da60660a681b33a4296bdc7aa83b678e3d020aaae6ec04",
+                                           "notes_en":  [
+                                                            "A cleaner layout: the LINK button was removed and FORMANT / PITCH have more room."
+                                                        ],
+                                           "notes_he":  [
+                                                            "סידור נקי יותר: כפתור LINK הוסר ול-FORMANT ו-PITCH יש יותר מקום."
+                                                        ]
+                                       }
                 },
     "announcement":  {
                          "id":  "lh-limit-2.36.0",
