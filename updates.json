@@ -480,7 +480,23 @@
                                                             "סידור נקי יותר: LINK הוסר ויש יותר מקום בין PITCH ל-FORMANT.",
                                                             "טבעות הכפתורים מתחילות עכשיו מהאמצע, אז 0 נראה ריק."
                                                         ]
-                                       }
+                                       },
+                    "LH Orbit":  {
+                                     "version":  "2.47.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.47.0/LH-Orbit-Setup-2.47.0.exe",
+                                     "sha256":  "b552e0e7146f216e2df0d96bb41f9573c33991722e9464b20431d721124515bf",
+                                     "notes_en":  [
+                                                      "First release: moves your sound around your head in 3D - circle, figure 8, spiral up, fly-by, ping-pong or a path you draw.",
+                                                      "Locked to the song\u0027s bars; height, distance, doppler and room. HEADPHONES for the full 3D, SPEAKERS for a wide mono-safe pan, BASS MONO.",
+                                                      "Grab the sound on the 3D stage and hold it anywhere around you."
+                                                  ],
+                                     "notes_he":  [
+                                                      "גרסה ראשונה: מסובב את הסאונד מסביב לראש ב-3D - עיגול, שמינייה, ספירלה למעלה, מטוס חולף, פינג-פונג או מסלול שמציירים.",
+                                                      "נעול לתיבות של השיר; גובה, מרחק, דופלר וחדר. אוזניות ל-3D המלא, רמקולים לתנועה רחבה ונקייה במונו, באס מונו.",
+                                                      "תופסים את הסאונד על הבמה ומשאירים אותו בכל מקום מסביבך."
+                                                  ]
+                                 }
                 },
     "announcement":  {
                          "id":  "lh-limit-2.36.0",
