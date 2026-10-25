@@ -1,18 +1,6 @@
 {
     "whatsapp":  "972547103775",
     "plugins":  {
-                    "LH Chord Finder":  {
-                                            "version":  "2.32.0",
-                                            "important":  false,
-                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.32.0/LH-Chord-Finder-Setup-2.32.0.exe",
-                                            "sha256":  "7991a9a3bed024f251d39a164876771aaa406881c90fa2c67ff6dfc739da9886",
-                                            "notes_en":  [
-                                                             "Smarter chord brain: understands more feeling words (Hebrew and English) and keeps the chosen style."
-                                                         ],
-                                            "notes_he":  [
-                                                             "מוח אקורדים חכם יותר: מבין יותר מילות רגש (בעברית ובאנגלית) ונשאר בסגנון שבחרת."
-                                                         ]
-                                        },
                     "LH Limit":  {
                                      "version":  "2.36.0",
                                      "important":  false,
@@ -157,44 +145,6 @@
                                                         "הדראמר שוב קל ופשוט: ביטים, מילויים, פדים ו-YOUR GROOVE."
                                                     ]
                                    },
-                    "LH Chord Studio":  {
-                                            "version":  "2.44.0",
-                                            "important":  false,
-                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Chord-Studio-Setup-2.44.0.exe",
-                                            "sha256":  "11c66273a2cb5eb5388d182612a29c0ae1437c31d146bf2c7ff13d3f93e95b2b",
-                                            "notes_en":  [
-                                                             "Much lighter on the CPU while it plays (about half).",
-                                                             "Right-click CHANGE CHORD shows the whole list at once."
-                                                         ],
-                                            "notes_he":  [
-                                                             "הרבה יותר קל על המעבד בזמן נגינה (בערך חצי).",
-                                                             "קליק ימני לשינוי אקורד מראה את כל הרשימה בבת אחת."
-                                                         ]
-                                        },
-                    "LH Cutter":  {
-                                      "version":  "2.43.0",
-                                      "important":  false,
-                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Cutter-Setup-2.43.0.exe",
-                                      "sha256":  "9eb811a9655e079f031744ef3b194cc201092470e06be2c12d3882b51cc9a5c1",
-                                      "notes_en":  [
-                                                       "A capture that starts before the vocal no longer leaves empty slices."
-                                                   ],
-                                      "notes_he":  [
-                                                       "הקלטה שמתחילה לפני השירה כבר לא משאירה פרוסות ריקות."
-                                                   ]
-                                  },
-                    "LH Chop":  {
-                                    "version":  "2.43.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Cutter-Setup-2.43.0.exe",
-                                    "sha256":  "9eb811a9655e079f031744ef3b194cc201092470e06be2c12d3882b51cc9a5c1",
-                                    "notes_en":  [
-                                                     "A capture that starts before the vocal no longer leaves empty slices."
-                                                 ],
-                                    "notes_he":  [
-                                                     "הקלטה שמתחילה לפני השירה כבר לא משאירה פרוסות ריקות."
-                                                 ]
-                                },
                     "LH Clean":  {
                                      "version":  "2.43.0",
                                      "important":  false,
@@ -207,30 +157,6 @@
                                                       "תצוגה ברורה יותר ותיקונים."
                                                   ]
                                  },
-                    "LH EQ":  {
-                                  "version":  "2.43.0",
-                                  "important":  false,
-                                  "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-EQ-Setup-2.43.0.exe",
-                                  "sha256":  "437c757341affab8c6b8621f8b579fdd5e565dcfb696bc38a5f153fca5f4e61d",
-                                  "notes_en":  [
-                                                   "First release."
-                                               ],
-                                  "notes_he":  [
-                                                   "גרסה ראשונה."
-                                               ]
-                              },
-                    "LH De-Esser":  {
-                                        "version":  "2.43.0",
-                                        "important":  false,
-                                        "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-De-Esser-Setup-2.43.0.exe",
-                                        "sha256":  "8daed0860da761de1e918aaac43473e5e2218802e83d2a29270f43a0c2ffb556",
-                                        "notes_en":  [
-                                                         "First release."
-                                                     ],
-                                        "notes_he":  [
-                                                         "גרסה ראשונה."
-                                                     ]
-                                    },
                     "LH Harmony":  {
                                        "version":  "2.43.0",
                                        "important":  false,
@@ -327,22 +253,6 @@
                                                            "מנגן דרך כלי הבס שלך (EXTERNAL)."
                                                        ]
                                       },
-                    "LH Dyna":  {
-                                    "version":  "2.45.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Dyna-Setup-2.45.0.exe",
-                                    "sha256":  "aaa78b4b3517bd603fcc4a16449de462b9ed6a3e5222ebcbb98fd9c88c0db095",
-                                    "notes_en":  [
-                                                     "Now a focused multiband compressor: the dynamic EQ mode was removed.",
-                                                     "AUTOMAT lays out up to 4 touching zones for the source; fixed: zones no longer land on top of each other.",
-                                                     "A new instance opens clean (all bands off)."
-                                                 ],
-                                    "notes_he":  [
-                                                     "עכשיו מולטיבנד נקי וממוקד: מצב ה-EQ הדינמי הוסר.",
-                                                     "AUTOMAT מסדר עד 4 אזורים צמודים לפי המקור; תוקן: אזורים כבר לא נופלים זה על זה.",
-                                                     "פתיחה חדשה מתחילה נקייה (כל הבנדים כבויים)."
-                                                 ]
-                                },
                     "LH Kick":  {
                                     "version":  "2.45.0",
                                     "important":  false,
@@ -355,18 +265,6 @@
                                                      "כפתור LOOP חדש ליד PLAY: שומעים את הקיק על כל פעמה בזמן שמעצבים אותו."
                                                  ]
                                 },
-                    "LH Distortion":  {
-                                          "version":  "2.45.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Distortion-Setup-2.45.0.exe",
-                                          "sha256":  "8a4d330354615c40d2056bffc9ab6b18b9f459639bb0cbee26a444ecb79d1eab",
-                                          "notes_en":  [
-                                                           "Back to the dark turquoise look, with the same layout and controls."
-                                                       ],
-                                          "notes_he":  [
-                                                           "חזרה למראה הכהה והטורקיז, עם אותו סידור ואותם כפתורים."
-                                                       ]
-                                      },
                     "LH Auto Phase":  {
                                           "version":  "2.45.0",
                                           "important":  false,
@@ -403,16 +301,184 @@
                                                               "התצוגה מראה עכשיו את גל הסאונד הנכנס מאחורי העקומה, נקי יותר מהעמודות הישנות."
                                                           ]
                                          },
+                    "LH 176":  {
+                                   "version":  "2.46.0",
+                                   "important":  false,
+                                   "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-176-Setup-2.46.0.exe",
+                                   "sha256":  "d0564f455c898de70e141e8475af34424afc36cf65f244656b24a6875b1a44d6",
+                                   "notes_en":  [
+                                                    "First release: a FET compressor with the classic fast, punchy character. INPUT drives it, RATIO 4 / 8 / 12 / 20 / ALL.",
+                                                    "Analog VU needle (GR / +4 / +8), hardware-style dials, MIX and AUTO GAIN.",
+                                                    "AUTOMAT listens to your track and sets everything for it."
+                                                ],
+                                   "notes_he":  [
+                                                    "גרסה ראשונה: קומפרסור FET באופי הקלאסי, מהיר ועם פאנץ\u0027. הכניסה דוחפת אותו, יחס 4 / 8 / 12 / 20 / ALL.",
+                                                    "מחט VU אנלוגית, כפתורים כמו בחומרה, מיקס והגברה אוטומטית.",
+                                                    "אוטומט מאזין לערוץ וקובע הכול בשבילו."
+                                                ]
+                               },
+                    "LH Cutter":  {
+                                      "version":  "2.46.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Cutter-Setup-2.46.0.exe",
+                                      "sha256":  "5329b8d0079b8310932e6c0ea6bca16fe74b49f66898a1491694d1851ba6bde8",
+                                      "notes_en":  [
+                                                       "New scroll bar under the keyboard: drag it to move along the keys."
+                                                   ],
+                                      "notes_he":  [
+                                                       "פס גלילה חדש מתחת למקלדת: גוררים אותו כדי לזוז לאורך הקלידים."
+                                                   ]
+                                  },
+                    "LH Chop":  {
+                                    "version":  "2.46.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Cutter-Setup-2.46.0.exe",
+                                    "sha256":  "5329b8d0079b8310932e6c0ea6bca16fe74b49f66898a1491694d1851ba6bde8",
+                                    "notes_en":  [
+                                                     "New scroll bar under the keyboard: drag it to move along the keys."
+                                                 ],
+                                    "notes_he":  [
+                                                     "פס גלילה חדש מתחת למקלדת: גוררים אותו כדי לזוז לאורך הקלידים."
+                                                 ]
+                                },
+                    "LH Chord Studio":  {
+                                            "version":  "2.46.0",
+                                            "important":  false,
+                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Chord-Studio-Setup-2.46.0.exe",
+                                            "sha256":  "906e8392f37ea0b867f6221f8c6c837a28141c2882295a6478d07295ae5f1c9c",
+                                            "notes_en":  [
+                                                             "The feeling you type now shapes how the chords are played: calmer, sadder, bouncier, more powerful.",
+                                                             "The MOOD button is gone - GENERATE always follows the feeling.",
+                                                             "The language you choose is now kept between sessions."
+                                                         ],
+                                            "notes_he":  [
+                                                             "הרגש שכותבים קובע עכשיו איך האקורדים מנוגנים: רגוע, עצוב, קופצני, עוצמתי.",
+                                                             "כפתור MOOD הוסר - GENERATE תמיד הולך לפי הרגש.",
+                                                             "השפה שבוחרים נשמרת עכשיו בין הפעלות."
+                                                         ]
+                                        },
+                    "LH Chord Finder":  {
+                                            "version":  "2.46.0",
+                                            "important":  false,
+                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Chord-Finder-Setup-2.46.0.exe",
+                                            "sha256":  "3bd613dfb88a634e43b65ab025dccad76c75d6b49e5697a652b17194726066b0",
+                                            "notes_en":  [
+                                                             "Updated chord engine (shared with LH Chord Studio)."
+                                                         ],
+                                            "notes_he":  [
+                                                             "מנוע האקורדים עודכן (משותף עם LH Chord Studio)."
+                                                         ]
+                                        },
+                    "LH De-Esser":  {
+                                        "version":  "2.46.0",
+                                        "important":  false,
+                                        "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-De-Esser-Setup-2.46.0.exe",
+                                        "sha256":  "7b9da1e4cff333c9f88aacba8e108adaa7565fb2d02b391ce9ce05961132c092",
+                                        "notes_en":  [
+                                                         "Now also catches SH and TS sounds, not only S.",
+                                                         "The history graph marks each one (S / TS / SH) in its own colour."
+                                                     ],
+                                        "notes_he":  [
+                                                         "תופס עכשיו גם ש\u0027 וצ\u0027, לא רק ס\u0027.",
+                                                         "גרף ההיסטוריה מסמן כל אחד (ס / צ / ש) בצבע משלו."
+                                                     ]
+                                    },
+                    "LH Delay":  {
+                                     "version":  "2.46.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Delay-Setup-2.46.0.exe",
+                                     "sha256":  "830416203c3514bd1dd4e5b7e7b3e7b462f162323cd34d4bd0bf7a88e44958bf",
+                                     "notes_en":  [
+                                                      "Simpler RHYTHM section: the confusing TIME knob is gone.",
+                                                      "In FREE mode a ms bar sets the time directly (drag, scroll or double-click)."
+                                                  ],
+                                     "notes_he":  [
+                                                      "חלק RHYTHM פשוט יותר: כפתור TIME המבלבל הוסר.",
+                                                      "במצב FREE פס מילישניות קובע את הזמן ישירות (גרירה, גלגלת או לחיצה כפולה)."
+                                                  ]
+                                 },
+                    "LH Distortion":  {
+                                          "version":  "2.46.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Distortion-Setup-2.46.0.exe",
+                                          "sha256":  "1def37a0ea8377be2975c2eba1d59ab213d43c90001f08a31fb275623ffcb04f",
+                                          "notes_en":  [
+                                                           "Back to the dark / turquoise look, same layout.",
+                                                           "Now listed under L.H Studio in your plugin list."
+                                                       ],
+                                          "notes_he":  [
+                                                           "חזר למראה הכהה / טורקיז, אותו סידור.",
+                                                           "מופיע עכשיו תחת L.H Studio ברשימת הפלאגינים."
+                                                       ]
+                                      },
+                    "LH Compressor":  {
+                                          "version":  "2.46.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Compressor-Setup-2.46.0.exe",
+                                          "sha256":  "9327d00de9c1b6b05fa95a70964918f84844f4bf7fa53110b1a57a438d5af3a0",
+                                          "notes_en":  [
+                                                           "Now listed under L.H Studio in your plugin list (was a separate vendor folder)."
+                                                       ],
+                                          "notes_he":  [
+                                                           "מופיע עכשיו תחת L.H Studio ברשימת הפלאגינים (היה בתיקייה נפרדת)."
+                                                       ]
+                                      },
+                    "LH Dyna":  {
+                                    "version":  "2.46.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Dyna-Setup-2.46.0.exe",
+                                    "sha256":  "2bdb4894a594128a45d651c8377063ca7878308a9226484e6d04d6292bbad151",
+                                    "notes_en":  [
+                                                     "Multiband only: AUTOMAT places four touching zones that fit your source.",
+                                                     "Zones snap and link to their neighbours while you drag them.",
+                                                     "A new instance opens clean, with all bands off."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מולטיבנד בלבד: אוטומט מניח ארבעה אזורים צמודים שמתאימים למקור.",
+                                                     "האזורים נצמדים ומתחברים לשכנים תוך כדי גרירה.",
+                                                     "פתיחה חדשה מתחילה נקייה, כל הבנדים כבויים."
+                                                 ]
+                                },
+                    "LH EQ":  {
+                                  "version":  "2.46.0",
+                                  "important":  false,
+                                  "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-EQ-Setup-2.46.0.exe",
+                                  "sha256":  "d263638158dcc6464fb121682f53d3f1c2f5e0d40554433c7ef1da8d71538ac2",
+                                  "notes_en":  [
+                                                   "Cleaner band colours that stay inside their own band.",
+                                                   "Clicking near the left or right edge creates a low / high cut at once."
+                                               ],
+                                  "notes_he":  [
+                                                   "צבעי הבנדים נקיים יותר ונשארים בתוך הבנד שלהם.",
+                                                   "לחיצה ליד הקצה השמאלי או הימני יוצרת חיתוך נמוכים / גבוהים מיד."
+                                               ]
+                              },
+                    "LH Tops":  {
+                                    "version":  "2.46.0",
+                                    "important":  true,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Tops-Setup-2.46.0.exe",
+                                    "sha256":  "15c93973b1bab3b7e53ea19c40615a2f415773096767a2e0fe9adac79faf652f",
+                                    "notes_en":  [
+                                                     "Fix: no more playing twice. LH Tops plays only while its PLAY is on, in time with Cubase.",
+                                                     "Dragging a loop to Cubase turns PLAY off."
+                                                 ],
+                                    "notes_he":  [
+                                                     "תיקון: כבר לא מנגן פעמיים. LH Tops מנגן רק כש-PLAY שלו דלוק, בזמן עם קיובייס.",
+                                                     "גרירת לופ לקיובייס מכבה את PLAY."
+                                                 ]
+                                },
                     "LH Voice Pitch":  {
-                                           "version":  "2.45.0",
+                                           "version":  "2.46.0",
                                            "important":  false,
-                                           "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Voice-Pitch-Setup-2.45.0.exe",
-                                           "sha256":  "69126962ce205cb6d5da60660a681b33a4296bdc7aa83b678e3d020aaae6ec04",
+                                           "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Voice-Pitch-Setup-2.46.0.exe",
+                                           "sha256":  "4b49b3b1107cce2a17648d7c6542abdc4d8a8eb52bd62f48ba65dab5eb965688",
                                            "notes_en":  [
-                                                            "A cleaner layout: the LINK button was removed and FORMANT / PITCH have more room."
+                                                            "Cleaner layout: LINK removed and more room between PITCH and FORMANT.",
+                                                            "The knob rings now start from the centre, so 0 looks empty."
                                                         ],
                                            "notes_he":  [
-                                                            "סידור נקי יותר: כפתור LINK הוסר ול-FORMANT ו-PITCH יש יותר מקום."
+                                                            "סידור נקי יותר: LINK הוסר ויש יותר מקום בין PITCH ל-FORMANT.",
+                                                            "טבעות הכפתורים מתחילות עכשיו מהאמצע, אז 0 נראה ריק."
                                                         ]
                                        }
                 },
