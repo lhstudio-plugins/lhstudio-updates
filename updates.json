@@ -1,36 +1,6 @@
 {
     "whatsapp":  "972547103775",
     "plugins":  {
-                    "LH Limit":  {
-                                     "version":  "2.36.0",
-                                     "important":  false,
-                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.36.0/LH-Limit-Setup-2.36.0.exe",
-                                     "sha256":  "bf63c75fbe626de2e6e0a9d80527ab829a5c81fc807b10c3f2090154a9573f7f",
-                                     "notes_en":  [
-                                                      "New: true-peak mastering limiter with 4 styles (CLEAN / PUNCH / DENSE / AGGRO).",
-                                                      "AUTOMAT sets the GAIN for the loudness you choose.",
-                                                      "LUFS + true-peak meters, UNITY, DELTA, oversampling up to 8x."
-                                                  ],
-                                     "notes_he":  [
-                                                      "חדש: לימיטר מאסטרינג True Peak עם 4 סגנונות.",
-                                                      "AUTOMAT קובע את ההגבר לפי העוצמה שבוחרים.",
-                                                      "מדי LUFS ופיק אמיתי, אותה עוצמה, דלתא ודגימת יתר עד 8x."
-                                                  ]
-                                 },
-                    "LH Lift":  {
-                                    "version":  "2.37.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Lift-Setup-2.37.0.exe",
-                                    "sha256":  "a0face1e67d3ab1dc20f09ae14d37203d6268ed36ab0c652563e04ef023fb4ee",
-                                    "notes_en":  [
-                                                     "New mode names: SPARKLE, OPEN, SILK, GRIT, TIGHT.",
-                                                     "Cleaner controls: LIFT, DETECT and MIX."
-                                                 ],
-                                    "notes_he":  [
-                                                     "שמות חדשים למצבים: ניצוץ, פתיחה, משי, גריט, הדוק.",
-                                                     "בקרים פשוטים יותר: הרמה, זיהוי ומיקס."
-                                                 ]
-                                },
                     "LH Pulse":  {
                                      "version":  "2.37.0",
                                      "important":  false,
@@ -47,34 +17,6 @@
                                                       "שמות חדשים לאפקטים (דחיסה, גל, חזרה...). בעברית רק המילים מתחלפות."
                                                   ]
                                  },
-                    "LH Ember":  {
-                                     "version":  "2.37.0",
-                                     "important":  false,
-                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Ember-Setup-2.37.0.exe",
-                                     "sha256":  "0a67dfdc6c40ef9947f46cac5f83be41e59c7663c80b65751f2e8da2f3cabf07",
-                                     "notes_en":  [
-                                                      "LH Saturn is now LH Ember - your old projects still open.",
-                                                      "New Style Grid design with a big DRIVE dial and four TONE knobs."
-                                                  ],
-                                     "notes_he":  [
-                                                      "LH Saturn נקרא עכשיו LH Ember - פרויקטים ישנים נפתחים כרגיל.",
-                                                      "עיצוב חדש: רשת סגנונות, חוגת דרייב גדולה וארבעה כפתורי טון."
-                                                  ]
-                                 },
-                    "LH Snap":  {
-                                    "version":  "2.37.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Snap-Setup-2.37.0.exe",
-                                    "sha256":  "06aec5f6bbf33902498285134314b0791f27404d47b0d864146381da95f2184c",
-                                    "notes_en":  [
-                                                     "LH Art Attack is now LH Snap - your old projects still open.",
-                                                     "One big waveform, a new SLICES view of what the knobs do, and AUTO GAIN."
-                                                 ],
-                                    "notes_he":  [
-                                                     "LH Art Attack נקרא עכשיו LH Snap - פרויקטים ישנים נפתחים כרגיל.",
-                                                     "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
-                                                 ]
-                                },
                     "LH Vocal Tune":  {
                                           "version":  "2.37.0",
                                           "important":  false,
@@ -87,34 +29,6 @@
                                           "notes_he":  [
                                                            "עיצוב חדש: גלגל גדול, בחירת סולם ופסנתר שמראה את התו.",
                                                            "לחיצה על קלידי הפסנתר בונה סולם משלך. כפתור יציאה חדש."
-                                                       ]
-                                      },
-                    "LH Saturn":  {
-                                      "version":  "2.37.0",
-                                      "important":  false,
-                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Ember-Setup-2.37.0.exe",
-                                      "sha256":  "0a67dfdc6c40ef9947f46cac5f83be41e59c7663c80b65751f2e8da2f3cabf07",
-                                      "notes_en":  [
-                                                       "LH Saturn is now LH Ember - your old projects still open.",
-                                                       "New Style Grid design with a big DRIVE dial and four TONE knobs."
-                                                   ],
-                                      "notes_he":  [
-                                                       "LH Saturn נקרא עכשיו LH Ember - פרויקטים ישנים נפתחים כרגיל.",
-                                                       "עיצוב חדש: רשת סגנונות, חוגת דרייב גדולה וארבעה כפתורי טון."
-                                                   ]
-                                  },
-                    "LH Art Attack":  {
-                                          "version":  "2.37.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Snap-Setup-2.37.0.exe",
-                                          "sha256":  "06aec5f6bbf33902498285134314b0791f27404d47b0d864146381da95f2184c",
-                                          "notes_en":  [
-                                                           "LH Art Attack is now LH Snap - your old projects still open.",
-                                                           "One big waveform, a new SLICES view of what the knobs do, and AUTO GAIN."
-                                                       ],
-                                          "notes_he":  [
-                                                           "LH Art Attack נקרא עכשיו LH Snap - פרויקטים ישנים נפתחים כרגיל.",
-                                                           "גרף גל אחד גדול, תצוגת פרוסות שמראה מה הכפתורים עושים, וגיין אוטומטי."
                                                        ]
                                       },
                     "LH Inhale":  {
@@ -157,18 +71,6 @@
                                                       "תצוגה ברורה יותר ותיקונים."
                                                   ]
                                  },
-                    "LH Harmony":  {
-                                       "version":  "2.43.0",
-                                       "important":  false,
-                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Harmony-Setup-2.43.0.exe",
-                                       "sha256":  "dbcbf175e48c20a656877a793b32a9e6fea37bb251c0156f626b8dba13752eab",
-                                       "notes_en":  [
-                                                        "First release."
-                                                    ],
-                                       "notes_he":  [
-                                                        "גרסה ראשונה."
-                                                    ]
-                                   },
                     "LH Granular":  {
                                         "version":  "2.44.0",
                                         "important":  false,
@@ -183,20 +85,6 @@
                                                          "42 פריסטים ב-4 קבוצות: ווקאל, פדים, סינת\u0027, אפקטים וקצב."
                                                      ]
                                     },
-                    "LH Modulation":  {
-                                          "version":  "2.44.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Modulation-Setup-2.44.0.exe",
-                                          "sha256":  "12f3b7b504b2de433663fcb8c6ae283ac01260490802d0e47f62ba9805a46c6f",
-                                          "notes_en":  [
-                                                           "New ONE-EFFECT view: SINGLE opens one big panel for one effect, with tabs to switch.",
-                                                           "Light another tab\u0027s LED to add that effect to the chain."
-                                                       ],
-                                          "notes_he":  [
-                                                           "תצוגת אפקט אחד חדשה: SINGLE פותח פאנל גדול לאפקט אחד, עם לשוניות להחלפה.",
-                                                           "מדליקים את הנורה של לשונית אחרת כדי להוסיף את האפקט הזה לשרשרת."
-                                                       ]
-                                      },
                     "LH Sample Finder":  {
                                              "version":  "2.44.0",
                                              "important":  false,
@@ -239,32 +127,6 @@
                                                            "ביט מנחה: קיק וסנר במשבצות שמתנגנים עם השירה; גוררים לקיובייס את השירה, הקיק והסנר כ-WAV נפרדים, כולם על אותה תיבה."
                                                        ]
                                       },
-                    "LH Bass Lines":  {
-                                          "version":  "2.45.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Bass-Lines-Setup-2.45.0.exe",
-                                          "sha256":  "69b7fbfd60a2e9183a3652c25eb9b3ea325fcec33c892d9d58113398e8e29b90",
-                                          "notes_en":  [
-                                                           "New: a library of 107 MIDI bass grooves (Mizrahi, urban, rolling 16ths) that follow your tempo.",
-                                                           "Plays through your own bass instrument (EXTERNAL)."
-                                                       ],
-                                          "notes_he":  [
-                                                           "חדש: ספרייה של 107 גרובים של בס ב-MIDI (מזרחי, אורבני, שש-עשריות מתגלגלות) שעוקבים אחרי הטמפו שלך.",
-                                                           "מנגן דרך כלי הבס שלך (EXTERNAL)."
-                                                       ]
-                                      },
-                    "LH Kick":  {
-                                    "version":  "2.45.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Kick-Setup-2.45.0.exe",
-                                    "sha256":  "8f3f14f29f036ff389eb172530ea7847833db7979fd7b7309752c49745712178",
-                                    "notes_en":  [
-                                                     "New LOOP button next to PLAY: hear the kick on every beat while you shape it."
-                                                 ],
-                                    "notes_he":  [
-                                                     "כפתור LOOP חדש ליד PLAY: שומעים את הקיק על כל פעמה בזמן שמעצבים אותו."
-                                                 ]
-                                },
                     "LH Auto Phase":  {
                                           "version":  "2.45.0",
                                           "important":  false,
@@ -277,46 +139,6 @@
                                                            "AUTO ALIGN מהיר בהרבה על לופים: בערך 2.5 שניות ללופ של תיבה אחת (לפני כן עד 9)."
                                                        ]
                                       },
-                    "LH Flow":  {
-                                    "version":  "2.45.0",
-                                    "important":  false,
-                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Flow-Setup-2.45.0.exe",
-                                    "sha256":  "c6ee52a650782e2cfb53a6d38c8b5ecb66e5785f0364d3ab6007b4ef97d561bd",
-                                    "notes_en":  [
-                                                     "The display now shows the incoming sound\u0027s waveform behind the curve, cleaner than the old bars."
-                                                 ],
-                                    "notes_he":  [
-                                                     "התצוגה מראה עכשיו את גל הסאונד הנכנס מאחורי העקומה, נקי יותר מהעמודות הישנות."
-                                                 ]
-                                },
-                    "LH Volume Shaper":  {
-                                             "version":  "2.45.0",
-                                             "important":  false,
-                                             "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Flow-Setup-2.45.0.exe",
-                                             "sha256":  "c6ee52a650782e2cfb53a6d38c8b5ecb66e5785f0364d3ab6007b4ef97d561bd",
-                                             "notes_en":  [
-                                                              "The display now shows the incoming sound\u0027s waveform behind the curve, cleaner than the old bars."
-                                                          ],
-                                             "notes_he":  [
-                                                              "התצוגה מראה עכשיו את גל הסאונד הנכנס מאחורי העקומה, נקי יותר מהעמודות הישנות."
-                                                          ]
-                                         },
-                    "LH 176":  {
-                                   "version":  "2.46.0",
-                                   "important":  false,
-                                   "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-176-Setup-2.46.0.exe",
-                                   "sha256":  "d0564f455c898de70e141e8475af34424afc36cf65f244656b24a6875b1a44d6",
-                                   "notes_en":  [
-                                                    "First release: a FET compressor with the classic fast, punchy character. INPUT drives it, RATIO 4 / 8 / 12 / 20 / ALL.",
-                                                    "Analog VU needle (GR / +4 / +8), hardware-style dials, MIX and AUTO GAIN.",
-                                                    "AUTOMAT listens to your track and sets everything for it."
-                                                ],
-                                   "notes_he":  [
-                                                    "גרסה ראשונה: קומפרסור FET באופי הקלאסי, מהיר ועם פאנץ\u0027. הכניסה דוחפת אותו, יחס 4 / 8 / 12 / 20 / ALL.",
-                                                    "מחט VU אנלוגית, כפתורים כמו בחומרה, מיקס והגברה אוטומטית.",
-                                                    "אוטומט מאזין לערוץ וקובע הכול בשבילו."
-                                                ]
-                               },
                     "LH Cutter":  {
                                       "version":  "2.46.0",
                                       "important":  false,
@@ -369,48 +191,6 @@
                                                              "מנוע האקורדים עודכן (משותף עם LH Chord Studio)."
                                                          ]
                                         },
-                    "LH De-Esser":  {
-                                        "version":  "2.46.0",
-                                        "important":  false,
-                                        "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-De-Esser-Setup-2.46.0.exe",
-                                        "sha256":  "7b9da1e4cff333c9f88aacba8e108adaa7565fb2d02b391ce9ce05961132c092",
-                                        "notes_en":  [
-                                                         "Now also catches SH and TS sounds, not only S.",
-                                                         "The history graph marks each one (S / TS / SH) in its own colour."
-                                                     ],
-                                        "notes_he":  [
-                                                         "תופס עכשיו גם ש\u0027 וצ\u0027, לא רק ס\u0027.",
-                                                         "גרף ההיסטוריה מסמן כל אחד (ס / צ / ש) בצבע משלו."
-                                                     ]
-                                    },
-                    "LH Delay":  {
-                                     "version":  "2.46.0",
-                                     "important":  false,
-                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Delay-Setup-2.46.0.exe",
-                                     "sha256":  "830416203c3514bd1dd4e5b7e7b3e7b462f162323cd34d4bd0bf7a88e44958bf",
-                                     "notes_en":  [
-                                                      "Simpler RHYTHM section: the confusing TIME knob is gone.",
-                                                      "In FREE mode a ms bar sets the time directly (drag, scroll or double-click)."
-                                                  ],
-                                     "notes_he":  [
-                                                      "חלק RHYTHM פשוט יותר: כפתור TIME המבלבל הוסר.",
-                                                      "במצב FREE פס מילישניות קובע את הזמן ישירות (גרירה, גלגלת או לחיצה כפולה)."
-                                                  ]
-                                 },
-                    "LH Distortion":  {
-                                          "version":  "2.46.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Distortion-Setup-2.46.0.exe",
-                                          "sha256":  "1def37a0ea8377be2975c2eba1d59ab213d43c90001f08a31fb275623ffcb04f",
-                                          "notes_en":  [
-                                                           "Back to the dark / turquoise look, same layout.",
-                                                           "Now listed under L.H Studio in your plugin list."
-                                                       ],
-                                          "notes_he":  [
-                                                           "חזר למראה הכהה / טורקיז, אותו סידור.",
-                                                           "מופיע עכשיו תחת L.H Studio ברשימת הפלאגינים."
-                                                       ]
-                                      },
                     "LH Compressor":  {
                                           "version":  "2.46.0",
                                           "important":  false,
@@ -439,20 +219,6 @@
                                                      "פתיחה חדשה מתחילה נקייה, כל הבנדים כבויים."
                                                  ]
                                 },
-                    "LH EQ":  {
-                                  "version":  "2.46.0",
-                                  "important":  false,
-                                  "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-EQ-Setup-2.46.0.exe",
-                                  "sha256":  "d263638158dcc6464fb121682f53d3f1c2f5e0d40554433c7ef1da8d71538ac2",
-                                  "notes_en":  [
-                                                   "Cleaner band colours that stay inside their own band.",
-                                                   "Clicking near the left or right edge creates a low / high cut at once."
-                                               ],
-                                  "notes_he":  [
-                                                   "צבעי הבנדים נקיים יותר ונשארים בתוך הבנד שלהם.",
-                                                   "לחיצה ליד הקצה השמאלי או הימני יוצרת חיתוך נמוכים / גבוהים מיד."
-                                               ]
-                              },
                     "LH Tops":  {
                                     "version":  "2.46.0",
                                     "important":  true,
@@ -496,7 +262,347 @@
                                                       "נעול לתיבות של השיר; גובה, מרחק, דופלר וחדר. אוזניות ל-3D המלא, רמקולים לתנועה רחבה ונקייה במונו, באס מונו.",
                                                       "תופסים את הסאונד על הבמה ומשאירים אותו בכל מקום מסביבך."
                                                   ]
-                                 }
+                                 },
+                    "LH Bass Lines":  {
+                                          "version":  "2.48.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Bass-Lines-Setup-2.48.0.exe",
+                                          "sha256":  "e4c433fe1a594f95bdcb68686814d22ad8c5d5e84aa61742d07525f9d7810a11",
+                                          "notes_en":  [
+                                                           "SEARCH the library by name, style or BPM. STYLE and FEEL are now one box each; the star next to LIBRARY shows only your favourites.",
+                                                           "New grooves: BOUNCE PUSH (3-3-2 with a push every 2nd bar) + 7 variations, and new grooves measured from today\u0027s Mizrahi remixes.",
+                                                           "Only grooves measured with high confidence are kept."
+                                                       ],
+                                          "notes_he":  [
+                                                           "חיפוש בספרייה לפי שם, סגנון או BPM. סגנון ותחושה הם עכשיו כפתור אחד כל אחד; הכוכב ליד הספרייה מראה רק את המועדפים.",
+                                                           "בסים חדשים: BOUNCE PUSH (‏3-3-2 עם דחיפה כל תיבה שנייה) ועוד 7 וריאציות, ובסים חדשים שנמדדו מרמיקסים מזרחיים של היום.",
+                                                           "נשארו רק בסים שנמדדו בביטחון גבוה."
+                                                       ]
+                                      },
+                    "LH EQ":  {
+                                  "version":  "2.48.0",
+                                  "important":  false,
+                                  "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-EQ-Setup-2.48.0.exe",
+                                  "sha256":  "0f069e42ff8995c3a053692b7ae8d6288429ab476b9078914e12590a5ba0efbd",
+                                  "notes_en":  [
+                                                   "New look: the dark turquoise L.H Studio finish.",
+                                                   "FIX ALL no longer adds a second cut where a problem was already fixed.",
+                                                   "The spectrum clears about a second after you stop, and the graph and low / high cuts are drawn cleaner."
+                                               ],
+                                  "notes_he":  [
+                                                   "מראה חדש: הגימור הטורקיז הכהה של L.H Studio.",
+                                                   "תיקון הכל כבר לא מוסיף חיתוך שני במקום שכבר תוקן.",
+                                                   "הספקטרום מתנקה בערך שנייה אחרי העצירה, והגרף וחיתוכי הנמוכים / הגבוהים מצוירים נקי יותר."
+                                               ]
+                              },
+                    "LH Snap":  {
+                                    "version":  "2.48.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Snap-Setup-2.48.0.exe",
+                                    "sha256":  "698c3d758bafed83f5c081f7bc1c29861b8a829eef09ba72080e7da528fcc09e",
+                                    "notes_en":  [
+                                                     "New look: the dark turquoise L.H Studio finish (one dark look).",
+                                                     "The window can now shrink to 60 % (size menu 60 - 200 %)."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד).",
+                                                     "אפשר להקטין את החלון עד 60% (תפריט גודל 60 - 200%)."
+                                                 ]
+                                },
+                    "LH Flow":  {
+                                    "version":  "2.48.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Flow-Setup-2.48.0.exe",
+                                    "sha256":  "73a2750881d67c386f499968d47d76ff9e32329a94afd0de48c414b45cd43bfa",
+                                    "notes_en":  [
+                                                     "New look: the dark turquoise L.H Studio finish.",
+                                                     "The white line that trailed the curve is gone."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: הגימור הטורקיז הכהה של L.H Studio.",
+                                                     "הקו הלבן שנגרר אחרי העקומה הוסר."
+                                                 ]
+                                },
+                    "LH Volume Shaper":  {
+                                             "version":  "2.48.0",
+                                             "important":  false,
+                                             "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Flow-Setup-2.48.0.exe",
+                                             "sha256":  "73a2750881d67c386f499968d47d76ff9e32329a94afd0de48c414b45cd43bfa",
+                                             "notes_en":  [
+                                                              "New look: the dark turquoise L.H Studio finish.",
+                                                              "The white line that trailed the curve is gone."
+                                                          ],
+                                             "notes_he":  [
+                                                              "מראה חדש: הגימור הטורקיז הכהה של L.H Studio.",
+                                                              "הקו הלבן שנגרר אחרי העקומה הוסר."
+                                                          ]
+                                         },
+                    "LH Clash":  {
+                                     "version":  "2.48.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Clash-Setup-2.48.0.exe",
+                                     "sha256":  "82ff6e87d51c6c792a6e20a929cec98df5ce9d5fea24c647ca23ffea9e8d7849",
+                                     "notes_en":  [
+                                                      "AUTOMAT no longer mistakes a synth bass under a kick for percussion."
+                                                  ],
+                                     "notes_he":  [
+                                                      "אוטומט כבר לא מתבלבל בין בס סינתי מתחת לקיק לבין כלי הקשה."
+                                                  ]
+                                 },
+                    "LH Distortion":  {
+                                          "version":  "2.48.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Distortion-Setup-2.48.0.exe",
+                                          "sha256":  "183007ddcda0cf52b0f0808dd134a6aca67184cb78cf16b24aa93277c26d2720",
+                                          "notes_en":  [
+                                                           "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+                                                       ],
+                                          "notes_he":  [
+                                                           "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+                                                       ]
+                                      },
+                    "LH Kick":  {
+                                    "version":  "2.48.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Kick-Setup-2.48.0.exe",
+                                    "sha256":  "6558ab1755a5e116e06fada041404d32f26e6fee862a1c3dcbfabb5817c7111d",
+                                    "notes_en":  [
+                                                     "New look: the house turquoise design. Controls and sound are unchanged."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: עיצוב הטורקיז של הבית. הכפתורים והסאונד לא השתנו."
+                                                 ]
+                                },
+                    "LH Harmony":  {
+                                       "version":  "2.48.0",
+                                       "important":  false,
+                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Harmony-Setup-2.48.0.exe",
+                                       "sha256":  "9f3615cdb93bcbae2031b09260f97b9fb09b3c29be8824cfaf547ea3342f4710",
+                                       "notes_en":  [
+                                                        "New look: the house turquoise design. Controls and sound are unchanged."
+                                                    ],
+                                       "notes_he":  [
+                                                        "מראה חדש: עיצוב הטורקיז של הבית. הכפתורים והסאונד לא השתנו."
+                                                    ]
+                                   },
+                    "LH Modulation":  {
+                                          "version":  "2.48.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Modulation-Setup-2.48.0.exe",
+                                          "sha256":  "6f0dbad29aa8db5d2dea5536b5f0b4faeeb2da0a27a180fbb95eeba1af86a1d2",
+                                          "notes_en":  [
+                                                           "New look: one house turquoise design replaces the gold / ivory looks. Controls and sound are unchanged."
+                                                       ],
+                                          "notes_he":  [
+                                                           "מראה חדש: עיצוב טורקיז אחד של הבית במקום מראות הזהב / השנהב. הכפתורים והסאונד לא השתנו."
+                                                       ]
+                                      },
+                    "LH Clipper":  {
+                                       "version":  "2.48.0",
+                                       "important":  false,
+                                       "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Clipper-Setup-2.48.0.exe",
+                                       "sha256":  "5f04f68ba0bf99f4b4490831daa5fe4e6ad508ccb941ef2c58def2536c301549",
+                                       "notes_en":  [
+                                                        "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+                                                    ],
+                                       "notes_he":  [
+                                                        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+                                                    ]
+                                   },
+                    "LH Core":  {
+                                    "version":  "2.48.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Core-Setup-2.48.0.exe",
+                                    "sha256":  "9d56b5e49c9e0fd90f5f08d9657381ab3b4a754199d4a2032318a3ffc29cf8de",
+                                    "notes_en":  [
+                                                     "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+                                                 ]
+                                },
+                    "LH De-Esser":  {
+                                        "version":  "2.48.0",
+                                        "important":  false,
+                                        "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-De-Esser-Setup-2.48.0.exe",
+                                        "sha256":  "ec4575661a8bed2fd613c730cb2f1a2b420e358ff436985d5576fd691b48d259",
+                                        "notes_en":  [
+                                                         "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+                                                     ],
+                                        "notes_he":  [
+                                                         "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+                                                     ]
+                                    },
+                    "LH Delay":  {
+                                     "version":  "2.48.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Delay-Setup-2.48.0.exe",
+                                     "sha256":  "6086cc407fa60b0a923fd1e9b35f84b29d96d790e18fa80afbb6a8350b8905ec",
+                                     "notes_en":  [
+                                                      "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                  ],
+                                     "notes_he":  [
+                                                      "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                  ]
+                                 },
+                    "LH Drum Force":  {
+                                          "version":  "2.48.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Drum-Force-Setup-2.48.0.exe",
+                                          "sha256":  "d5b77fe1687de3f2b6c428f2aea495d48a2eef4afa9b75a1d54f58ffac0e2f4d",
+                                          "notes_en":  [
+                                                           "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                       ],
+                                          "notes_he":  [
+                                                           "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                       ]
+                                      },
+                    "LH Gate":  {
+                                    "version":  "2.48.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Gate-Setup-2.48.0.exe",
+                                    "sha256":  "1945dae4177958d3edfedda86c71d0a7124fd4d0d8432bfbab16611c7ce42e0b",
+                                    "notes_en":  [
+                                                     "New look: the dark turquoise L.H Studio finish; the settings are now in clear cards."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: הגימור הטורקיז הכהה של L.H Studio; ההגדרות עכשיו בכרטיסים ברורים."
+                                                 ]
+                                },
+                    "LH Lift":  {
+                                    "version":  "2.48.0",
+                                    "important":  false,
+                                    "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Lift-Setup-2.48.0.exe",
+                                    "sha256":  "7bc228b22d44e403239c75a43ec0771bc5747fa1f8b19a8c375616f923f87cf2",
+                                    "notes_en":  [
+                                                     "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                 ],
+                                    "notes_he":  [
+                                                     "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                 ]
+                                },
+                    "LH Limit":  {
+                                     "version":  "2.48.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Limit-Setup-2.48.0.exe",
+                                     "sha256":  "1735364d88d749a351bcabda6e27e786df6ee9f25c5919fa25c16c494dd6a41a",
+                                     "notes_en":  [
+                                                      "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                  ],
+                                     "notes_he":  [
+                                                      "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                  ]
+                                 },
+                    "LH Reverb":  {
+                                      "version":  "2.48.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Reverb-Setup-2.48.0.exe",
+                                      "sha256":  "b8dd266e038a8ef37119b8b0e56d8fdc24d500bfd762fa0b0ca9b5afa53bab69",
+                                      "notes_en":  [
+                                                       "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                   ],
+                                      "notes_he":  [
+                                                       "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                   ]
+                                  },
+                    "LH Rider":  {
+                                     "version":  "2.48.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Rider-Setup-2.48.0.exe",
+                                     "sha256":  "363970277e960b59ab0cf2d0f415b4b47897b2e06d422a35b4b394c8ceeaef5c",
+                                     "notes_en":  [
+                                                      "Back to its original turquoise console design."
+                                                  ],
+                                     "notes_he":  [
+                                                      "חזרה לעיצוב הקונסולה הטורקיז המקורי."
+                                                  ]
+                                 },
+                    "LH Ember":  {
+                                     "version":  "2.48.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Ember-Setup-2.48.0.exe",
+                                     "sha256":  "eefb32f016e096ae7d8c10afaa1224756a9b26d625bb21b01e73b5b12a0fde3d",
+                                     "notes_en":  [
+                                                      "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                  ],
+                                     "notes_he":  [
+                                                      "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                  ]
+                                 },
+                    "LH Scorch":  {
+                                      "version":  "2.48.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Scorch-Setup-2.48.0.exe",
+                                      "sha256":  "305dd963cc070b338c5896d45ac9489532d613102afc21f7f07187eb543602f9",
+                                      "notes_en":  [
+                                                       "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                   ],
+                                      "notes_he":  [
+                                                       "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                   ]
+                                  },
+                    "LH Velvet":  {
+                                      "version":  "2.48.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Velvet-Setup-2.48.0.exe",
+                                      "sha256":  "06e30ea588cf2d495d5e85eb6ed9e9a6fecffcff4e2d9628ba2f6a6f3b882707",
+                                      "notes_en":  [
+                                                       "Back to its original design (the gold look was removed). Controls and sound are unchanged."
+                                                   ],
+                                      "notes_he":  [
+                                                       "חזרה לעיצוב המקורי (מראה הזהב הוסר). הכפתורים והסאונד לא השתנו."
+                                                   ]
+                                  },
+                    "LH Remix Rise":  {
+                                          "version":  "2.48.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Remix-Rise-Setup-2.48.0.exe",
+                                          "sha256":  "0672bfac287d8d318ae95e9f54f016687905fd08629b160279ab2c122094f968",
+                                          "notes_en":  [
+                                                           "Back to its original neon design; AUTO RISE stays."
+                                                       ],
+                                          "notes_he":  [
+                                                           "חזרה לעיצוב הניאון המקורי; AUTO RISE נשאר."
+                                                       ]
+                                      },
+                    "LH 176":  {
+                                   "version":  "2.48.0",
+                                   "important":  false,
+                                   "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-176-Setup-2.48.0.exe",
+                                   "sha256":  "851f1e7b384c170d3f1aab4e0cd3f0ae81db9f1c557a2605d275884ce34dc486",
+                                   "notes_en":  [
+                                                    "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+                                                ],
+                                   "notes_he":  [
+                                                    "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+                                                ]
+                               },
+                    "LH Saturn":  {
+                                      "version":  "2.48.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Ember-Setup-2.48.0.exe",
+                                      "sha256":  "eefb32f016e096ae7d8c10afaa1224756a9b26d625bb21b01e73b5b12a0fde3d",
+                                      "notes_en":  [
+                                                       "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+                                                   ],
+                                      "notes_he":  [
+                                                       "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+                                                   ]
+                                  },
+                    "LH Art Attack":  {
+                                          "version":  "2.48.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Snap-Setup-2.48.0.exe",
+                                          "sha256":  "698c3d758bafed83f5c081f7bc1c29861b8a829eef09ba72080e7da528fcc09e",
+                                          "notes_en":  [
+                                                           "New look: the dark turquoise L.H Studio finish (one dark look).",
+                                                           "The window can now shrink to 60 % (size menu 60 - 200 %)."
+                                                       ],
+                                          "notes_he":  [
+                                                           "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד).",
+                                                           "אפשר להקטין את החלון עד 60% (תפריט גודל 60 - 200%)."
+                                                       ]
+                                      }
                 },
     "announcement":  {
                          "id":  "lh-limit-2.36.0",
