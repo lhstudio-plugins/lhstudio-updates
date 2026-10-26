@@ -602,7 +602,23 @@
                                                            "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד).",
                                                            "אפשר להקטין את החלון עד 60% (תפריט גודל 60 - 200%)."
                                                        ]
-                                      }
+                                      },
+                    "LH Atmos":  {
+                                     "version":  "2.49.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.49.0/LH-Atmos-Setup-2.49.0.exe",
+                                     "sha256":  "4f31ab6d6b69bbf39332537dc3ed19a903062d8e72a0e25c0af7fa7211d009fe",
+                                     "notes_en":  [
+                                                      "First release: a small chord synth - write 4 or 8 chords and it plays them in time with your bars.",
+                                                      "Warm pad, choir, strings, deep drone and a + sound (e-piano, air pad, water pad and more), with textures like rain and crowd.",
+                                                      "Right-click a chord for the key\u0027s chords, RISE / FALL between bars, PLAY preview and DRAG TO MIDI."
+                                                  ],
+                                     "notes_he":  [
+                                                      "גרסה ראשונה: סינת\u0027 אקורדים קטן - כותבים 4 או 8 אקורדים והוא מנגן אותם בזמן עם התיבות.",
+                                                      "פד חם, מקהלה, כינורות, דרון עמוק וסאונד + (פסנתר חשמלי, פד אוויר, פד מים ועוד), עם טקסטורות כמו גשם וקהל.",
+                                                      "קליק ימני על אקורד לאקורדים של הסולם, עלייה / ירידה בין תיבות, האזנה ב-PLAY וגרירה למידי."
+                                                  ]
+                                 }
                 },
     "announcement":  {
                          "id":  "lh-limit-2.36.0",
