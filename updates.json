@@ -163,22 +163,6 @@
                                                      "פס גלילה חדש מתחת למקלדת: גוררים אותו כדי לזוז לאורך הקלידים."
                                                  ]
                                 },
-                    "LH Chord Studio":  {
-                                            "version":  "2.46.0",
-                                            "important":  false,
-                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Chord-Studio-Setup-2.46.0.exe",
-                                            "sha256":  "906e8392f37ea0b867f6221f8c6c837a28141c2882295a6478d07295ae5f1c9c",
-                                            "notes_en":  [
-                                                             "The feeling you type now shapes how the chords are played: calmer, sadder, bouncier, more powerful.",
-                                                             "The MOOD button is gone - GENERATE always follows the feeling.",
-                                                             "The language you choose is now kept between sessions."
-                                                         ],
-                                            "notes_he":  [
-                                                             "הרגש שכותבים קובע עכשיו איך האקורדים מנוגנים: רגוע, עצוב, קופצני, עוצמתי.",
-                                                             "כפתור MOOD הוסר - GENERATE תמיד הולך לפי הרגש.",
-                                                             "השפה שבוחרים נשמרת עכשיו בין הפעלות."
-                                                         ]
-                                        },
                     "LH Chord Finder":  {
                                             "version":  "2.46.0",
                                             "important":  false,
@@ -385,18 +369,6 @@
                                                         "מראה חדש: עיצוב הטורקיז של הבית. הכפתורים והסאונד לא השתנו."
                                                     ]
                                    },
-                    "LH Modulation":  {
-                                          "version":  "2.48.0",
-                                          "important":  false,
-                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Modulation-Setup-2.48.0.exe",
-                                          "sha256":  "6f0dbad29aa8db5d2dea5536b5f0b4faeeb2da0a27a180fbb95eeba1af86a1d2",
-                                          "notes_en":  [
-                                                           "New look: one house turquoise design replaces the gold / ivory looks. Controls and sound are unchanged."
-                                                       ],
-                                          "notes_he":  [
-                                                           "מראה חדש: עיצוב טורקיז אחד של הבית במקום מראות הזהב / השנהב. הכפתורים והסאונד לא השתנו."
-                                                       ]
-                                      },
                     "LH Clipper":  {
                                        "version":  "2.48.0",
                                        "important":  false,
@@ -433,18 +405,6 @@
                                                          "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
                                                      ]
                                     },
-                    "LH Delay":  {
-                                     "version":  "2.48.0",
-                                     "important":  false,
-                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Delay-Setup-2.48.0.exe",
-                                     "sha256":  "6086cc407fa60b0a923fd1e9b35f84b29d96d790e18fa80afbb6a8350b8905ec",
-                                     "notes_en":  [
-                                                      "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
-                                                  ],
-                                     "notes_he":  [
-                                                      "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
-                                                  ]
-                                 },
                     "LH Drum Force":  {
                                           "version":  "2.48.0",
                                           "important":  false,
@@ -493,18 +453,6 @@
                                                       "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
                                                   ]
                                  },
-                    "LH Reverb":  {
-                                      "version":  "2.48.0",
-                                      "important":  false,
-                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Reverb-Setup-2.48.0.exe",
-                                      "sha256":  "b8dd266e038a8ef37119b8b0e56d8fdc24d500bfd762fa0b0ca9b5afa53bab69",
-                                      "notes_en":  [
-                                                       "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
-                                                   ],
-                                      "notes_he":  [
-                                                       "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
-                                                   ]
-                                  },
                     "LH Rider":  {
                                      "version":  "2.48.0",
                                      "important":  false,
@@ -618,7 +566,69 @@
                                                       "פד חם, מקהלה, כינורות, דרון עמוק וסאונד + (פסנתר חשמלי, פד אוויר, פד מים ועוד), עם טקסטורות כמו גשם וקהל.",
                                                       "קליק ימני על אקורד לאקורדים של הסולם, עלייה / ירידה בין תיבות, האזנה ב-PLAY וגרירה למידי."
                                                   ]
-                                 }
+                                 },
+                    "LH Reverb":  {
+                                      "version":  "2.50.0",
+                                      "important":  false,
+                                      "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.50.0/LH-Reverb-Setup-2.50.0.exe",
+                                      "sha256":  "f492fe074f83163bc40c765b6a14df7cdc04880f73edc15263ded8ab5b45bc16",
+                                      "notes_en":  [
+                                                       "New sound engine: the reverb is dense from the very first moment, the highs ring longer and the lows are fuller - like a classic studio hall.",
+                                                       "TEMPO: decay and pre-delay from the song tempo (2 bars / 1 bar / 1/2 / 1/4), AUTO follows it too. SEND switch: on an FX channel AUTO keeps MIX at 100 %.",
+                                                       "Note: projects saved with an older version will sound different (brighter, fuller start)."
+                                                   ],
+                                      "notes_he":  [
+                                                       "מנוע סאונד חדש: הריוורב צפוף כבר מהרגע הראשון, הגבוהים נמשכים יותר והבסים מלאים יותר - כמו אולם אולפן קלאסי.",
+                                                       "טמפו: הדעיכה והפרי-דיליי לפי הטמפו של השיר (2 תיבות / תיבה / חצי / רבע), וגם AUTO הולך לפיו. מתג SEND: בערוץ אפקטים AUTO משאיר את ה-MIX על 100 %.",
+                                                       "שימו לב: פרויקטים שנשמרו בגרסה קודמת יישמעו אחרת (בהיר יותר, התחלה מלאה יותר)."
+                                                   ]
+                                  },
+                    "LH Delay":  {
+                                     "version":  "2.50.0",
+                                     "important":  false,
+                                     "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.50.0/LH-Delay-Setup-2.50.0.exe",
+                                     "sha256":  "84152f2a15db124c1c7c9c15770da36f98436142e03ae98cfa70c91b98ad8439",
+                                     "notes_en":  [
+                                                      "TEMPO box: type the BPM yourself or follow the host.",
+                                                      "AUTOMAT locks to the tempo: a free result snaps to the nearest note value.",
+                                                      "SEND switch: on an FX channel AUTOMAT keeps MIX at 100 %."
+                                                  ],
+                                     "notes_he":  [
+                                                      "חלון טמפו: מקלידים BPM בעצמכם או עוקבים אחרי התוכנה.",
+                                                      "AUTOMAT ננעל על הטמפו: תוצאה חופשית נצמדת לערך התו הקרוב.",
+                                                      "מתג SEND: בערוץ אפקטים AUTOMAT משאיר את ה-MIX על 100 %."
+                                                  ]
+                                 },
+                    "LH Modulation":  {
+                                          "version":  "2.50.0",
+                                          "important":  false,
+                                          "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.50.0/LH-Modulation-Setup-2.50.0.exe",
+                                          "sha256":  "a1d7165d4dee49020837a6dc13daed64140aa543d616a793e1e50b893722216d",
+                                          "notes_en":  [
+                                                           "Doubler REAL TAKE: sounds like a real second take - human timing per phrase, natural pitch drift, a small change of tone and level.",
+                                                           "New VOICE knob sets how different the second take is.",
+                                                           "With REAL TAKE off the doubler sounds exactly as before."
+                                                       ],
+                                          "notes_he":  [
+                                                           "טייק אמיתי בדאבלר: נשמע כמו טייק שני אמיתי - תזמון אנושי בכל משפט, סטייה טבעית בגובה, שינוי קטן בצבע ובעוצמה.",
+                                                           "כפתור צבע קול חדש קובע כמה הטייק השני שונה.",
+                                                           "כשטייק אמיתי כבוי, הדאבלר נשמע בדיוק כמו קודם."
+                                                       ]
+                                      },
+                    "LH Chord Studio":  {
+                                            "version":  "2.50.0",
+                                            "important":  false,
+                                            "url":  "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.50.0/LH-Chord-Studio-Setup-2.50.0.exe",
+                                            "sha256":  "9d83f785b6bd941fa859d49545e848c44f4a2d3c5401d4d93532fcc51f0f7522",
+                                            "notes_en":  [
+                                                             "Four new sounds from LH Atmos: ATMOS PAD, ATMOS CHOIR, ATMOS STRINGS and ATMOS E-PIANO.",
+                                                             "Saved projects keep their sound."
+                                                         ],
+                                            "notes_he":  [
+                                                             "ארבעה סאונדים חדשים מ-LH Atmos: פאד חם אטמוס, מקהלה אטמוס, כינורות אטמוס ופסנתר חשמלי אטמוס.",
+                                                             "פרויקטים שמורים שומרים על הסאונד שלהם."
+                                                         ]
+                                        }
                 },
     "announcement":  {
                          "id":  "lh-limit-2.36.0",
