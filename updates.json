@@ -645,7 +645,7 @@
       "version": "2.52.0",
       "important": false,
       "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Snap-Bands-Setup-2.52.0.exe",
-      "sha256": "6eade67d48d8b2e944c434041bd1a198ec0920a41215b4602a8e4150955c95c9",
+      "sha256": "02f1891273052f3262897b69f08df2296a830dc62f6c78287a01b55818afb881",
       "notes_en": [
         "First release: a multiband transient shaper - up to 3 bands, each with ATTACK, SUSTAIN and CONTOUR (Sharp / Normal / Smooth), and MODE Precise / Balanced / Loose.",
         "Live spectrum with draggable crossovers and LEARN, DELTA, MIX, input / output gain, pan, width, mono / phase / swap."
