@@ -32,17 +32,15 @@
       ]
     },
     "LH Inhale": {
-      "version": "2.44.0",
+      "version": "2.52.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Inhale-Setup-2.44.0.exe",
-      "sha256": "23b50c3b9037ba0afc9c2ce8e1aa24e940c5fd7cf6292ca1f925872e9842ae86",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Inhale-Setup-2.52.0.exe",
+      "sha256": "c0045fbf74d9a0e092e58b89ea3d9df712740a97b3d80ea469cd9b420afc61d4",
       "notes_en": [
-        "New TREMOLO wave: SINE, SQUARE or TRIANGLE, with a SPEED pad.",
-        "SLOW keeps the rise exactly as before - no jump at the start."
+        "BAR LOCK (on by default): the rendered riser file is exactly the chosen number of bars, so it ends right on the bar line."
       ],
       "notes_he": [
-        "גל טרמולו חדש: סינוס, ריבוע או משולש, עם משטח מהירות.",
-        "איטי שומר על העלייה בדיוק כמו קודם - בלי קפיצה בהתחלה."
+        "נעילה לתיבה (פעילה כברירת מחדל): קובץ הרייזר יוצא בדיוק במספר התיבות שבחרת, ונגמר בדיוק על קו התיבה."
       ]
     },
     "LH Drummer": {
@@ -641,6 +639,44 @@
       "notes_he": [
         "גרסה ראשונה: קומפרסור באס בסגנון חומרה - סף, הגברה, תקיפה ושחרור בדרגות (כולל אוטומטי), יחס 2 / 4 / 10, מסנן, מיקס ויציאה.",
         "פייד עם זמן פייד (1-60 שניות) מוריד ומחזיר את המיקס לבד; אנלוגי מוסיף צבע עדין של קונסולה."
+      ]
+    },
+    "LH Snap Bands": {
+      "version": "2.52.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Snap-Bands-Setup-2.52.0.exe",
+      "sha256": "6eade67d48d8b2e944c434041bd1a198ec0920a41215b4602a8e4150955c95c9",
+      "notes_en": [
+        "First release: a multiband transient shaper - up to 3 bands, each with ATTACK, SUSTAIN and CONTOUR (Sharp / Normal / Smooth), and MODE Precise / Balanced / Loose.",
+        "Live spectrum with draggable crossovers and LEARN, DELTA, MIX, input / output gain, pan, width, mono / phase / swap."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: מעצב טרנזיינטים מולטי-בנד - עד 3 בנדים, ובכל אחד התקפה, סאסטיין וקונטור (חד / רגיל / רך), ומצב מדויק / מאוזן / משוחרר.",
+        "ספקטרום חי עם נקודות חיתוך לגרירה ולמידה, דלתא, מיקס, עוצמת כניסה ויציאה, פאן, רוחב, מונו / פאזה / החלפה."
+      ]
+    },
+    "LH Phase Align": {
+      "version": "2.52.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Phase-Align-Setup-2.52.0.exe",
+      "sha256": "8c9ec376bbcea1615fa173feb8797bc75df0ae15e1827e9632dfbaa4308b9df8",
+      "notes_en": [
+        "Hebrew now changes only the words - every control stays exactly where it is in English."
+      ],
+      "notes_he": [
+        "בעברית משתנות עכשיו רק המילים - כל הכפתורים נשארים בדיוק במקום שלהם כמו באנגלית."
+      ]
+    },
+    "LH Remix Architect": {
+      "version": "2.52.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Remix-Architect-Setup-2.52.0.exe",
+      "sha256": "c0da54a2b3c7c56b4e0a6b4d0df22950212b649612f463698f98c0307b96f418",
+      "notes_en": [
+        "Hebrew now changes only the words - every control stays exactly where it is in English."
+      ],
+      "notes_he": [
+        "בעברית משתנות עכשיו רק המילים - כל הכפתורים נשארים בדיוק במקום שלהם כמו באנגלית."
       ]
     }
   },
