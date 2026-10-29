@@ -174,15 +174,15 @@
       ]
     },
     "LH Compressor": {
-      "version": "2.46.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Compressor-Setup-2.46.0.exe",
-      "sha256": "9327d00de9c1b6b05fa95a70964918f84844f4bf7fa53110b1a57a438d5af3a0",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Compressor-Setup-2.53.0.exe",
+      "sha256": "39dd2b84bc27bbe1474772ecf1ffa6f2cb35b3e2ea8f42a4e6f543a4ca553e9e",
       "notes_en": [
-        "Now listed under L.H Studio in your plugin list (was a separate vendor folder)."
+        "AUTOMAT now gives back the level it compresses away (makeup gain), so the sound no longer drops after AUTOMAT."
       ],
       "notes_he": [
-        "מופיע עכשיו תחת L.H Studio ברשימת הפלאגינים (היה בתיקייה נפרדת)."
+        "AUTOMAT מחזיר עכשיו את העוצמה שהקומפרסיה לוקחת (מייקאפ), כך שהסאונד כבר לא נהיה חלש יותר אחרי AUTOMAT."
       ]
     },
     "LH Dyna": {
@@ -262,33 +262,29 @@
       ]
     },
     "LH EQ": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-EQ-Setup-2.48.0.exe",
-      "sha256": "0f069e42ff8995c3a053692b7ae8d6288429ab476b9078914e12590a5ba0efbd",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-EQ-Setup-2.53.0.exe",
+      "sha256": "def5def3c7149d775f2cf0f5cfd0501c4e6b3fb0cf17260d3ad636e208de4527",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish.",
-        "FIX ALL no longer adds a second cut where a problem was already fixed.",
-        "The spectrum clears about a second after you stop, and the graph and low / high cuts are drawn cleaner."
+        "AUTOMAT is smarter: held musical notes are no longer cut as 'resonances' - only real problems get fixed."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio.",
-        "תיקון הכל כבר לא מוסיף חיתוך שני במקום שכבר תוקן.",
-        "הספקטרום מתנקה בערך שנייה אחרי העצירה, והגרף וחיתוכי הנמוכים / הגבוהים מצוירים נקי יותר."
+        "AUTOMAT חכם יותר: תווים מוזיקליים מתמשכים כבר לא נחתכים כאילו הם רזוננסים - מתוקנות רק בעיות אמיתיות."
       ]
     },
     "LH Snap": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Snap-Setup-2.48.0.exe",
-      "sha256": "698c3d758bafed83f5c081f7bc1c29861b8a829eef09ba72080e7da528fcc09e",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Snap-Setup-2.53.0.exe",
+      "sha256": "9187573fa6bc6ecdfd938451913a11462f5f6f7eb52c68567b679eb3e81c8ea8",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish (one dark look).",
-        "The window can now shrink to 60 % (size menu 60 - 200 %)."
+        "AUTO now turns AUTO GAIN on, so its settings don't jump in volume.",
+        "Better handling of kicks and drum loops."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד).",
-        "אפשר להקטין את החלון עד 60% (תפריט גודל 60 - 200%)."
+        "AUTO מדליק עכשיו את AUTO GAIN, כך שההגדרות שלו לא קופצות בעוצמה.",
+        "טיפול טוב יותר בקיקים ובלופים של תופים."
       ]
     },
     "LH Flow": {
@@ -332,15 +328,15 @@
       ]
     },
     "LH Distortion": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Distortion-Setup-2.48.0.exe",
-      "sha256": "183007ddcda0cf52b0f0808dd134a6aca67184cb78cf16b24aa93277c26d2720",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Distortion-Setup-2.53.0.exe",
+      "sha256": "d9f779ebe60ed9a8efb81228c9c91060e624a918c9cd5e158ee81c93cec44a8c",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+        "AUTOMAT decides on more kinds of material (e.g. snare loops) and keeps the output level matched."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+        "AUTOMAT מחליט על יותר סוגי חומר (למשל לופים של סנר) ושומר על עוצמת יציאה תואמת."
       ]
     },
     "LH Kick": {
@@ -368,15 +364,15 @@
       ]
     },
     "LH Clipper": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Clipper-Setup-2.48.0.exe",
-      "sha256": "5f04f68ba0bf99f4b4490831daa5fe4e6ad508ccb941ef2c58def2536c301549",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Clipper-Setup-2.53.0.exe",
+      "sha256": "e215d85cae6e07a62ffbdf04e1984a467f5cf838ea4b3f4880038d836bee1fb3",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+        "AUTOMAT recognises a full mix as MIX (not DRUMS) and sets it up accordingly."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+        "AUTOMAT מזהה מיקס מלא כ-MIX (ולא כתופים) ומכוון בהתאם."
       ]
     },
     "LH Core": {
@@ -404,27 +400,27 @@
       ]
     },
     "LH Drum Force": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Drum-Force-Setup-2.48.0.exe",
-      "sha256": "d5b77fe1687de3f2b6c428f2aea495d48a2eef4afa9b75a1d54f58ffac0e2f4d",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Drum-Force-Setup-2.53.0.exe",
+      "sha256": "e371da099486429422fbcc2a6388f97477beacbe1236a7f8022d94d0edcbb6e7",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+        "AUTOMAT recognises a full mix or guitars as 'not drums' and never makes them louder."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+        "AUTOMAT מזהה מיקס מלא או גיטרות כ'לא תופים' ואף פעם לא מגביר אותם."
       ]
     },
     "LH Gate": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Gate-Setup-2.48.0.exe",
-      "sha256": "1945dae4177958d3edfedda86c71d0a7124fd4d0d8432bfbab16611c7ce42e0b",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Gate-Setup-2.53.0.exe",
+      "sha256": "3fe75a11a757a4b85fbbada3b0ee1603b6836c8c88969be963ff720a4363c2bd",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish; the settings are now in clear cards."
+        "AUTOMAT: the threshold no longer drops far too low on quiet material, and bass / low notes are no longer taken for a vocal."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio; ההגדרות עכשיו בכרטיסים ברורים."
+        "AUTOMAT: הסף כבר לא יורד נמוך מדי בחומר שקט, ובס / תווים נמוכים כבר לא מזוהים כווקאל."
       ]
     },
     "LH Lift": {
@@ -440,15 +436,15 @@
       ]
     },
     "LH Limit": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Limit-Setup-2.48.0.exe",
-      "sha256": "1735364d88d749a351bcabda6e27e786df6ee9f25c5919fa25c16c494dd6a41a",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Limit-Setup-2.53.0.exe",
+      "sha256": "0553733538eb9df554778eaf5c1f96a3ccd1d3b4b4193af81e55cfe301891c6a",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+        "AUTOMAT now tells you when the song is already louder than the target, instead of overshooting it."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+        "AUTOMAT אומר עכשיו כשהשיר כבר חזק יותר מהיעד, במקום לעבור אותו."
       ]
     },
     "LH Rider": {
@@ -536,17 +532,17 @@
       ]
     },
     "LH Art Attack": {
-      "version": "2.48.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Snap-Setup-2.48.0.exe",
-      "sha256": "698c3d758bafed83f5c081f7bc1c29861b8a829eef09ba72080e7da528fcc09e",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Snap-Setup-2.53.0.exe",
+      "sha256": "9187573fa6bc6ecdfd938451913a11462f5f6f7eb52c68567b679eb3e81c8ea8",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish (one dark look).",
-        "The window can now shrink to 60 % (size menu 60 - 200 %)."
+        "AUTO now turns AUTO GAIN on, so its settings don't jump in volume.",
+        "Better handling of kicks and drum loops."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד).",
-        "אפשר להקטין את החלון עד 60% (תפריט גודל 60 - 200%)."
+        "AUTO מדליק עכשיו את AUTO GAIN, כך שההגדרות שלו לא קופצות בעוצמה.",
+        "טיפול טוב יותר בקיקים ובלופים של תופים."
       ]
     },
     "LH Atmos": {
@@ -566,19 +562,15 @@
       ]
     },
     "LH Reverb": {
-      "version": "2.50.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.50.0/LH-Reverb-Setup-2.50.0.exe",
-      "sha256": "f492fe074f83163bc40c765b6a14df7cdc04880f73edc15263ded8ab5b45bc16",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Reverb-Setup-2.53.0.exe",
+      "sha256": "baa3fd309784610f0f26725784ec78610045a6d35b571849f5b7147a9511ff32",
       "notes_en": [
-        "New sound engine: the reverb is dense from the very first moment, the highs ring longer and the lows are fuller - like a classic studio hall.",
-        "TEMPO: decay and pre-delay from the song tempo (2 bars / 1 bar / 1/2 / 1/4), AUTO follows it too. SEND switch: on an FX channel AUTO keeps MIX at 100 %.",
-        "Note: projects saved with an older version will sound different (brighter, fuller start)."
+        "AUTOMAT recognises percussion and bass more reliably, for a better-fitting reverb."
       ],
       "notes_he": [
-        "מנוע סאונד חדש: הריוורב צפוף כבר מהרגע הראשון, הגבוהים נמשכים יותר והבסים מלאים יותר - כמו אולם אולפן קלאסי.",
-        "טמפו: הדעיכה והפרי-דיליי לפי הטמפו של השיר (2 תיבות / תיבה / חצי / רבע), וגם AUTO הולך לפיו. מתג SEND: בערוץ אפקטים AUTO משאיר את ה-MIX על 100 %.",
-        "שימו לב: פרויקטים שנשמרו בגרסה קודמת יישמעו אחרת (בהיר יותר, התחלה מלאה יותר)."
+        "AUTOMAT מזהה כלי הקשה ובס בצורה אמינה יותר, לריוורב שמתאים יותר."
       ]
     },
     "LH Delay": {
@@ -598,19 +590,15 @@
       ]
     },
     "LH Modulation": {
-      "version": "2.50.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.50.0/LH-Modulation-Setup-2.50.0.exe",
-      "sha256": "a1d7165d4dee49020837a6dc13daed64140aa543d616a793e1e50b893722216d",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Modulation-Setup-2.53.0.exe",
+      "sha256": "bd2ce42c9419502899704ff6cfc530f72e3da3aa3244a171b2d84b1127c9964d",
       "notes_en": [
-        "Doubler REAL TAKE: sounds like a real second take - human timing per phrase, natural pitch drift, a small change of tone and level.",
-        "New VOICE knob sets how different the second take is.",
-        "With REAL TAKE off the doubler sounds exactly as before."
+        "AUTOMAT recognises the source more accurately (the shared L.H Studio detector)."
       ],
       "notes_he": [
-        "טייק אמיתי בדאבלר: נשמע כמו טייק שני אמיתי - תזמון אנושי בכל משפט, סטייה טבעית בגובה, שינוי קטן בצבע ובעוצמה.",
-        "כפתור צבע קול חדש קובע כמה הטייק השני שונה.",
-        "כשטייק אמיתי כבוי, הדאבלר נשמע בדיוק כמו קודם."
+        "AUTOMAT מזהה את סוג הסאונד בדיוק רב יותר (הזיהוי המשותף של L.H Studio)."
       ]
     },
     "LH Chord Studio": {
@@ -642,17 +630,17 @@
       ]
     },
     "LH Snap Bands": {
-      "version": "2.52.0",
+      "version": "2.53.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Snap-Bands-Setup-2.52.0.exe",
-      "sha256": "02f1891273052f3262897b69f08df2296a830dc62f6c78287a01b55818afb881",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Snap-Bands-Setup-2.53.0.exe",
+      "sha256": "0a6aba5728abb7549698bb96b7c2afc46a42b9e81ddb1fb3bd1ce35efc936e10",
       "notes_en": [
-        "First release: a multiband transient shaper - up to 3 bands, each with ATTACK, SUSTAIN and CONTOUR (Sharp / Normal / Smooth), and MODE Precise / Balanced / Loose.",
-        "Live spectrum with draggable crossovers and LEARN, DELTA, MIX, input / output gain, pan, width, mono / phase / swap."
+        "Linear-phase band split: more open, natural highs (e.g. hi-hats).",
+        "With 2-3 bands it adds about 11 ms latency, which Cubase compensates automatically."
       ],
       "notes_he": [
-        "גרסה ראשונה: מעצב טרנזיינטים מולטי-בנד - עד 3 בנדים, ובכל אחד התקפה, סאסטיין וקונטור (חד / רגיל / רך), ומצב מדויק / מאוזן / משוחרר.",
-        "ספקטרום חי עם נקודות חיתוך לגרירה ולמידה, דלתא, מיקס, עוצמת כניסה ויציאה, פאן, רוחב, מונו / פאזה / החלפה."
+        "חלוקת בנדים בפאזה לינארית: גבוהים פתוחים וטבעיים יותר (למשל היי-האטים).",
+        "עם 2-3 בנדים נוספת השהיה של כ-11 מילישניות, וקיובייס מפצה עליה לבד."
       ]
     },
     "LH Phase Align": {
@@ -677,6 +665,18 @@
       ],
       "notes_he": [
         "בעברית משתנות עכשיו רק המילים - כל הכפתורים נשארים בדיוק במקום שלהם כמו באנגלית."
+      ]
+    },
+    "LH Resonance": {
+      "version": "2.53.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Resonance-Setup-2.53.0.exe",
+      "sha256": "2e949425540b442e2a19c9cd643557208db0898a3e14e99308c8d2dddf6f1560",
+      "notes_en": [
+        "AUTO recognises the source more accurately (the shared L.H Studio detector)."
+      ],
+      "notes_he": [
+        "AUTO מזהה את סוג הסאונד בדיוק רב יותר (הזיהוי המשותף של L.H Studio)."
       ]
     }
   },
