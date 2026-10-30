@@ -316,15 +316,17 @@
       ]
     },
     "LH Clash": {
-      "version": "2.48.0",
+      "version": "2.54.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Clash-Setup-2.48.0.exe",
-      "sha256": "82ff6e87d51c6c792a6e20a929cec98df5ce9d5fea24c647ca23ffea9e8d7849",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-Clash-Setup-2.54.0.exe",
+      "sha256": "ff78c5b91072757fba8c8ab4741426e15e9cbebc66c9a02092d4d52a06b46864",
       "notes_en": [
-        "AUTOMAT no longer mistakes a synth bass under a kick for percussion."
+        "Simpler choice: 4 clear pairs - KICK > BASS, VOCAL > GUITAR, VOCAL > PAD, LEAD > BACKING.",
+        "Old sessions still load and sound the same."
       ],
       "notes_he": [
-        "אוטומט כבר לא מתבלבל בין בס סינתי מתחת לקיק לבין כלי הקשה."
+        "בחירה פשוטה יותר: 4 זוגות ברורים - קיק > בס, ווקאל > גיטרה, ווקאל > פד, ליד > ליווי.",
+        "סשנים ישנים נטענים ונשמעים בדיוק כמו קודם."
       ]
     },
     "LH Distortion": {
@@ -388,15 +390,15 @@
       ]
     },
     "LH De-Esser": {
-      "version": "2.48.0",
+      "version": "2.54.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-De-Esser-Setup-2.48.0.exe",
-      "sha256": "ec4575661a8bed2fd613c730cb2f1a2b420e358ff436985d5576fd691b48d259",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-De-Esser-Setup-2.54.0.exe",
+      "sha256": "9b61f62fda35bb9eb3838dcc95acbece84ffed9f54abcbd43298fbc108904e06",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+        "The S listen button now plays only the S sounds that are removed - no more singing in the solo."
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+        "כפתור ההאזנה (S) משמיע עכשיו רק את השיניים שמוסרות - בלי שירה בסולו."
       ]
     },
     "LH Drum Force": {
@@ -630,17 +632,15 @@
       ]
     },
     "LH Snap Bands": {
-      "version": "2.53.0",
+      "version": "2.54.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Snap-Bands-Setup-2.53.0.exe",
-      "sha256": "0a6aba5728abb7549698bb96b7c2afc46a42b9e81ddb1fb3bd1ce35efc936e10",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-Snap-Bands-Setup-2.54.0.exe",
+      "sha256": "05a256e0d4e7ba6a55f32a3be372588eb5ddf52061fb2fd3a0e6642818068a6f",
       "notes_en": [
-        "Linear-phase band split: more open, natural highs (e.g. hi-hats).",
-        "With 2-3 bands it adds about 11 ms latency, which Cubase compensates automatically."
+        "New design: a big gain display and one card per band (ATTACK, SUSTAIN, CONTOUR)."
       ],
       "notes_he": [
-        "חלוקת בנדים בפאזה לינארית: גבוהים פתוחים וטבעיים יותר (למשל היי-האטים).",
-        "עם 2-3 בנדים נוספת השהיה של כ-11 מילישניות, וקיובייס מפצה עליה לבד."
+        "עיצוב חדש: תצוגת גיין גדולה וכרטיס לכל בנד (ATTACK, SUSTAIN, CONTOUR)."
       ]
     },
     "LH Phase Align": {
@@ -677,6 +677,20 @@
       ],
       "notes_he": [
         "AUTO מזהה את סוג הסאונד בדיוק רב יותר (הזיהוי המשותף של L.H Studio)."
+      ]
+    },
+    "LH MotionBox": {
+      "version": "2.54.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-MotionBox-Setup-2.54.0.exe",
+      "sha256": "2e2a14d1acef9cb081d6fa8d22df57e17ae690bf72a7d462f751d4cb4c918daf",
+      "notes_en": [
+        "Bigger graph in every module: the module knobs moved down next to GLOBAL MIX / OUTPUT.",
+        "New tile row: 10 quick shapes per module + 10 slots for your own envelopes."
+      ],
+      "notes_he": [
+        "גרף גדול יותר בכל המודולים: הכפתורים של המודול ירדו למטה ליד המיקס הכללי והיציאה.",
+        "שורת אריחים חדשה: 10 צורות מהירות לכל מודול + 10 מקומות למעטפות שלך."
       ]
     }
   },
