@@ -70,17 +70,17 @@
       ]
     },
     "LH Granular": {
-      "version": "2.44.0",
+      "version": "2.55.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Granular-Setup-2.44.0.exe",
-      "sha256": "b3e4d4866ab94beba12f12324d4eed9cb268fd4a69418ce97792c2a9887c53a0",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Granular-Setup-2.55.0.exe",
+      "sha256": "e36468f8c5ddb53450190201be7aff2a8fcd32ddda17702a23b87a79adb80be9",
       "notes_en": [
-        "New: a live granular effect - turns any sound into clouds, shimmers and stutters.",
-        "42 presets in 4 groups: vocal, pads, synth, FX and rhythm."
+        "55 presets (13 new), including Mizrahi Silk, Glacier Pad and Reverse Swell Bars.",
+        "No more overs: on hot vocals the grains dip so the output never passes 0 dB."
       ],
       "notes_he": [
-        "חדש: אפקט גרנולרי חי - הופך כל סאונד לעננים, נצנוצים וגמגומים.",
-        "42 פריסטים ב-4 קבוצות: ווקאל, פדים, סינת', אפקטים וקצב."
+        "55 פריסטים (13 חדשים), ביניהם Mizrahi Silk, ‏Glacier Pad ו-Reverse Swell Bars.",
+        "בלי עיוותים: בשירה חזקה הגריינים יורדים כך שהיציאה לא עוברת 0 dB."
       ]
     },
     "LH Sample Finder": {
@@ -691,6 +691,78 @@
       "notes_he": [
         "גרף גדול יותר בכל המודולים: הכפתורים של המודול ירדו למטה ליד המיקס הכללי והיציאה.",
         "שורת אריחים חדשה: 10 צורות מהירות לכל מודול + 10 מקומות למעטפות שלך."
+      ]
+    },
+    "LH 73": {
+      "version": "2.55.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-73-Setup-2.55.0.exe",
+      "sha256": "3906a5a2d8890ee6667ff1b2453b1d93685e6d5d36b181285b7cc8ca7636e017",
+      "notes_en": [
+        "First release: a class-A preamp + EQ in the classic 73 style.",
+        "Preamp with LINE / MIC drive, HIGH, MID, LOW, HIGH PASS, fader, AUTO GAIN and A | B.",
+        "12 presets and a live EQ curve."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: פרי-אמפ קלאס A ו-EQ בסגנון ה-73 הקלאסי.",
+        "פרי-אמפ עם הגברת ליין / מיק, גבוהים, אמצע, נמוכים, חותך נמוכים, פיידר, גיין אוטומטי ו-A | B.",
+        "12 פריסטים ועקומת EQ חיה."
+      ]
+    },
+    "LH Chorus": {
+      "version": "2.55.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Chorus-Setup-2.55.0.exe",
+      "sha256": "fe14c69ce31e42926d72753bf448941b2ef54a7b142a0b21fabc7205f4808672",
+      "notes_en": [
+        "First release: a stereo chorus with CLASSIC, DIMENSION, ENSEMBLE and LUSH modes.",
+        "2 / 4 / 6 voices, tempo sync, low / high cut and MIX."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: קורוס סטריאו עם מצבי CLASSIC, DIMENSION, ENSEMBLE ו-LUSH.",
+        "2 / 4 / 6 קולות, סנכרון לטמפו, חיתוך נמוכים / גבוהים ו-MIX."
+      ]
+    },
+    "LH Flanger": {
+      "version": "2.55.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Flanger-Setup-2.55.0.exe",
+      "sha256": "fcc33f08475faa4e4a96307071cd6be7d3ea1b671ffb4595d72dd516dfb32386",
+      "notes_en": [
+        "First release: a flanger with CLASSIC, THROUGH-ZERO, INFINITE and BARBERPOLE modes.",
+        "Sweeps in notes or bars, UP / DOWN / LOOP direction and a rhythmic GATE."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: פלנג'ר עם מצבי CLASSIC, THROUGH-ZERO, INFINITE ו-BARBERPOLE.",
+        "סוויפ בתווים או בתיבות, כיוון למעלה / למטה / לופ ו-GATE קצבי."
+      ]
+    },
+    "LH Doubler": {
+      "version": "2.55.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Doubler-Setup-2.55.0.exe",
+      "sha256": "ff24d67bb4ab1ca6718eb72684dae8afa0e9fea051f4628b1ebc0f83676949fc",
+      "notes_en": [
+        "First release: natural double-tracking for vocals and guitars.",
+        "2 / 4 / 8 takes with their own timing and pitch, WIDTH, AIR and LOW CUT. The original stays untouched."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: דאבל טבעי לשירה ולגיטרות.",
+        "2 / 4 / 8 טייקים עם תזמון וגובה משלהם, WIDTH, AIR ו-LOW CUT. המקור נשאר כמו שהוא."
+      ]
+    },
+    "LH Denoise": {
+      "version": "2.55.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Denoise-Setup-2.55.0.exe",
+      "sha256": "d1777964aa5ca9b0ac7709e4472f6447989a1fc9c86bd6e9dd5606b4b5b64dd0",
+      "notes_en": [
+        "First release: removes hum, air conditioner and hiss from vocals with one knob.",
+        "The voice itself stays clean."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: מסיר זמזום, מזגן ורחש מהשירה בכפתור אחד.",
+        "הקול עצמו נשאר נקי."
       ]
     }
   },
