@@ -694,19 +694,15 @@
       ]
     },
     "LH 73": {
-      "version": "2.55.0",
+      "version": "2.56.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-73-Setup-2.55.0.exe",
-      "sha256": "3906a5a2d8890ee6667ff1b2453b1d93685e6d5d36b181285b7cc8ca7636e017",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.56.0/LH-73-Setup-2.56.0.exe",
+      "sha256": "8e1488393a29354e60b5f4bede0090acdc10d7f69179a5e11acbccca37072a31",
       "notes_en": [
-        "First release: a class-A preamp + EQ in the classic 73 style.",
-        "Preamp with LINE / MIC drive, HIGH, MID, LOW, HIGH PASS, fader, AUTO GAIN and A | B.",
-        "12 presets and a live EQ curve."
+        "EQ screen: a deep cut now shows the curve going all the way down instead of stopping flat at -18 dB."
       ],
       "notes_he": [
-        "גרסה ראשונה: פרי-אמפ קלאס A ו-EQ בסגנון ה-73 הקלאסי.",
-        "פרי-אמפ עם הגברת ליין / מיק, גבוהים, אמצע, נמוכים, חותך נמוכים, פיידר, גיין אוטומטי ו-A | B.",
-        "12 פריסטים ועקומת EQ חיה."
+        "מסך ה-EQ: חיתוך עמוק מראה עכשיו את העקומה יורדת עד הסוף, במקום להיעצר שטוחה ב-18- dB."
       ]
     },
     "LH Chorus": {
@@ -763,6 +759,22 @@
       "notes_he": [
         "גרסה ראשונה: מסיר זמזום, מזגן ורחש מהשירה בכפתור אחד.",
         "הקול עצמו נשאר נקי."
+      ]
+    },
+    "LH L2": {
+      "version": "2.56.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.56.0/LH-L2-Setup-2.56.0.exe",
+      "sha256": "9fb331c3691ce249ce985c3aab7df0d1bea250c35269e32d469f5bd5d9578454",
+      "notes_en": [
+        "First release: an optical leveling amp in the classic opto style - smooth, musical leveling for vocals, bass and buses.",
+        "PEAK REDUCTION, GAIN, COMP / LIMIT, MIX, a real VU (GR / +4 / +10) and an OPTO CELL lamp.",
+        "AUTO GAIN keeps the output as loud as the input. 10 presets, A | B."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: מיישר אופטי בסגנון האופטו הקלאסי - יישור חלק ומוזיקלי לשירה, בס ובאסים.",
+        "דחיסה, הגברה, קומפרסור / לימיטר, מיקס, מד VU אמיתי (GR / 4+ / 10+) ומנורת תא אופטי.",
+        "גיין אוטומטי שומר על היציאה באותה עוצמה כמו הכניסה. 10 פריסטים, A | B."
       ]
     }
   },
