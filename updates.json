@@ -747,20 +747,6 @@
         "2 / 4 / 8 טייקים עם תזמון וגובה משלהם, WIDTH, AIR ו-LOW CUT. המקור נשאר כמו שהוא."
       ]
     },
-    "LH Denoise": {
-      "version": "2.55.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Denoise-Setup-2.55.0.exe",
-      "sha256": "d1777964aa5ca9b0ac7709e4472f6447989a1fc9c86bd6e9dd5606b4b5b64dd0",
-      "notes_en": [
-        "First release: removes hum, air conditioner and hiss from vocals with one knob.",
-        "The voice itself stays clean."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: מסיר זמזום, מזגן ורחש מהשירה בכפתור אחד.",
-        "הקול עצמו נשאר נקי."
-      ]
-    },
     "LH L2": {
       "version": "2.56.0",
       "important": false,
