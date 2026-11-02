@@ -32,15 +32,19 @@
       ]
     },
     "LH Inhale": {
-      "version": "2.52.0",
+      "version": "2.57.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.52.0/LH-Inhale-Setup-2.52.0.exe",
-      "sha256": "c0045fbf74d9a0e092e58b89ea3d9df712740a97b3d80ea469cd9b420afc61d4",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.57.0/LH-Inhale-Setup-2.57.0.exe",
+      "sha256": "d8222981d883d2a827b7fc00c3d3225f5280d94df89889a9574c81dce8c3f149",
       "notes_en": [
-        "BAR LOCK (on by default): the rendered riser file is exactly the chosen number of bars, so it ends right on the bar line."
+        "Drop a vocal file (or an audio event from your DAW) onto the plugin - it becomes the capture, placed at the cursor or at the file's own position.",
+        "More accurate on real vocals: finds where the singer really comes in (breaths, clicks and rumble no longer fool it), better S detection, and the riser's level follows the singer.",
+        "7 new style presets: Mizrahi Remix, Ballad, Pop, Trap, EDM Drop, Lo-Fi, House."
       ],
       "notes_he": [
-        "נעילה לתיבה (פעילה כברירת מחדל): קובץ הרייזר יוצא בדיוק במספר התיבות שבחרת, ונגמר בדיוק על קו התיבה."
+        "גררו קובץ ווקאל (או אירוע אודיו מהתוכנה) אל הפלאגין - הוא הופך לקליטה, וממוקם בסמן או במקום המקורי של הקובץ.",
+        "מדויק יותר על ווקאלים אמיתיים: מזהה איפה הזמר באמת נכנס (נשימות, קליקים ורעש נמוך כבר לא מטעים), זיהוי ס' טוב יותר, ועוצמת הרייזר מותאמת לזמר.",
+        "7 פריסטים חדשים לפי סגנון: רמיקס מזרחי, בלדה, פופ, טראפ, דרופ EDM, לו-פיי, האוס."
       ]
     },
     "LH Drummer": {
@@ -230,19 +234,15 @@
       ]
     },
     "LH Orbit": {
-      "version": "2.47.0",
+      "version": "2.57.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.47.0/LH-Orbit-Setup-2.47.0.exe",
-      "sha256": "b552e0e7146f216e2df0d96bb41f9573c33991722e9464b20431d721124515bf",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.57.0/LH-Orbit-Setup-2.57.0.exe",
+      "sha256": "f8fa706626c90730bccadfac2add628a4f8594ee886af1b856426125641fb37b",
       "notes_en": [
-        "First release: moves your sound around your head in 3D - circle, figure 8, spiral up, fly-by, ping-pong or a path you draw.",
-        "Locked to the song's bars; height, distance, doppler and room. HEADPHONES for the full 3D, SPEAKERS for a wide mono-safe pan, BASS MONO.",
-        "Grab the sound on the 3D stage and hold it anywhere around you."
+        "10 new presets: Fall After The Drop, Long 16-Bar Build, Snare Roll Fly-By, Vocal Chops Ping-Pong, Adlibs Around and more - 22 in total."
       ],
       "notes_he": [
-        "גרסה ראשונה: מסובב את הסאונד מסביב לראש ב-3D - עיגול, שמינייה, ספירלה למעלה, מטוס חולף, פינג-פונג או מסלול שמציירים.",
-        "נעול לתיבות של השיר; גובה, מרחק, דופלר וחדר. אוזניות ל-3D המלא, רמקולים לתנועה רחבה ונקייה במונו, באס מונו.",
-        "תופסים את הסאונד על הבמה ומשאירים אותו בכל מקום מסביבך."
+        "10 פריסטים חדשים: נפילה אחרי הדרופ, בילד ארוך של 16 תיבות, סנר שעובר ליד, צ'ופים של ווקאל מצד לצד, אדליבים מסביב ועוד - 22 בסך הכול."
       ]
     },
     "LH Bass Lines": {
@@ -775,6 +775,22 @@
         "גרסה ראשונה: מיישר אופטי בסגנון האופטו הקלאסי - יישור חלק ומוזיקלי לשירה, בס ובאסים.",
         "דחיסה, הגברה, קומפרסור / לימיטר, מיקס, מד VU אמיתי (GR / 4+ / 10+) ומנורת תא אופטי.",
         "גיין אוטומטי שומר על היציאה באותה עוצמה כמו הכניסה. 10 פריסטים, A | B."
+      ]
+    },
+    "LH Throw": {
+      "version": "2.57.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.57.0/LH-Throw-Setup-2.57.0.exe",
+      "sha256": "900a1a6050fb1cb4f147ca278d74e932d38d067c4b269e88b9c994e250b815bd",
+      "notes_en": [
+        "SMART styles: 6 ready styles (Mizrahi Pop, Club Remix, Ballad, Tight & Dry, Dramatic, FX Remix) pick the right throw for each line - held notes, short gaps, section ends.",
+        "New FX throw types: a reverse swell into the word, Telephone, Stutter, Octave.",
+        "Save your own styles: My presets learn from the throws you set."
+      ],
+      "notes_he": [
+        "סגנונות חכמים: 6 סגנונות מוכנים (מזרחי פופ, רמיקס מועדונים, בלדה, הדוק ויבש, דרמטי, רמיקס אפקטים) בוחרים את הזריקה המתאימה לכל שורה - תווים מוחזקים, הפסקות קצרות, סופי חלקים.",
+        "סוגי זריקות אפקט חדשים: ריברס שמתנפח לתוך המילה, טלפון, סטאטר, אוקטבה.",
+        "שמירת סגנונות משלכם: הפריסטים שלי לומדים מהזריקות שקבעתם."
       ]
     }
   },
