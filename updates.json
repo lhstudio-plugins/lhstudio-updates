@@ -438,27 +438,27 @@
       ]
     },
     "LH Limit": {
-      "version": "2.53.0",
+      "version": "2.58.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Limit-Setup-2.53.0.exe",
-      "sha256": "0553733538eb9df554778eaf5c1f96a3ccd1d3b4b4193af81e55cfe301891c6a",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Limit-Setup-2.58.0.exe",
+      "sha256": "00626cfba125ff95d453fa1a720e3ded918cbf3b56a4266782401588ae09aef2",
       "notes_en": [
-        "AUTOMAT now tells you when the song is already louder than the target, instead of overshooting it."
+        "New AUTO RELEASE (off by default): the release follows the music for a cleaner, louder master."
       ],
       "notes_he": [
-        "AUTOMAT אומר עכשיו כשהשיר כבר חזק יותר מהיעד, במקום לעבור אותו."
+        "חדש: שחרור אוטומטי (כבוי כברירת מחדל) - השחרור הולך לפי המוזיקה למאסטר נקי וחזק יותר."
       ]
     },
     "LH Rider": {
-      "version": "2.48.0",
+      "version": "2.58.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Rider-Setup-2.48.0.exe",
-      "sha256": "363970277e960b59ab0cf2d0f415b4b47897b2e06d422a35b4b394c8ceeaef5c",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Rider-Setup-2.58.0.exe",
+      "sha256": "4eb9674985e50d5c086596dea8007ee24000ed2992c11a7c5260ad682a41f4c7",
       "notes_en": [
-        "Back to its original turquoise console design."
+        "Without a beat on the side-chain, the vocal is now evened out much better."
       ],
       "notes_he": [
-        "חזרה לעיצוב הקונסולה הטורקיז המקורי."
+        "בלי ביט בסייד-צ'יין, השירה מתיישרת עכשיו הרבה יותר טוב."
       ]
     },
     "LH Ember": {
@@ -564,15 +564,17 @@
       ]
     },
     "LH Reverb": {
-      "version": "2.53.0",
+      "version": "2.58.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Reverb-Setup-2.53.0.exe",
-      "sha256": "baa3fd309784610f0f26725784ec78610045a6d35b571849f5b7147a9511ff32",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Reverb-Setup-2.58.0.exe",
+      "sha256": "a6e40a8cdc083bd067829dba60681fc53ba3c5bbb3aa18f78231ca8d0ad237d9",
       "notes_en": [
-        "AUTOMAT recognises percussion and bass more reliably, for a better-fitting reverb."
+        "New wide layout: DECAY in the centre, SPACE / TONE / MOTION / COLOR cards and a new LEVEL knob.",
+        "The room, plate, hall and chamber styles were re-tuned to sound more natural (saved presets may sound a little different)."
       ],
       "notes_he": [
-        "AUTOMAT מזהה כלי הקשה ובס בצורה אמינה יותר, לריוורב שמתאים יותר."
+        "עיצוב רחב חדש: DECAY במרכז, כרטיסים של חלל / גוון / תנועה / צבע וכפתור LEVEL חדש.",
+        "סגנונות החדר, הפלייט, האולם והצ'יימבר כוונו מחדש לסאונד טבעי יותר (פריסטים שמורים יכולים להישמע קצת אחרת)."
       ]
     },
     "LH Delay": {
@@ -777,6 +779,50 @@
         "סגנונות חכמים: 6 סגנונות מוכנים (מזרחי פופ, רמיקס מועדונים, בלדה, הדוק ויבש, דרמטי, רמיקס אפקטים) בוחרים את הזריקה המתאימה לכל שורה - תווים מוחזקים, הפסקות קצרות, סופי חלקים.",
         "סוגי זריקות אפקט חדשים: ריברס שמתנפח לתוך המילה, טלפון, סטאטר, אוקטבה.",
         "שמירת סגנונות משלכם: הפריסטים שלי לומדים מהזריקות שקבעתם."
+      ]
+    },
+    "LH Vocal Chain": {
+      "version": "2.58.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Vocal-Chain-Setup-2.58.0.exe",
+      "sha256": "e72c7ffa9530448875213b4f0bd5a52ce293270790726eb959eb7f87b2f8203d",
+      "notes_en": [
+        "New: a 16-module vocal strip in three sections (clean, character, send) - drag to reorder, solo any module.",
+        "AUTOMAT listens to the vocal and sets the whole chain for a male or a female voice; what you had stays in A.",
+        "8-band EQ, 4-band dynamic EQ, de-esser, pitch, two compressors, delay and reverb with ducking."
+      ],
+      "notes_he": [
+        "חדש: ערוץ שירה עם 16 מודולים בשלוש קבוצות (ניקוי, אופי, שליחה) - גרירה לשינוי הסדר וסולו לכל מודול.",
+        "אוטומט מאזין לשירה ומכוון את כל השרשרת לקול גבר או אישה; מה שהיה לפני נשאר ב-A.",
+        "אקולייזר 8 רצועות, אקולייזר דינמי 4 רצועות, דה-אסר, פיץ', שני קומפרסורים, דילאי וריוורב עם הנמכה."
+      ]
+    },
+    "LH One": {
+      "version": "2.58.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-One-Setup-2.58.0.exe",
+      "sha256": "fd42da46b05d98106992a5ddd91465ada632e1a520993620fc61fac51dc18e73",
+      "notes_en": [
+        "New: one channel strip with a page per source - vocals, tops, guitars, bass, FX and mix bus.",
+        "Six faders per page, each with its own flavours; every page keeps its own settings."
+      ],
+      "notes_he": [
+        "חדש: ערוץ אחד עם עמוד לכל מקור - שירה, טופים, גיטרות, בס, אפקטים ומיקס.",
+        "שישה פיידרים בכל עמוד, לכל אחד סגנונות משלו; כל עמוד זוכר את ההגדרות שלו."
+      ]
+    },
+    "LH Band": {
+      "version": "2.58.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Band-Setup-2.58.0.exe",
+      "sha256": "db7536c44eec3f18a49c7119047f05ef3ee4c0b3280b6bdb1d3efcb372c9d324",
+      "notes_en": [
+        "New: an instrument strip with five pages - bass, drums, guitars, keys and percussion.",
+        "Simple faders for each instrument and 60 ready presets."
+      ],
+      "notes_he": [
+        "חדש: ערוץ לכלים עם חמישה עמודים - בס, תופים, גיטרות, קלידים וכלי הקשה.",
+        "פיידרים פשוטים לכל כלי ו-60 פריסטים מוכנים."
       ]
     }
   },
