@@ -670,15 +670,15 @@
       ]
     },
     "LH Resonance": {
-      "version": "2.53.0",
+      "version": "2.60.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Resonance-Setup-2.53.0.exe",
-      "sha256": "2e949425540b442e2a19c9cd643557208db0898a3e14e99308c8d2dddf6f1560",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.60.0/LH-Resonance-Setup-2.60.0.exe",
+      "sha256": "e60c023dba8b8e531079c19bf3d8d1370f7cca3997d136331b846dc21267dcba",
       "notes_en": [
-        "AUTO recognises the source more accurately (the shared L.H Studio detector)."
+        "The preset names are now shown in Hebrew when the plugin is in Hebrew."
       ],
       "notes_he": [
-        "AUTO מזהה את סוג הסאונד בדיוק רב יותר (הזיהוי המשותף של L.H Studio)."
+        "שמות הפריסטים מוצגים עכשיו בעברית כשהפלאגין בעברית."
       ]
     },
     "LH MotionBox": {
@@ -798,17 +798,17 @@
       ]
     },
     "LH One": {
-      "version": "2.58.0",
+      "version": "2.60.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-One-Setup-2.58.0.exe",
-      "sha256": "fd42da46b05d98106992a5ddd91465ada632e1a520993620fc61fac51dc18e73",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.60.0/LH-One-Setup-2.60.0.exe",
+      "sha256": "61ff7fd48112615a938281a269f9044c11a32efffcda34567519c58aa7c9ce15",
       "notes_en": [
-        "New: one channel strip with a page per source - vocals, tops, guitars, bass, FX and mix bus.",
-        "Six faders per page, each with its own flavours; every page keeps its own settings."
+        "New AUTOMAT on the VOCALS page: play the vocal and it listens, finds a male or female voice and sets de-ess, tone, compression, reverb and delay.",
+        "The result goes to B and your settings before stay in A, so you can compare."
       ],
       "notes_he": [
-        "חדש: ערוץ אחד עם עמוד לכל מקור - שירה, טופים, גיטרות, בס, אפקטים ומיקס.",
-        "שישה פיידרים בכל עמוד, לכל אחד סגנונות משלו; כל עמוד זוכר את ההגדרות שלו."
+        "חדש: אוטומט בעמוד השירה - נגן את השירה והוא מאזין, מזהה קול גבר או אישה ומכוון דה-אס, גוון, קומפרסיה, ריוורב ודילאי.",
+        "התוצאה נכנסת ל-B וההגדרות שהיו לפני נשארות ב-A, כדי להשוות."
       ]
     },
     "LH Band": {
