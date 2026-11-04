@@ -782,19 +782,19 @@
       ]
     },
     "LH Vocal Chain": {
-      "version": "2.59.0",
+      "version": "2.60.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.59.0/LH-Vocal-Chain-Setup-2.59.0.exe",
-      "sha256": "3056a224a775b28f30f397db190d94247364ff40f9bcf88614b0513717f5221e",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.60.0/LH-Vocal-Chain-Setup-2.60.0.exe",
+      "sha256": "12521891d4a88d8e32d622faecdafe51c2e33c31f45251dfb10e5c6695fc6a20",
       "notes_en": [
-        "New look: a big graph in the centre, meters with INPUT / OUTPUT faders, and all names and values in bright, easy-to-read white.",
-        "EQ I / II now have 6 free bands (low shelf, bell, notch, high shelf) - low and high cuts live in CUT FILTER. The gate has a new reduction meter.",
-        "DYN FILTER I has 2 bands like a classic strip; DYN FILTER II has 4 bands ready at the usual vocal trouble spots. (EQ settings saved with 2.58.0 may reset.)"
+        "Smoother in the DAW: the graphics redraw 2-5x faster and rest while the transport is stopped.",
+        "Cleaner graphs: one line in the EQ, dynamic filter and de-esser; a full delay echo view; values no longer sit on the knobs.",
+        "De-esser LISTEN now plays only the S sounds being removed. Menus open right under their box."
       ],
       "notes_he": [
-        "עיצוב חדש: גרף גדול במרכז, מדים עם פיידרים של כניסה / יציאה, וכל השמות והערכים בלבן בוהק שקל לקרוא.",
-        "לאקולייזר I / II יש עכשיו 6 רצועות חופשיות (מדף נמוך, פעמון, נוץ', מדף גבוה) - חיתוך נמוכים וגבוהים נמצא בפילטר החיתוך. לגייט יש מד הנחתה חדש.",
-        "לפילטר הדינמי I יש 2 רצועות, ולפילטר הדינמי II יש 4 רצועות מוכנות במקומות הבעייתיים הרגילים בשירה. (הגדרות אקולייזר שנשמרו בגרסה 2.58.0 עלולות להתאפס.)"
+        "חלק יותר בתוכנה: הגרפיקה מתעדכנת פי 2-5 מהר יותר ונחה כשהנגינה עוצרת.",
+        "גרפים נקיים יותר: קו אחד באקולייזר, בפילטר הדינמי ובדה-אסר; תצוגת הדים מלאה בדילאי; המספרים כבר לא יושבים על הכפתורים.",
+        "האזנה בדה-אסר משמיעה עכשיו רק את השינים שמורדים. התפריטים נפתחים מתחת לתיבה שלהם."
       ]
     },
     "LH One": {
