@@ -782,19 +782,19 @@
       ]
     },
     "LH Vocal Chain": {
-      "version": "2.58.0",
+      "version": "2.59.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Vocal-Chain-Setup-2.58.0.exe",
-      "sha256": "e72c7ffa9530448875213b4f0bd5a52ce293270790726eb959eb7f87b2f8203d",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.59.0/LH-Vocal-Chain-Setup-2.59.0.exe",
+      "sha256": "3056a224a775b28f30f397db190d94247364ff40f9bcf88614b0513717f5221e",
       "notes_en": [
-        "New: a 16-module vocal strip in three sections (clean, character, send) - drag to reorder, solo any module.",
-        "AUTOMAT listens to the vocal and sets the whole chain for a male or a female voice; what you had stays in A.",
-        "8-band EQ, 4-band dynamic EQ, de-esser, pitch, two compressors, delay and reverb with ducking."
+        "New look: a big graph in the centre, meters with INPUT / OUTPUT faders, and all names and values in bright, easy-to-read white.",
+        "EQ I / II now have 6 free bands (low shelf, bell, notch, high shelf) - low and high cuts live in CUT FILTER. The gate has a new reduction meter.",
+        "DYN FILTER I has 2 bands like a classic strip; DYN FILTER II has 4 bands ready at the usual vocal trouble spots. (EQ settings saved with 2.58.0 may reset.)"
       ],
       "notes_he": [
-        "חדש: ערוץ שירה עם 16 מודולים בשלוש קבוצות (ניקוי, אופי, שליחה) - גרירה לשינוי הסדר וסולו לכל מודול.",
-        "אוטומט מאזין לשירה ומכוון את כל השרשרת לקול גבר או אישה; מה שהיה לפני נשאר ב-A.",
-        "אקולייזר 8 רצועות, אקולייזר דינמי 4 רצועות, דה-אסר, פיץ', שני קומפרסורים, דילאי וריוורב עם הנמכה."
+        "עיצוב חדש: גרף גדול במרכז, מדים עם פיידרים של כניסה / יציאה, וכל השמות והערכים בלבן בוהק שקל לקרוא.",
+        "לאקולייזר I / II יש עכשיו 6 רצועות חופשיות (מדף נמוך, פעמון, נוץ', מדף גבוה) - חיתוך נמוכים וגבוהים נמצא בפילטר החיתוך. לגייט יש מד הנחתה חדש.",
+        "לפילטר הדינמי I יש 2 רצועות, ולפילטר הדינמי II יש 4 רצועות מוכנות במקומות הבעייתיים הרגילים בשירה. (הגדרות אקולייזר שנשמרו בגרסה 2.58.0 עלולות להתאפס.)"
       ]
     },
     "LH One": {
