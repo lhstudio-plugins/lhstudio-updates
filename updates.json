@@ -32,19 +32,19 @@
       ]
     },
     "LH Inhale": {
-      "version": "2.57.0",
+      "version": "2.61.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.57.0/LH-Inhale-Setup-2.57.0.exe",
-      "sha256": "d8222981d883d2a827b7fc00c3d3225f5280d94df89889a9574c81dce8c3f149",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.61.0/LH-Inhale-Setup-2.61.0.exe",
+      "sha256": "f2ad25164095bfb1eb693591513906554d3de36896c7a5ea2ff43baf67221874",
       "notes_en": [
-        "Drop a vocal file (or an audio event from your DAW) onto the plugin - it becomes the capture, placed at the cursor or at the file's own position.",
-        "More accurate on real vocals: finds where the singer really comes in (breaths, clicks and rumble no longer fool it), better S detection, and the riser's level follows the singer.",
-        "7 new style presets: Mizrahi Remix, Ballad, Pop, Trap, EDM Drop, Lo-Fi, House."
+        "New wide design",
+        "Room types SPACE / SPRING / DELAY, LOW and HIGH CUT, FLIP",
+        "6 new presets"
       ],
       "notes_he": [
-        "גררו קובץ ווקאל (או אירוע אודיו מהתוכנה) אל הפלאגין - הוא הופך לקליטה, וממוקם בסמן או במקום המקורי של הקובץ.",
-        "מדויק יותר על ווקאלים אמיתיים: מזהה איפה הזמר באמת נכנס (נשימות, קליקים ורעש נמוך כבר לא מטעים), זיהוי ס' טוב יותר, ועוצמת הרייזר מותאמת לזמר.",
-        "7 פריסטים חדשים לפי סגנון: רמיקס מזרחי, בלדה, פופ, טראפ, דרופ EDM, לו-פיי, האוס."
+        "עיצוב רחב חדש",
+        "סוגי חדר SPACE / SPRING / DELAY, חיתוך נמוכים וגבוהים, FLIP",
+        "6 פריסטים חדשים"
       ]
     },
     "LH Drummer": {
@@ -823,6 +823,34 @@
       "notes_he": [
         "חדש: ערוץ לכלים עם חמישה עמודים - בס, תופים, גיטרות, קלידים וכלי הקשה.",
         "פיידרים פשוטים לכל כלי ו-60 פריסטים מוכנים."
+      ]
+    },
+    "LH Scatter": {
+      "version": "2.61.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.61.0/LH-Scatter-Setup-2.61.0.exe",
+      "sha256": "d1796aeb978e03a16ca3585bb0733523adc40e629a6a47ef9242bf976dbbf775",
+      "notes_en": [
+        "First release: every hit sends the sound to a new place in the stereo field",
+        "TRIGGER line + FILTER listen band, 4 patterns, LFO mode, AUTOMAT"
+      ],
+      "notes_he": [
+        "גרסה ראשונה: כל מכה שולחת את הצליל למקום חדש בסטריאו",
+        "קו טריגר ופילטר האזנה, 4 תבניות, מצב LFO ואוטומט"
+      ]
+    },
+    "LH Dive": {
+      "version": "2.61.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.61.0/LH-Dive-Setup-2.61.0.exe",
+      "sha256": "f7e630618809fe6df5ab0ed142b9cc0a393b8570ec9e9454b9219e35539d6d20",
+      "notes_en": [
+        "First release: one DEPTH knob takes the sound underwater",
+        "Filter, drive, compressor, reverb and delay in one move, plus RIDE synced to the song"
+      ],
+      "notes_he": [
+        "גרסה ראשונה: כפתור עומק אחד שמכניס את הצליל מתחת למים",
+        "פילטר, דרייב, קומפרסור, ריוורב ודיליי בתנועה אחת, ו-RIDE מסונכרן לשיר"
       ]
     }
   },
