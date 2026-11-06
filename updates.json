@@ -32,19 +32,17 @@
       ]
     },
     "LH Inhale": {
-      "version": "2.61.0",
+      "version": "2.62.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.61.0/LH-Inhale-Setup-2.61.0.exe",
-      "sha256": "f2ad25164095bfb1eb693591513906554d3de36896c7a5ea2ff43baf67221874",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.62.0/LH-Inhale-Setup-2.62.0.exe",
+      "sha256": "30dd0078e2e58cea8edf4d84cb3e76281dba7d6f7dea1dc1debb1d2eede8881f",
       "notes_en": [
-        "New wide design",
-        "Room types SPACE / SPRING / DELAY, LOW and HIGH CUT, FLIP",
-        "6 new presets"
+        "CAPTURE is now a red record button",
+        "TREMOLO on/off switch on the panel; the Default preset no longer pulses"
       ],
       "notes_he": [
-        "עיצוב רחב חדש",
-        "סוגי חדר SPACE / SPRING / DELAY, חיתוך נמוכים וגבוהים, FLIP",
-        "6 פריסטים חדשים"
+        "כפתור הלכידה הוא עכשיו כפתור הקלטה אדום",
+        "מתג טרמולו בפנל, והפריסט הרגיל כבר לא פועם"
       ]
     },
     "LH Drummer": {
@@ -378,15 +376,17 @@
       ]
     },
     "LH Core": {
-      "version": "2.48.0",
+      "version": "2.62.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Core-Setup-2.48.0.exe",
-      "sha256": "9d56b5e49c9e0fd90f5f08d9657381ab3b4a754199d4a2032318a3ffc29cf8de",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.62.0/LH-Core-Setup-2.62.0.exe",
+      "sha256": "e364bbf52d94e8bd60147e28831805c99b53a7abbbf9b5d6c276a21185a3cdf9",
       "notes_en": [
-        "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+        "New AMOUNT dial: a brass porthole with a live circular spectrum of your master",
+        "A gold ring shows how hard the compressor and limiter are working right now"
       ],
       "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+        "כפתור כמות חדש: חלון נחושת עם ספקטרום עגול חי של המאסטר",
+        "טבעת זהב מראה כמה המדחס והלימיטר עובדים ברגע זה"
       ]
     },
     "LH De-Esser": {
@@ -826,31 +826,29 @@
       ]
     },
     "LH Scatter": {
-      "version": "2.61.0",
+      "version": "2.62.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.61.0/LH-Scatter-Setup-2.61.0.exe",
-      "sha256": "d1796aeb978e03a16ca3585bb0733523adc40e629a6a47ef9242bf976dbbf775",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.62.0/LH-Scatter-Setup-2.62.0.exe",
+      "sha256": "437bb693acdc3563a5d3d47b65a79d5af57442739d6ed4e3c12379ae50873a3d",
       "notes_en": [
-        "First release: every hit sends the sound to a new place in the stereo field",
-        "TRIGGER line + FILTER listen band, 4 patterns, LFO mode, AUTOMAT"
+        "GLIDE now really sweeps to the sides and lands before the next hit",
+        "LENGTH starts at 100 ms, plus 14 new presets for hats, shakers and percussion"
       ],
       "notes_he": [
-        "גרסה ראשונה: כל מכה שולחת את הצליל למקום חדש בסטריאו",
-        "קו טריגר ופילטר האזנה, 4 תבניות, מצב LFO ואוטומט"
+        "הגלישה זזה עכשיו באמת לצדדים ומגיעה לפני המכה הבאה",
+        "האורך מתחיל ב-100 מילישניות, ועוד 14 פריסטים חדשים להיי-האטים, שייקרים וכלי הקשה"
       ]
     },
     "LH Dive": {
-      "version": "2.61.0",
+      "version": "2.62.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.61.0/LH-Dive-Setup-2.61.0.exe",
-      "sha256": "f7e630618809fe6df5ab0ed142b9cc0a393b8570ec9e9454b9219e35539d6d20",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.62.0/LH-Dive-Setup-2.62.0.exe",
+      "sha256": "308d98a3f6761f36ad4fed0ff2695986b86656755867fe967ccdc6427872bb3b",
       "notes_en": [
-        "First release: one DEPTH knob takes the sound underwater",
-        "Filter, drive, compressor, reverb and delay in one move, plus RIDE synced to the song"
+        "10 new presets: 5 for piano and 5 for vocals"
       ],
       "notes_he": [
-        "גרסה ראשונה: כפתור עומק אחד שמכניס את הצליל מתחת למים",
-        "פילטר, דרייב, קומפרסור, ריוורב ודיליי בתנועה אחת, ו-RIDE מסונכרן לשיר"
+        "עשרה פריסטים חדשים: חמישה לפסנתר וחמישה לשירה"
       ]
     }
   },
