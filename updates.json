@@ -850,6 +850,22 @@
       "notes_he": [
         "עשרה פריסטים חדשים: חמישה לפסנתר וחמישה לשירה"
       ]
+    },
+    "LH Shuffle": {
+      "version": "2.63.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.63.0/LH-Shuffle-Setup-2.63.0.exe",
+      "sha256": "3352451742f7a74f38afd4b38540358eee7c0fbd21ac360e8b097ec1f8370147",
+      "notes_en": [
+        "New plugin: drop any sound and it is cut into slices that play a rhythm with your song's tempo",
+        "SHUFFLE makes a new rhythm on every click (reverse, stutter, octave up); lock the steps you like or build your own",
+        "Drag the pattern into Cubase as MIDI or as audio"
+      ],
+      "notes_he": [
+        "פלאגין חדש: גוררים כל סאונד והוא נחתך לסלייסים שמנגנים מקצב עם הטמפו של השיר",
+        "ערבב נותן מקצב חדש בכל לחיצה (הפוך, גמגום, אוקטבה למעלה); נועלים צעדים שאוהבים או בונים תבנית משלכם",
+        "גוררים את התבנית לקיובייס כמידי או כאודיו"
+      ]
     }
   },
   "announcement": {
