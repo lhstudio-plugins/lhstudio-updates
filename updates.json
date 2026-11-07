@@ -852,19 +852,33 @@
       ]
     },
     "LH Shuffle": {
-      "version": "2.63.0",
+      "version": "2.64.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.63.0/LH-Shuffle-Setup-2.63.0.exe",
-      "sha256": "3352451742f7a74f38afd4b38540358eee7c0fbd21ac360e8b097ec1f8370147",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.64.0/LH-Shuffle-Setup-2.64.0.exe",
+      "sha256": "08273ff280ef11be612521d7f92be607bf6bc51bc6b923a8fa47c7066d662ccf",
       "notes_en": [
-        "New plugin: drop any sound and it is cut into slices that play a rhythm with your song's tempo",
-        "SHUFFLE makes a new rhythm on every click (reverse, stutter, octave up); lock the steps you like or build your own",
-        "Drag the pattern into Cubase as MIDI or as audio"
+        "CAPTURE: record audio straight from Cubase through the side-chain and slice it",
+        "More step effects: pitch, x2-x4 repeats, pan, slide, half speed, filter and tape stop"
       ],
       "notes_he": [
-        "פלאגין חדש: גוררים כל סאונד והוא נחתך לסלייסים שמנגנים מקצב עם הטמפו של השיר",
-        "ערבב נותן מקצב חדש בכל לחיצה (הפוך, גמגום, אוקטבה למעלה); נועלים צעדים שאוהבים או בונים תבנית משלכם",
-        "גוררים את התבנית לקיובייס כמידי או כאודיו"
+        "הקלטה (CAPTURE): מקליטים אודיו ישר מקובייס דרך הסייד-צ'יין ומחתכים אותו",
+        "עוד אפקטים לכל צעד: פיץ', חזרות x2-x4, פאן, החלקה, חצי מהירות, פילטר ועצירת טייפ"
+      ]
+    },
+    "LH Fusion": {
+      "version": "2.64.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.64.0/LH-Fusion-Setup-2.64.0.exe",
+      "sha256": "d4c525454e67ec7a6068a4dca00187e9ee2e78017ffdad832b73d59b97d4aef0",
+      "notes_en": [
+        "New: LH Fusion - a modular channel strip: 2 compressors (C3, FET 76, 2A, BUS, MB), EQ (digital with dynamic bands, E4, EQP-1A, Classic 73), 2 de-essers, saturation and resonance control",
+        "Drag the module tabs to change the processing order",
+        "Vocal AUTOMAT: listens to the singer and sets the whole chain for a male or female voice"
+      ],
+      "notes_he": [
+        "חדש: LH Fusion - סטריפ מודולרי: 2 קומפרסורים, אקולייזר (דיגיטלי עם בנדים דינמיים, E4, EQP-1A, קלאסי 73), 2 די-אסרים, סטורציה ורזוננס",
+        "גוררים את הכרטיסים כדי לשנות את סדר העיבוד",
+        "אוטומט לשירה: מקשיב לזמר ומכוון את כל השרשרת לשירה של גבר או אישה"
       ]
     }
   },
