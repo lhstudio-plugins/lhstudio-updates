@@ -696,15 +696,19 @@
       ]
     },
     "LH 73": {
-      "version": "2.56.0",
+      "version": "2.65.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.56.0/LH-73-Setup-2.56.0.exe",
-      "sha256": "8e1488393a29354e60b5f4bede0090acdc10d7f69179a5e11acbccca37072a31",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-73-Setup-2.65.0.exe",
+      "sha256": "dc286d3d6885838052ccad0a9fd34a3a37e44dbc15af3ebc8ecb99669aa6ca3b",
       "notes_en": [
-        "EQ screen: a deep cut now shows the curve going all the way down instead of stopping flat at -18 dB."
+        "Re-voiced sound, EQ and saturation.",
+        "New vertical design.",
+        "16 vocal presets."
       ],
       "notes_he": [
-        "מסך ה-EQ: חיתוך עמוק מראה עכשיו את העקומה יורדת עד הסוף, במקום להיעצר שטוחה ב-18- dB."
+        "כיול מחדש של הצליל, ה-EQ והסטורציה.",
+        "עיצוב אנכי חדש.",
+        "16 פריסטים לשירה."
       ]
     },
     "LH Chorus": {
@@ -852,17 +856,15 @@
       ]
     },
     "LH Shuffle": {
-      "version": "2.64.0",
+      "version": "2.65.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.64.0/LH-Shuffle-Setup-2.64.0.exe",
-      "sha256": "08273ff280ef11be612521d7f92be607bf6bc51bc6b923a8fa47c7066d662ccf",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Shuffle-Setup-2.65.0.exe",
+      "sha256": "1a53ccc48eb302ad5738f883f087b6d63fa7ede256e304f93a7a4b0cab675a9f",
       "notes_en": [
-        "CAPTURE: record audio straight from Cubase through the side-chain and slice it",
-        "More step effects: pitch, x2-x4 repeats, pan, slide, half speed, filter and tape stop"
+        "Simpler step effects: x2-x4 repeats, tape stop, reverse and octave up."
       ],
       "notes_he": [
-        "הקלטה (CAPTURE): מקליטים אודיו ישר מקובייס דרך הסייד-צ'יין ומחתכים אותו",
-        "עוד אפקטים לכל צעד: פיץ', חזרות x2-x4, פאן, החלקה, חצי מהירות, פילטר ועצירת טייפ"
+        "אפקטי הצעדים פושטו: חזרות x2 עד x4, Tape Stop, היפוך ואוקטבה."
       ]
     },
     "LH Fusion": {
@@ -879,6 +881,48 @@
         "חדש: LH Fusion - סטריפ מודולרי: 2 קומפרסורים, אקולייזר (דיגיטלי עם בנדים דינמיים, E4, EQP-1A, קלאסי 73), 2 די-אסרים, סטורציה ורזוננס",
         "גוררים את הכרטיסים כדי לשנות את סדר העיבוד",
         "אוטומט לשירה: מקשיב לזמר ומכוון את כל השרשרת לשירה של גבר או אישה"
+      ]
+    },
+    "LH Duck": {
+      "version": "2.65.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Duck-Setup-2.65.0.exe",
+      "sha256": "b3d2799b5a640b8b58e93db62fd8b28293066909e8546d0dfb75e57f29074f98",
+      "notes_en": [
+        "First release: fast one-screen sidechain ducking.",
+        "16 curves; SYNC, MIDI or AUDIO trigger."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: דאקינג מהיר בסיידצ'יין, במסך אחד.",
+        "16 עקומות, טריגר מהשיר, מ-MIDI או מאודיו."
+      ]
+    },
+    "LH Wider": {
+      "version": "2.65.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Wider-Setup-2.65.0.exe",
+      "sha256": "22334d29df7bf1b4f3d7b39d990e1098cfd5ec3c9d8ed3ab70b6bdc5b34c8b29",
+      "notes_en": [
+        "First release: stereo widening from 0 to 200 %, mono-safe.",
+        "Lows stay centred."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: הרחבת סטריאו מ-0 עד 200%, בלי לפגוע במונו.",
+        "הנמוכים נשארים במרכז."
+      ]
+    },
+    "LH Carve": {
+      "version": "2.65.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Carve-Setup-2.65.0.exe",
+      "sha256": "1486e7c5da8bc267fd6caf5fdc420889da6308236f76293bbf19b008ee61a3a1",
+      "notes_en": [
+        "First release: carves room in the music for the vocal.",
+        "Follows the vocal's frequencies in real time."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: מפנה מקום במוזיקה לשירה.",
+        "עוקב אחרי התדרים של השירה בזמן אמת."
       ]
     }
   },
