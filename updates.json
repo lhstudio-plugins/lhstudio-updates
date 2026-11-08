@@ -1,22 +1,6 @@
 {
   "whatsapp": "972547103775",
   "plugins": {
-    "LH Pulse": {
-      "version": "2.37.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Pulse-Setup-2.37.0.exe",
-      "sha256": "a5120562c3a3ac2921ee1b5a27836cd792b4c3c743dd7acc2827a1d8f270f478",
-      "notes_en": [
-        "New design: a big MOVE knob, a signal-chain strip you drag to reorder, and one large edit panel.",
-        "New ALL button: the whole chain at once in small cards.",
-        "New effect names (SQUASH, WOBBLE, REPEAT...). In Hebrew only the words change."
-      ],
-      "notes_he": [
-        "עיצוב חדש: כפתור תנועה גדול, שרשרת שגוררים כדי לשנות סדר, ופאנל עריכה גדול אחד.",
-        "כפתור 'כולם' חדש: כל השרשרת בבת אחת בכרטיסים קטנים.",
-        "שמות חדשים לאפקטים (דחיסה, גל, חזרה...). בעברית רק המילים מתחלפות."
-      ]
-    },
     "LH Vocal Tune": {
       "version": "2.37.0",
       "important": false,
@@ -59,32 +43,6 @@
         "הדראמר שוב קל ופשוט: ביטים, מילויים, פדים ו-YOUR GROOVE."
       ]
     },
-    "LH Clean": {
-      "version": "2.43.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.43.0/LH-Clean-Setup-2.43.0.exe",
-      "sha256": "884d144ff8408479c5be5dc53aeabc03f06cb46e45e16d6d31c0a2ea1517920d",
-      "notes_en": [
-        "Clearer display, and fixes."
-      ],
-      "notes_he": [
-        "תצוגה ברורה יותר ותיקונים."
-      ]
-    },
-    "LH Granular": {
-      "version": "2.55.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Granular-Setup-2.55.0.exe",
-      "sha256": "e36468f8c5ddb53450190201be7aff2a8fcd32ddda17702a23b87a79adb80be9",
-      "notes_en": [
-        "55 presets (13 new), including Mizrahi Silk, Glacier Pad and Reverse Swell Bars.",
-        "No more overs: on hot vocals the grains dip so the output never passes 0 dB."
-      ],
-      "notes_he": [
-        "55 פריסטים (13 חדשים), ביניהם Mizrahi Silk, ‏Glacier Pad ו-Reverse Swell Bars.",
-        "בלי עיוותים: בשירה חזקה הגריינים יורדים כך שהיציאה לא עוברת 0 dB."
-      ]
-    },
     "LH Sample Finder": {
       "version": "2.44.0",
       "important": false,
@@ -97,34 +55,6 @@
       "notes_he": [
         "עמודת KEY חדשה: קיקים, 808, סאבים, בסים וטומים מראים את התו שלהם.",
         "סינון לפי תו (C..B או בלי תו) כדי למצוא קיק שמתאים לשיר."
-      ]
-    },
-    "LH Sub": {
-      "version": "2.44.0",
-      "important": true,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Sub-Setup-2.44.0.exe",
-      "sha256": "13846ee0477fd714e02cbd8d53d72976f66aa66302a368e7606efef58702ea5a",
-      "notes_en": [
-        "Stability fix: a rare crash in the host is fixed.",
-        "Recommended for everyone."
-      ],
-      "notes_he": [
-        "תיקון יציבות: קריסה נדירה בתוכנה תוקנה.",
-        "מומלץ לכולם."
-      ]
-    },
-    "LH Vocal Grid": {
-      "version": "2.45.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Vocal-Grid-Setup-2.45.0.exe",
-      "sha256": "56beb488acd81e5371c0dd6d5c7eba7d21fe71e1d7ec799094a134b8fbb79e3f",
-      "notes_en": [
-        "New: puts your vocal on the grid. Load a vocal or a phone video; it suggests the tempo, STRENGTH keeps it natural, the pitch is untouched.",
-        "Guide beat: kick and snare steps that play with the vocal; drag the vocal, the kick and the snare to Cubase as separate WAVs, all on the same bar."
-      ],
-      "notes_he": [
-        "חדש: מיישר את השירה לגריד. טוענים שירה או וידאו מהטלפון; הוא מציע טמפו, העוצמה שומרת על טבעיות, הגובה לא משתנה.",
-        "ביט מנחה: קיק וסנר במשבצות שמתנגנים עם השירה; גוררים לקיובייס את השירה, הקיק והסנר כ-WAV נפרדים, כולם על אותה תיבה."
       ]
     },
     "LH Auto Phase": {
@@ -176,15 +106,17 @@
       ]
     },
     "LH Compressor": {
-      "version": "2.53.0",
+      "version": "2.66.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Compressor-Setup-2.53.0.exe",
-      "sha256": "39dd2b84bc27bbe1474772ecf1ffa6f2cb35b3e2ea8f42a4e6f543a4ca553e9e",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.66.0/LH-Compressor-Setup-2.66.0.exe",
+      "sha256": "1a4234fd77f2985c33b6681c69f3c2799e4dfa99e57081462cef946ff5cfcb6f",
       "notes_en": [
-        "AUTOMAT now gives back the level it compresses away (makeup gain), so the sound no longer drops after AUTOMAT."
+        "A cleaner curve display.",
+        "AUTOMAT balances loudness better, and AUTO GAIN now follows the real loudness of your audio."
       ],
       "notes_he": [
-        "AUTOMAT מחזיר עכשיו את העוצמה שהקומפרסיה לוקחת (מייקאפ), כך שהסאונד כבר לא נהיה חלש יותר אחרי AUTOMAT."
+        "עיצוב נקי יותר למסך העקומה.",
+        "AUTOMAT מאזן טוב יותר את העוצמה, ו-AUTO GAIN מקשיב לעוצמה האמיתית של הצליל."
       ]
     },
     "LH Dyna": {
@@ -271,62 +203,6 @@
         "AUTOMAT חכם יותר: תווים מוזיקליים מתמשכים כבר לא נחתכים כאילו הם רזוננסים - מתוקנות רק בעיות אמיתיות."
       ]
     },
-    "LH Snap": {
-      "version": "2.53.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Snap-Setup-2.53.0.exe",
-      "sha256": "9187573fa6bc6ecdfd938451913a11462f5f6f7eb52c68567b679eb3e81c8ea8",
-      "notes_en": [
-        "AUTO now turns AUTO GAIN on, so its settings don't jump in volume.",
-        "Better handling of kicks and drum loops."
-      ],
-      "notes_he": [
-        "AUTO מדליק עכשיו את AUTO GAIN, כך שההגדרות שלו לא קופצות בעוצמה.",
-        "טיפול טוב יותר בקיקים ובלופים של תופים."
-      ]
-    },
-    "LH Flow": {
-      "version": "2.48.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Flow-Setup-2.48.0.exe",
-      "sha256": "73a2750881d67c386f499968d47d76ff9e32329a94afd0de48c414b45cd43bfa",
-      "notes_en": [
-        "New look: the dark turquoise L.H Studio finish.",
-        "The white line that trailed the curve is gone."
-      ],
-      "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio.",
-        "הקו הלבן שנגרר אחרי העקומה הוסר."
-      ]
-    },
-    "LH Volume Shaper": {
-      "version": "2.48.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Flow-Setup-2.48.0.exe",
-      "sha256": "73a2750881d67c386f499968d47d76ff9e32329a94afd0de48c414b45cd43bfa",
-      "notes_en": [
-        "New look: the dark turquoise L.H Studio finish.",
-        "The white line that trailed the curve is gone."
-      ],
-      "notes_he": [
-        "מראה חדש: הגימור הטורקיז הכהה של L.H Studio.",
-        "הקו הלבן שנגרר אחרי העקומה הוסר."
-      ]
-    },
-    "LH Clash": {
-      "version": "2.54.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-Clash-Setup-2.54.0.exe",
-      "sha256": "ff78c5b91072757fba8c8ab4741426e15e9cbebc66c9a02092d4d52a06b46864",
-      "notes_en": [
-        "Simpler choice: 4 clear pairs - KICK > BASS, VOCAL > GUITAR, VOCAL > PAD, LEAD > BACKING.",
-        "Old sessions still load and sound the same."
-      ],
-      "notes_he": [
-        "בחירה פשוטה יותר: 4 זוגות ברורים - קיק > בס, ווקאל > גיטרה, ווקאל > פד, ליד > ליווי.",
-        "סשנים ישנים נטענים ונשמעים בדיוק כמו קודם."
-      ]
-    },
     "LH Distortion": {
       "version": "2.53.0",
       "important": false,
@@ -344,18 +220,6 @@
       "important": false,
       "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Kick-Setup-2.48.0.exe",
       "sha256": "6558ab1755a5e116e06fada041404d32f26e6fee862a1c3dcbfabb5817c7111d",
-      "notes_en": [
-        "New look: the house turquoise design. Controls and sound are unchanged."
-      ],
-      "notes_he": [
-        "מראה חדש: עיצוב הטורקיז של הבית. הכפתורים והסאונד לא השתנו."
-      ]
-    },
-    "LH Harmony": {
-      "version": "2.48.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Harmony-Setup-2.48.0.exe",
-      "sha256": "9f3615cdb93bcbae2031b09260f97b9fb09b3c29be8824cfaf547ea3342f4710",
       "notes_en": [
         "New look: the house turquoise design. Controls and sound are unchanged."
       ],
@@ -399,18 +263,6 @@
       ],
       "notes_he": [
         "כפתור ההאזנה (S) משמיע עכשיו רק את השיניים שמוסרות - בלי שירה בסולו."
-      ]
-    },
-    "LH Drum Force": {
-      "version": "2.53.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Drum-Force-Setup-2.53.0.exe",
-      "sha256": "e371da099486429422fbcc2a6388f97477beacbe1236a7f8022d94d0edcbb6e7",
-      "notes_en": [
-        "AUTOMAT recognises a full mix or guitars as 'not drums' and never makes them louder."
-      ],
-      "notes_he": [
-        "AUTOMAT מזהה מיקס מלא או גיטרות כ'לא תופים' ואף פעם לא מגביר אותם."
       ]
     },
     "LH Gate": {
@@ -533,20 +385,6 @@
         "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
       ]
     },
-    "LH Art Attack": {
-      "version": "2.53.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Snap-Setup-2.53.0.exe",
-      "sha256": "9187573fa6bc6ecdfd938451913a11462f5f6f7eb52c68567b679eb3e81c8ea8",
-      "notes_en": [
-        "AUTO now turns AUTO GAIN on, so its settings don't jump in volume.",
-        "Better handling of kicks and drum loops."
-      ],
-      "notes_he": [
-        "AUTO מדליק עכשיו את AUTO GAIN, כך שההגדרות שלו לא קופצות בעוצמה.",
-        "טיפול טוב יותר בקיקים ובלופים של תופים."
-      ]
-    },
     "LH Atmos": {
       "version": "2.49.0",
       "important": false,
@@ -593,18 +431,6 @@
         "מתג SEND: בערוץ אפקטים AUTOMAT משאיר את ה-MIX על 100 %."
       ]
     },
-    "LH Modulation": {
-      "version": "2.53.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Modulation-Setup-2.53.0.exe",
-      "sha256": "bd2ce42c9419502899704ff6cfc530f72e3da3aa3244a171b2d84b1127c9964d",
-      "notes_en": [
-        "AUTOMAT recognises the source more accurately (the shared L.H Studio detector)."
-      ],
-      "notes_he": [
-        "AUTOMAT מזהה את סוג הסאונד בדיוק רב יותר (הזיהוי המשותף של L.H Studio)."
-      ]
-    },
     "LH Chord Studio": {
       "version": "2.50.0",
       "important": false,
@@ -631,18 +457,6 @@
       "notes_he": [
         "גרסה ראשונה: קומפרסור באס בסגנון חומרה - סף, הגברה, תקיפה ושחרור בדרגות (כולל אוטומטי), יחס 2 / 4 / 10, מסנן, מיקס ויציאה.",
         "פייד עם זמן פייד (1-60 שניות) מוריד ומחזיר את המיקס לבד; אנלוגי מוסיף צבע עדין של קונסולה."
-      ]
-    },
-    "LH Snap Bands": {
-      "version": "2.54.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-Snap-Bands-Setup-2.54.0.exe",
-      "sha256": "05a256e0d4e7ba6a55f32a3be372588eb5ddf52061fb2fd3a0e6642818068a6f",
-      "notes_en": [
-        "New design: a big gain display and one card per band (ATTACK, SUSTAIN, CONTOUR)."
-      ],
-      "notes_he": [
-        "עיצוב חדש: תצוגת גיין גדולה וכרטיס לכל בנד (ATTACK, SUSTAIN, CONTOUR)."
       ]
     },
     "LH Phase Align": {
@@ -725,50 +539,6 @@
         "2 / 4 / 6 קולות, סנכרון לטמפו, חיתוך נמוכים / גבוהים ו-MIX."
       ]
     },
-    "LH Flanger": {
-      "version": "2.55.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Flanger-Setup-2.55.0.exe",
-      "sha256": "fcc33f08475faa4e4a96307071cd6be7d3ea1b671ffb4595d72dd516dfb32386",
-      "notes_en": [
-        "First release: a flanger with CLASSIC, THROUGH-ZERO, INFINITE and BARBERPOLE modes.",
-        "Sweeps in notes or bars, UP / DOWN / LOOP direction and a rhythmic GATE."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: פלנג'ר עם מצבי CLASSIC, THROUGH-ZERO, INFINITE ו-BARBERPOLE.",
-        "סוויפ בתווים או בתיבות, כיוון למעלה / למטה / לופ ו-GATE קצבי."
-      ]
-    },
-    "LH Doubler": {
-      "version": "2.55.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Doubler-Setup-2.55.0.exe",
-      "sha256": "ff24d67bb4ab1ca6718eb72684dae8afa0e9fea051f4628b1ebc0f83676949fc",
-      "notes_en": [
-        "First release: natural double-tracking for vocals and guitars.",
-        "2 / 4 / 8 takes with their own timing and pitch, WIDTH, AIR and LOW CUT. The original stays untouched."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: דאבל טבעי לשירה ולגיטרות.",
-        "2 / 4 / 8 טייקים עם תזמון וגובה משלהם, WIDTH, AIR ו-LOW CUT. המקור נשאר כמו שהוא."
-      ]
-    },
-    "LH L2": {
-      "version": "2.56.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.56.0/LH-L2-Setup-2.56.0.exe",
-      "sha256": "9fb331c3691ce249ce985c3aab7df0d1bea250c35269e32d469f5bd5d9578454",
-      "notes_en": [
-        "First release: an optical leveling amp in the classic opto style - smooth, musical leveling for vocals, bass and buses.",
-        "PEAK REDUCTION, GAIN, COMP / LIMIT, MIX, a real VU (GR / +4 / +10) and an OPTO CELL lamp.",
-        "AUTO GAIN keeps the output as loud as the input. 10 presets, A | B."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: מיישר אופטי בסגנון האופטו הקלאסי - יישור חלק ומוזיקלי לשירה, בס ובאסים.",
-        "דחיסה, הגברה, קומפרסור / לימיטר, מיקס, מד VU אמיתי (GR / 4+ / 10+) ומנורת תא אופטי.",
-        "גיין אוטומטי שומר על היציאה באותה עוצמה כמו הכניסה. 10 פריסטים, A | B."
-      ]
-    },
     "LH Throw": {
       "version": "2.57.0",
       "important": false,
@@ -783,22 +553,6 @@
         "סגנונות חכמים: 6 סגנונות מוכנים (מזרחי פופ, רמיקס מועדונים, בלדה, הדוק ויבש, דרמטי, רמיקס אפקטים) בוחרים את הזריקה המתאימה לכל שורה - תווים מוחזקים, הפסקות קצרות, סופי חלקים.",
         "סוגי זריקות אפקט חדשים: ריברס שמתנפח לתוך המילה, טלפון, סטאטר, אוקטבה.",
         "שמירת סגנונות משלכם: הפריסטים שלי לומדים מהזריקות שקבעתם."
-      ]
-    },
-    "LH Vocal Chain": {
-      "version": "2.60.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.60.0/LH-Vocal-Chain-Setup-2.60.0.exe",
-      "sha256": "12521891d4a88d8e32d622faecdafe51c2e33c31f45251dfb10e5c6695fc6a20",
-      "notes_en": [
-        "Smoother in the DAW: the graphics redraw 2-5x faster and rest while the transport is stopped.",
-        "Cleaner graphs: one line in the EQ, dynamic filter and de-esser; a full delay echo view; values no longer sit on the knobs.",
-        "De-esser LISTEN now plays only the S sounds being removed. Menus open right under their box."
-      ],
-      "notes_he": [
-        "חלק יותר בתוכנה: הגרפיקה מתעדכנת פי 2-5 מהר יותר ונחה כשהנגינה עוצרת.",
-        "גרפים נקיים יותר: קו אחד באקולייזר, בפילטר הדינמי ובדה-אסר; תצוגת הדים מלאה בדילאי; המספרים כבר לא יושבים על הכפתורים.",
-        "האזנה בדה-אסר משמיעה עכשיו רק את השינים שמורדים. התפריטים נפתחים מתחת לתיבה שלהם."
       ]
     },
     "LH One": {
@@ -884,45 +638,35 @@
       ]
     },
     "LH Duck": {
-      "version": "2.65.0",
+      "version": "2.66.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Duck-Setup-2.65.0.exe",
-      "sha256": "b3d2799b5a640b8b58e93db62fd8b28293066909e8546d0dfb75e57f29074f98",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.66.0/LH-Duck-Setup-2.66.0.exe",
+      "sha256": "1e08b0444095e5fd4eed13d254a15f6334eee546f42f7ada760fa4a523a82d6b",
       "notes_en": [
-        "First release: fast one-screen sidechain ducking.",
-        "16 curves; SYNC, MIDI or AUDIO trigger."
+        "Curve names are translated to Hebrew.",
+        "Menus now open and close correctly.",
+        "The window size is remembered correctly."
       ],
       "notes_he": [
-        "גרסה ראשונה: דאקינג מהיר בסיידצ'יין, במסך אחד.",
-        "16 עקומות, טריגר מהשיר, מ-MIDI או מאודיו."
-      ]
-    },
-    "LH Wider": {
-      "version": "2.65.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Wider-Setup-2.65.0.exe",
-      "sha256": "22334d29df7bf1b4f3d7b39d990e1098cfd5ec3c9d8ed3ab70b6bdc5b34c8b29",
-      "notes_en": [
-        "First release: stereo widening from 0 to 200 %, mono-safe.",
-        "Lows stay centred."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: הרחבת סטריאו מ-0 עד 200%, בלי לפגוע במונו.",
-        "הנמוכים נשארים במרכז."
+        "שמות העקומות מתורגמים לעברית.",
+        "תפריטים נפתחים ונסגרים כמו שצריך.",
+        "גודל החלון נשמר נכון."
       ]
     },
     "LH Carve": {
-      "version": "2.65.0",
+      "version": "2.66.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.65.0/LH-Carve-Setup-2.65.0.exe",
-      "sha256": "1486e7c5da8bc267fd6caf5fdc420889da6308236f76293bbf19b008ee61a3a1",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.66.0/LH-Carve-Setup-2.66.0.exe",
+      "sha256": "4bb26d4915980c54cfdecf21ad0d15c7ab85d53352205fd91c12ac4ca4c6494c",
       "notes_en": [
-        "First release: carves room in the music for the vocal.",
-        "Follows the vocal's frequencies in real time."
+        "Pumping and sub response retuned on real kick and bass; the bass returns with tighter timing after the hit.",
+        "MAX DEPTH now defaults to OFF (no limit).",
+        "The graph stays flat outside LOW / HIGH, and the stereo modes have clearer names."
       ],
       "notes_he": [
-        "גרסה ראשונה: מפנה מקום במוזיקה לשירה.",
-        "עוקב אחרי התדרים של השירה בזמן אמת."
+        "הפמפום והסאב כוונו מחדש לפי קיק ובאס אמיתיים, והבאס חוזר בתזמון מדויק יותר אחרי המכה.",
+        "ברירת המחדל של העומק המרבי היא עכשיו OFF, בלי הגבלה.",
+        "הגרף נשאר שטוח מחוץ לטווח LOW ו-HIGH, ומצבי הסטריאו קיבלו שמות ברורים."
       ]
     }
   },
