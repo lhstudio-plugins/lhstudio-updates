@@ -668,6 +668,22 @@
         "ברירת המחדל של העומק המרבי היא עכשיו OFF, בלי הגבלה.",
         "הגרף נשאר שטוח מחוץ לטווח LOW ו-HIGH, ומצבי הסטריאו קיבלו שמות ברורים."
       ]
+    },
+    "LH Tape": {
+      "version": "2.67.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.67.0/LH-Tape-Setup-2.67.0.exe",
+      "sha256": "dc4d34a9485e33eeffebecc2b37d20807555e53a8fadd30220db339b3e2f809f",
+      "notes_en": [
+        "First release: a tape machine with just INPUT and OUTPUT, the more you drive it the more tape you hear.",
+        "7.5 / 15 IPS, NAB / CCIR, noise reduction, AGE (wow, flutter, hiss) and a TAPE STOP that follows the tempo.",
+        "Reels that spin with your transport, an analogue VU meter and a digital saturation meter."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: מכונת טייפ עם INPUT ו-OUTPUT בלבד, וככל שדוחפים יותר שומעים יותר טייפ.",
+        "מהירות 7.5 או 15, עקומות NAB או CCIR, הפחתת רעש, AGE שמוסיף רעידות ורעש, ו-TAPE STOP שעובד לפי הטמפו.",
+        "גלגלים שמסתובבים עם הנגינה, מד VU אנלוגי ומד רוויה דיגיטלי."
+      ]
     }
   },
   "announcement": {
