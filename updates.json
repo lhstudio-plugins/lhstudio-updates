@@ -191,18 +191,6 @@
         "נשארו רק בסים שנמדדו בביטחון גבוה."
       ]
     },
-    "LH EQ": {
-      "version": "2.53.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-EQ-Setup-2.53.0.exe",
-      "sha256": "def5def3c7149d775f2cf0f5cfd0501c4e6b3fb0cf17260d3ad636e208de4527",
-      "notes_en": [
-        "AUTOMAT is smarter: held musical notes are no longer cut as 'resonances' - only real problems get fixed."
-      ],
-      "notes_he": [
-        "AUTOMAT חכם יותר: תווים מוזיקליים מתמשכים כבר לא נחתכים כאילו הם רזוננסים - מתוקנות רק בעיות אמיתיות."
-      ]
-    },
     "LH Distortion": {
       "version": "2.53.0",
       "important": false,
@@ -228,15 +216,19 @@
       ]
     },
     "LH Clipper": {
-      "version": "2.53.0",
+      "version": "2.68.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Clipper-Setup-2.53.0.exe",
-      "sha256": "e215d85cae6e07a62ffbdf04e1984a467f5cf838ea4b3f4880038d836bee1fb3",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Clipper-Setup-2.68.0.exe",
+      "sha256": "22f12ed345a2e36f746222fdc964d173e311982f9ac72ff7d55b0b25d920a027",
       "notes_en": [
-        "AUTOMAT recognises a full mix as MIX (not DRUMS) and sets it up accordingly."
+        "New screen: a level history with the ceiling line, SOFT / HARD, and AUTOMAT in the top corner.",
+        "New DELTA triangle: hear only what the clipper removes, with a 'dB clipped' readout.",
+        "OVERSAMPLING and NORMALIZE moved to the gear menu. The sound did not change."
       ],
       "notes_he": [
-        "AUTOMAT מזהה מיקס מלא כ-MIX (ולא כתופים) ומכוון בהתאם."
+        "מסך חדש: היסטוריית עוצמה עם קו התקרה, SOFT / HARD, ו-AUTOMAT בפינה העליונה.",
+        "משולש DELTA חדש: שומעים רק את מה שהקליפר חותך, עם תצוגת 'dB clipped'.",
+        "OVERSAMPLING ו-NORMALIZE עברו לתפריט גלגל השיניים. הסאונד לא השתנה."
       ]
     },
     "LH Core": {
@@ -290,27 +282,31 @@
       ]
     },
     "LH Limit": {
-      "version": "2.58.0",
+      "version": "2.68.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Limit-Setup-2.58.0.exe",
-      "sha256": "00626cfba125ff95d453fa1a720e3ded918cbf3b56a4266782401588ae09aef2",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Limit-Setup-2.68.0.exe",
+      "sha256": "a1c05adc8bfe7306502cd4f78f8dd6f83159a9fc4376d038deefd0829a41ef47",
       "notes_en": [
-        "New AUTO RELEASE (off by default): the release follows the music for a cleaner, louder master."
+        "DENSE, AGGRO and PUNCH styles re-tuned to behave closer to a top mastering limiter.",
+        "CLEAN and the controls did not change."
       ],
       "notes_he": [
-        "חדש: שחרור אוטומטי (כבוי כברירת מחדל) - השחרור הולך לפי המוזיקה למאסטר נקי וחזק יותר."
+        "סגנונות DENSE, AGGRO ו-PUNCH כוונו מחדש כדי להתנהג קרוב יותר ללימיטר מאסטרינג מוביל.",
+        "CLEAN והכפתורים לא השתנו."
       ]
     },
     "LH Rider": {
-      "version": "2.58.0",
+      "version": "2.68.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Rider-Setup-2.58.0.exe",
-      "sha256": "4eb9674985e50d5c086596dea8007ee24000ed2992c11a7c5260ad682a41f4c7",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Rider-Setup-2.68.0.exe",
+      "sha256": "1c0774abcb1e27378da35aac9d11a075987a2969f1d1b8940ce084c0c3144f50",
       "notes_en": [
-        "Without a beat on the side-chain, the vocal is now evened out much better."
+        "New simple screen: one display, RANGE and TARGET tags, SPEED and OUTPUT knobs.",
+        "AUTOMAT and LIVE / WRITE / READ stay as before; the sound did not change."
       ],
       "notes_he": [
-        "בלי ביט בסייד-צ'יין, השירה מתיישרת עכשיו הרבה יותר טוב."
+        "מסך פשוט חדש: תצוגה אחת, תגיות RANGE ו-TARGET, וכפתורי SPEED ו-OUTPUT.",
+        "AUTOMAT ו-LIVE / WRITE / READ נשארו כמו קודם, והסאונד לא השתנה."
       ]
     },
     "LH Ember": {
@@ -446,17 +442,19 @@
       ]
     },
     "LH Buss Compressor": {
-      "version": "2.51.0",
+      "version": "2.68.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.51.0/LH-Buss-Compressor-Setup-2.51.0.exe",
-      "sha256": "aef42ff66c3366d099764235d2480c9612a5b87feee8aaac3d2302656f44e7a3",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Buss-Compressor-Setup-2.68.0.exe",
+      "sha256": "a818fec32978d14ed2e7a400191ac989bf3739c3662c8cda393816ad4c2a3a3f",
       "notes_en": [
-        "First release: a hardware-style bus compressor - THRESHOLD, MAKE-UP, stepped ATTACK / RELEASE (with Auto), RATIO 2 / 4 / 10, SC FILTER, MIX and TRIM.",
-        "FADE with RATE-S (1-60 s) fades the mix out and back in by itself; ANALOG adds a gentle console colour."
+        "New compact screen in the house style.",
+        "New: RANGE, a soft CLIP and AUTOMAT (listens to 6 seconds and sets the compressor).",
+        "SC FILTER, TRIM, ANALOG and FADE moved to the right-click menu."
       ],
       "notes_he": [
-        "גרסה ראשונה: קומפרסור באס בסגנון חומרה - סף, הגברה, תקיפה ושחרור בדרגות (כולל אוטומטי), יחס 2 / 4 / 10, מסנן, מיקס ויציאה.",
-        "פייד עם זמן פייד (1-60 שניות) מוריד ומחזיר את המיקס לבד; אנלוגי מוסיף צבע עדין של קונסולה."
+        "מסך קומפקטי חדש בעיצוב הבית.",
+        "חדש: RANGE, קליפר רך (CLIP) ו-AUTOMAT שמקשיב 6 שניות ומכוון את הקומפרסור.",
+        "SC FILTER, TRIM, ANALOG ו-FADE עברו לתפריט הקליק הימני."
       ]
     },
     "LH Phase Align": {
@@ -683,6 +681,110 @@
         "גרסה ראשונה: מכונת טייפ עם INPUT ו-OUTPUT בלבד, וככל שדוחפים יותר שומעים יותר טייפ.",
         "מהירות 7.5 או 15, עקומות NAB או CCIR, הפחתת רעש, AGE שמוסיף רעידות ורעש, ו-TAPE STOP שעובד לפי הטמפו.",
         "גלגלים שמסתובבים עם הנגינה, מד VU אנלוגי ומד רוויה דיגיטלי."
+      ]
+    },
+    "LH Pan Tremolo": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Pan-Tremolo-Setup-2.68.0.exe",
+      "sha256": "97121dad50a89b8ec0f593c33da264c0ff090767f4fa697a1f444886912dd1dd",
+      "notes_en": [
+        "First release: a clean auto-pan and tremolo.",
+        "5 shapes, free or tempo-synced rate (straight, triplet, dotted), PHASE, OFFSET, MORPH, ATTACK and MOD."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: אוטו-פאן וטרמולו נקיים.",
+        "5 צורות גל, קצב חופשי או לפי הטמפו (רגיל, טריולה, מנוקד), PHASE, OFFSET, MORPH, ATTACK ו-MOD."
+      ]
+    },
+    "LH Eclipse": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Eclipse-Setup-2.68.0.exe",
+      "sha256": "9d21eb8823c314ad856dfa2ea87a65d51d37e9a1873be30287655c77105183bc",
+      "notes_en": [
+        "First release: reverb and delay in one plugin.",
+        "5 reverbs (Hall, Plate, Room, Chamber, Space) and 5 delays (Digital, Tape, Analog, Pong, Multi).",
+        "DUCK lowers the effect while you sing or play."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: ריוורב ודיליי בפלאגין אחד.",
+        "5 ריוורבים (Hall, Plate, Room, Chamber, Space) ו-5 דיליים (Digital, Tape, Analog, Pong, Multi).",
+        "DUCK מנמיך את האפקט בזמן שרים או מנגנים."
+      ]
+    },
+    "LH Stutter": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Stutter-Setup-2.68.0.exe",
+      "sha256": "c85e43896710e2c1801ff2e03d01bee10d088df0411108585fcbab32bc1f6892",
+      "notes_en": [
+        "First release: a beat-repeat effect locked to your tempo.",
+        "Interval, Offset, Gate, Grid with Variation, Chance, Pitch and Decay, plus a filter.",
+        "A live strip shows exactly which part repeats."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: אפקט חזרות (סטאטר) שנעול לטמפו.",
+        "Interval, Offset, Gate, Grid עם Variation, Chance, Pitch ו-Decay, ופילטר.",
+        "פס חי מראה בדיוק איזה קטע חוזר."
+      ]
+    },
+    "LH Sweep": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Sweep-Setup-2.68.0.exe",
+      "sha256": "30698c7268c88df046e4f009f67bb6146749f75d540e5a3ceba09ab827383d4a",
+      "notes_en": [
+        "First release: an auto filter with many filter types (including Morph, Comb, Vowel and DJ).",
+        "LFO and envelope follower with ATK / REL, drive, and a screen curve that shows exactly what you hear."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: פילטר אוטומטי עם הרבה סוגי פילטרים (כולל Morph, Comb, Vowel ו-DJ).",
+        "LFO ועוקב עוצמה עם ATK / REL, דרייב, ועקומה על המסך שמראה בדיוק מה שומעים."
+      ]
+    },
+    "LH Octa EQ": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Octa-EQ-Setup-2.68.0.exe",
+      "sha256": "2ac4cbfe8ae5ab4324f6885697f2bd87338018d70286b8b48af086b5bcadf534",
+      "notes_en": [
+        "First release: an 8-band EQ with 8 filter types per band.",
+        "Stereo, L/R and M/S, Adaptive Q, Scale, Hi Quality, a spectrum analyzer and band listening."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: אקולייזר 8 פסים עם 8 סוגי פילטר לכל פס.",
+        "Stereo, L/R ו-M/S, Adaptive Q, Scale, Hi Quality, אנלייזר ספקטרום והאזנה לפס."
+      ]
+    },
+    "LH LFO": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-LFO-Setup-2.68.0.exe",
+      "sha256": "bc174d74ed9b7f69f00a03e21565eacefeb26e146d14820ad2c580e0975028b7",
+      "notes_en": [
+        "First release: a graph LFO for volume, pan and filter, synced to your song.",
+        "12 graphs you draw yourself (points, curves, steps), RATE, SWING, PHASE, PWM, SMOOTH and per-graph WARP.",
+        "89 filter types, a SPLIT band, MIDI retrigger / envelope / gate and CC out."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: LFO של גרף לווליום, לפאן ולפילטר, מסונכרן לשיר.",
+        "12 גרפים שמציירים לבד (נקודות, עיקומים, מדרגות), RATE, SWING, PHASE, PWM, SMOOTH ו-WARP לכל גרף.",
+        "89 סוגי פילטר, SPLIT לתחום אחד, ריסטרט / מעטפת / גייט מ-MIDI ושליחת CC."
+      ]
+    },
+    "LH Pitch Rise": {
+      "version": "2.68.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Pitch-Rise-Setup-2.68.0.exe",
+      "sha256": "1b64497eb2af09437afbf9e8eddaad753aa8f9aeef961a866e05c6dbfff1f96f",
+      "notes_en": [
+        "First release: a vocal pitch riser you drive with automation.",
+        "PITCH 0..12 semitones up or down (the bottom of the lane is always 0), GLIDE or STEP, and MIX."
+      ],
+      "notes_he": [
+        "גרסה ראשונה: מרים פיץ' לווקאל שמפעילים עם אוטומציה.",
+        "PITCH מ-0 עד 12 חצאי טון למעלה או למטה (התחתית של האוטומציה תמיד 0), GLIDE או STEP, ו-MIX."
       ]
     }
   },
