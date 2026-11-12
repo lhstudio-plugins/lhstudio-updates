@@ -44,17 +44,19 @@
       ]
     },
     "LH Sample Finder": {
-      "version": "2.44.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Sample-Finder-Setup-2.44.0.exe",
-      "sha256": "14fab29fa6c1b7ee672ed01b157a655b5dad7dea7468da39fcf842e0d6611da3",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Sample-Finder-Setup-2.69.0.exe",
+      "sha256": "f10dfde2c2e4477ca85ee45b7b37ae0c64dd5ac2e64079a10f96a7af0b6be153",
       "notes_en": [
-        "New KEY column: kicks, 808s, subs, bass and tom one-shots show their note.",
-        "Filter by key (C..B or NO KEY) to find a kick that fits your song."
+        "Sample-rate column, and right-click converts a file to 44.1 or 48 kHz",
+        "Change key: a transposed copy that keeps the tempo of loops",
+        "New SOUND filters: punchy, fat, short, long, bright, dark, soft"
       ],
       "notes_he": [
-        "עמודת KEY חדשה: קיקים, 808, סאבים, בסים וטומים מראים את התו שלהם.",
-        "סינון לפי תו (C..B או בלי תו) כדי למצוא קיק שמתאים לשיר."
+        "עמודת קצב דגימה, ולחיצה ימנית ממירה קובץ ל-44.1 או ל-48",
+        "שינוי סולם: עותק מוזז שלופים שומרים בו על הטמפו",
+        "סינון סאונד חדש: פאנצ'י, שמן, קצר, ארוך, חד, כהה, רך"
       ]
     },
     "LH Auto Phase": {
@@ -176,19 +178,15 @@
       ]
     },
     "LH Bass Lines": {
-      "version": "2.48.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Bass-Lines-Setup-2.48.0.exe",
-      "sha256": "e4c433fe1a594f95bdcb68686814d22ad8c5d5e84aa61742d07525f9d7810a11",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Bass-Lines-Setup-2.69.0.exe",
+      "sha256": "a6de634581693dd1d97a1380b4c4a0614893de56a0c5f2878deccd26ebfe3c56",
       "notes_en": [
-        "SEARCH the library by name, style or BPM. STYLE and FEEL are now one box each; the star next to LIBRARY shows only your favourites.",
-        "New grooves: BOUNCE PUSH (3-3-2 with a push every 2nd bar) + 7 variations, and new grooves measured from today's Mizrahi remixes.",
-        "Only grooves measured with high confidence are kept."
+        "Two new grooves in MY REMIXES: GROOVE 28 and GROOVE 28 SHORT"
       ],
       "notes_he": [
-        "חיפוש בספרייה לפי שם, סגנון או BPM. סגנון ותחושה הם עכשיו כפתור אחד כל אחד; הכוכב ליד הספרייה מראה רק את המועדפים.",
-        "בסים חדשים: BOUNCE PUSH (‏3-3-2 עם דחיפה כל תיבה שנייה) ועוד 7 וריאציות, ובסים חדשים שנמדדו מרמיקסים מזרחיים של היום.",
-        "נשארו רק בסים שנמדדו בביטחון גבוה."
+        "שני גרוב חדשים ב-MY REMIXES: GROOVE 28 ו-GROOVE 28 SHORT"
       ]
     },
     "LH Distortion": {
@@ -296,17 +294,17 @@
       ]
     },
     "LH Rider": {
-      "version": "2.68.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Rider-Setup-2.68.0.exe",
-      "sha256": "1c0774abcb1e27378da35aac9d11a075987a2969f1d1b8940ce084c0c3144f50",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Rider-Setup-2.69.0.exe",
+      "sha256": "b3fd2e4a7fc376a2573bd49bbdc7d902fa3d5bb5e62cff37bbf7fe4e57a44801",
       "notes_en": [
-        "New simple screen: one display, RANGE and TARGET tags, SPEED and OUTPUT knobs.",
-        "AUTOMAT and LIVE / WRITE / READ stay as before; the sound did not change."
+        "New AUTO GAIN button: the vocal keeps its own overall level",
+        "Only the ride's ups and downs remain - no more fixing the track fader"
       ],
       "notes_he": [
-        "מסך פשוט חדש: תצוגה אחת, תגיות RANGE ו-TARGET, וכפתורי SPEED ו-OUTPUT.",
-        "AUTOMAT ו-LIVE / WRITE / READ נשארו כמו קודם, והסאונד לא השתנה."
+        "כפתור AUTO GAIN חדש: השירה שומרת על העוצמה הכללית שלה",
+        "נשארים רק התיקונים למעלה ולמטה - לא צריך יותר לתקן את הפיידר של הערוץ"
       ]
     },
     "LH Ember": {
@@ -668,33 +666,29 @@
       ]
     },
     "LH Tape": {
-      "version": "2.67.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.67.0/LH-Tape-Setup-2.67.0.exe",
-      "sha256": "dc4d34a9485e33eeffebecc2b37d20807555e53a8fadd30220db339b3e2f809f",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Tape-Setup-2.69.0.exe",
+      "sha256": "e392d37142d7f7b3c302b951d4f704aa26576fd27827e0b5c5b7e320990d27c7",
       "notes_en": [
-        "First release: a tape machine with just INPUT and OUTPUT, the more you drive it the more tape you hear.",
-        "7.5 / 15 IPS, NAB / CCIR, noise reduction, AGE (wow, flutter, hiss) and a TAPE STOP that follows the tempo.",
-        "Reels that spin with your transport, an analogue VU meter and a digital saturation meter."
+        "New AUTOMAT: listens for 4 seconds and sets the tape for drums, bass, melodic parts or a full mix"
       ],
       "notes_he": [
-        "גרסה ראשונה: מכונת טייפ עם INPUT ו-OUTPUT בלבד, וככל שדוחפים יותר שומעים יותר טייפ.",
-        "מהירות 7.5 או 15, עקומות NAB או CCIR, הפחתת רעש, AGE שמוסיף רעידות ורעש, ו-TAPE STOP שעובד לפי הטמפו.",
-        "גלגלים שמסתובבים עם הנגינה, מד VU אנלוגי ומד רוויה דיגיטלי."
+        "AUTOMAT חדש: מקשיב 4 שניות ומכוון את הטייפ לתופים, בס, כלים מלודיים או מיקס מלא"
       ]
     },
     "LH Pan Tremolo": {
-      "version": "2.68.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Pan-Tremolo-Setup-2.68.0.exe",
-      "sha256": "97121dad50a89b8ec0f593c33da264c0ff090767f4fa697a1f444886912dd1dd",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Pan-Tremolo-Setup-2.69.0.exe",
+      "sha256": "361f118dddb8f2e3a7d3788e17f7847bea42d416f4fb255b7f991ff485a79cc9",
       "notes_en": [
-        "First release: a clean auto-pan and tremolo.",
-        "5 shapes, free or tempo-synced rate (straight, triplet, dotted), PHASE, OFFSET, MORPH, ATTACK and MOD."
+        "More aggressive out of the box: full depth (100 %) by default",
+        "Tremolo now defaults to a hard, gate-like chop (MORPH +100)"
       ],
       "notes_he": [
-        "גרסה ראשונה: אוטו-פאן וטרמולו נקיים.",
-        "5 צורות גל, קצב חופשי או לפי הטמפו (רגיל, טריולה, מנוקד), PHASE, OFFSET, MORPH, ATTACK ו-MOD."
+        "אגרסיבי יותר מההתחלה: עומק מלא (100 %) כברירת מחדל",
+        "הטרמולו נפתח עכשיו בחיתוך חד כמו גייט (MORPH +100)"
       ]
     },
     "LH Eclipse": {
@@ -730,47 +724,47 @@
       ]
     },
     "LH Sweep": {
-      "version": "2.68.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Sweep-Setup-2.68.0.exe",
-      "sha256": "30698c7268c88df046e4f009f67bb6146749f75d540e5a3ceba09ab827383d4a",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Sweep-Setup-2.69.0.exe",
+      "sha256": "74f556a9d1e33953bc9affb4f0927a34c00391a8b76d97b62cbb356b469bef51",
       "notes_en": [
-        "First release: an auto filter with many filter types (including Morph, Comb, Vowel and DJ).",
-        "LFO and envelope follower with ATK / REL, drive, and a screen curve that shows exactly what you hear."
+        "Live spectrum of the output behind the curve",
+        "Cleaner value readouts"
       ],
       "notes_he": [
-        "גרסה ראשונה: פילטר אוטומטי עם הרבה סוגי פילטרים (כולל Morph, Comb, Vowel ו-DJ).",
-        "LFO ועוקב עוצמה עם ATK / REL, דרייב, ועקומה על המסך שמראה בדיוק מה שומעים."
+        "ספקטרום חי של היציאה מאחורי העקומה",
+        "תצוגת ערכים נקייה יותר"
       ]
     },
     "LH Octa EQ": {
-      "version": "2.68.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Octa-EQ-Setup-2.68.0.exe",
-      "sha256": "2ac4cbfe8ae5ab4324f6885697f2bd87338018d70286b8b48af086b5bcadf534",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Octa-EQ-Setup-2.69.0.exe",
+      "sha256": "78d27d1ec427dfecad7f5d3a4178f4d4da3a12ba01e5ab8811d9a294782d24d5",
       "notes_en": [
-        "First release: an 8-band EQ with 8 filter types per band.",
-        "Stereo, L/R and M/S, Adaptive Q, Scale, Hi Quality, a spectrum analyzer and band listening."
+        "Stronger gains and a +/-24 dB graph",
+        "Headphones on each band: drag them to hear only that area",
+        "RESET, UNDO / REDO and 17 presets"
       ],
       "notes_he": [
-        "גרסה ראשונה: אקולייזר 8 פסים עם 8 סוגי פילטר לכל פס.",
-        "Stereo, L/R ו-M/S, Adaptive Q, Scale, Hi Quality, אנלייזר ספקטרום והאזנה לפס."
+        "הגברות חזקות יותר וגרף של 24 dB למעלה ולמטה",
+        "אוזניות על כל פס: גוררים ושומעים רק את האזור שלו",
+        "איפוס, ביטול / חזרה ו-17 פריסטים"
       ]
     },
     "LH LFO": {
-      "version": "2.68.0",
+      "version": "2.69.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-LFO-Setup-2.68.0.exe",
-      "sha256": "bc174d74ed9b7f69f00a03e21565eacefeb26e146d14820ad2c580e0975028b7",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-LFO-Setup-2.69.0.exe",
+      "sha256": "61ff97fc6c305bddbeab4794876b9539bc5016381b998c086ddd83ec2f5fbfdd",
       "notes_en": [
-        "First release: a graph LFO for volume, pan and filter, synced to your song.",
-        "12 graphs you draw yourself (points, curves, steps), RATE, SWING, PHASE, PWM, SMOOTH and per-graph WARP.",
-        "89 filter types, a SPLIT band, MIDI retrigger / envelope / gate and CC out."
+        "New MAGNET: dragged and added points lock to the grid",
+        "Hold ALT to place a point freely"
       ],
       "notes_he": [
-        "גרסה ראשונה: LFO של גרף לווליום, לפאן ולפילטר, מסונכרן לשיר.",
-        "12 גרפים שמציירים לבד (נקודות, עיקומים, מדרגות), RATE, SWING, PHASE, PWM, SMOOTH ו-WARP לכל גרף.",
-        "89 סוגי פילטר, SPLIT לתחום אחד, ריסטרט / מעטפת / גייט מ-MIDI ושליחת CC."
+        "MAGNET חדש: נקודות שגוררים ומוסיפים ננעלות על הגריד",
+        "מחזיקים ALT כדי למקם נקודה חופשי"
       ]
     },
     "LH Pitch Rise": {
