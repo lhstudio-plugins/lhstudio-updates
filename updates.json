@@ -618,19 +618,17 @@
       ]
     },
     "LH Fusion": {
-      "version": "2.64.0",
+      "version": "2.70.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.64.0/LH-Fusion-Setup-2.64.0.exe",
-      "sha256": "d4c525454e67ec7a6068a4dca00187e9ee2e78017ffdad832b73d59b97d4aef0",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.70.0/LH-Fusion-Setup-2.70.0.exe",
+      "sha256": "807efca42806c0b6f52362556d84c151acbcc3e3b52512b490c53a5641d202ed",
       "notes_en": [
-        "New: LH Fusion - a modular channel strip: 2 compressors (C3, FET 76, 2A, BUS, MB), EQ (digital with dynamic bands, E4, EQP-1A, Classic 73), 2 de-essers, saturation and resonance control",
-        "Drag the module tabs to change the processing order",
-        "Vocal AUTOMAT: listens to the singer and sets the whole chain for a male or female voice"
+        "EQ band SOLO now plays only that band's region (much sharper isolation); clicking S or creating a band switches the DIGITAL EQ on automatically.",
+        "Smooth 20 ms crossfades when switching compressor / EQ types and the de-essers on or off - no more clicks or jumps."
       ],
       "notes_he": [
-        "חדש: LH Fusion - סטריפ מודולרי: 2 קומפרסורים, אקולייזר (דיגיטלי עם בנדים דינמיים, E4, EQP-1A, קלאסי 73), 2 די-אסרים, סטורציה ורזוננס",
-        "גוררים את הכרטיסים כדי לשנות את סדר העיבוד",
-        "אוטומט לשירה: מקשיב לזמר ומכוון את כל השרשרת לשירה של גבר או אישה"
+        "סולו (S) על באנד ב-EQ משמיע עכשיו רק את האזור של הבאנד (בידוד חד הרבה יותר); לחיצה על S או יצירת באנד מדליקה את ה-DIGITAL EQ אוטומטית.",
+        "מעבר חלק של 20 ms בהדלקה וכיבוי של סוגי הקומפרסור, ה-EQ וה-De-Esser - בלי נקישות וקפיצות."
       ]
     },
     "LH Duck": {
@@ -779,6 +777,22 @@
       "notes_he": [
         "גרסה ראשונה: מרים פיץ' לווקאל שמפעילים עם אוטומציה.",
         "PITCH מ-0 עד 12 חצאי טון למעלה או למטה (התחתית של האוטומציה תמיד 0), GLIDE או STEP, ו-MIX."
+      ]
+    },
+    "LH Mosaic": {
+      "version": "2.70.0",
+      "important": false,
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.70.0/LH-Mosaic-Setup-2.70.0.exe",
+      "sha256": "b7f1119469d2c7687728251961b6641168e1e94f2578204d1c28a653b311bfda",
+      "notes_en": [
+        "New: a step-envelope sequencer with MAIN / SPACE / DRUMS / TEXTURE / PAN tabs.",
+        "43 presets, including a new 3-3-2 GROOVES category.",
+        "PENCIL: draw your own shape freely on the graph; UNDO takes back a whole stroke."
+      ],
+      "notes_he": [
+        "חדש: סיקוונסר מעטפת בצעדים עם לשוניות MAIN / SPACE / DRUMS / TEXTURE / PAN.",
+        "43 פריסטים, כולל קטגוריה חדשה של גרובים 3-3-2.",
+        "עיפרון: ציור חופשי של הצורה על הגרף; UNDO מבטל משיכה שלמה."
       ]
     }
   },
