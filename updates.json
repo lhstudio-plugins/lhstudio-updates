@@ -506,17 +506,19 @@
       ]
     },
     "LH 73": {
-      "version": "2.71.0",
+      "version": "2.72.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-73-Setup-2.71.0.exe",
-      "sha256": "4e377e33d0b01ecde9ada9a689f4469b7af6fe46b4ae516073a770121b00ace5",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.72.0/LH-73-Setup-2.72.0.exe",
+      "sha256": "750e269d60843b282c62c3e7587e2c9b7edb201e716f74da199b17063f81522f",
       "notes_en": [
-        "A new console look: red and white panels in a black wood frame",
-        "MIC Z, PAD and POWER switches right on the panel"
+        "Half red, half white panel. The HIGH, MID, LOW and HIGH PASS knobs turn the normal way (clockwise = more).",
+        "New AUTOMAT: listens to the vocal for about 5 seconds and sets the knobs. AUTO GAIN moved next to the fader.",
+        "MIC / LINE switch under the preamp: the dial stays on the chosen side. Factory presets removed."
       ],
       "notes_he": [
-        "מראה קונסולה חדש: פאנלים אדום ולבן במסגרת עץ שחורה",
-        "מתגי MIC Z,‏ PAD ו-POWER ישר על הפאנל"
+        "פאנל חצי אדום חצי לבן. הכפתורים HIGH, MID, LOW ו-HIGH PASS מסתובבים בכיוון רגיל (ימינה = יותר).",
+        "חדש: AUTOMAT מאזין לשירה כ-5 שניות ומכוון את הכפתורים לבד. AUTO GAIN עבר ליד הפיידר.",
+        "מתג MIC/LINE מתחת לפריאמפ: הכפתור נשאר בצד שבחרת. הפריסטים הוסרו."
       ]
     },
     "LH Chorus": {
