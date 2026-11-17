@@ -2,17 +2,19 @@
  "whatsapp": "972547103775",
  "plugins": {
   "LH Vocal Tune": {
-   "version": "2.37.0",
+   "version": "2.75.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.37.0/LH-Vocal-Tune-Setup-2.37.0.exe",
-   "sha256": "bcfda8228aeda9be4503f9c09dacc2787be6e3a87b2a85321383465ed300fb56",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Vocal-Tune-Setup-2.75.0.exe",
+   "sha256": "4b9f3cc69b0cff5e523bc8a49fafe240603afd4e676dd7271497d476352fced9",
    "notes_en": [
-    "New design: a big pitch wheel, a KEY / SCALE pill and a piano that shows the note.",
-    "Click piano keys to build your own scale. New OUTPUT knob."
+    "The classic cream design is back: marble body, brown panels and gold knobs, with the pitch wheel in the centre.",
+    "The original control names are back too.",
+    "Projects saved with the previous version open as before."
    ],
    "notes_he": [
-    "עיצוב חדש: גלגל גדול, בחירת סולם ופסנתר שמראה את התו.",
-    "לחיצה על קלידי הפסנתר בונה סולם משלך. כפתור יציאה חדש."
+    "העיצוב הקלאסי בצבע קרם חזר: גוף שיש, פאנלים חומים וכפתורי זהב, עם גלגל הגובה במרכז.",
+    "גם שמות הכפתורים המקוריים חזרו.",
+    "פרויקטים שנשמרו בגרסה הקודמת נפתחים כרגיל."
    ]
   },
   "LH Inhale": {
@@ -60,15 +62,19 @@
    ]
   },
   "LH Auto Phase": {
-   "version": "2.45.0",
+   "version": "2.75.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.45.0/LH-Auto-Phase-Setup-2.45.0.exe",
-   "sha256": "59e5cf3995d01f889f5f09bc83c21fdc87211df664e02e589125ceba22c5f847",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Auto-Phase-Setup-2.75.0.exe",
+   "sha256": "48095fb629db87b827345c5394a668e4b8ba75f8e239cc4e864f737740df6c67",
    "notes_en": [
-    "AUTO ALIGN is much faster on loops: about 2.5 seconds for a 1-bar loop (it could take up to 9)."
+    "The classic cream look is back, in a wide layout with the scope on top and the controls below.",
+    "One bright look only: the theme button is gone.",
+    "Switching between English and Hebrew now changes only the words; nothing moves."
    ],
    "notes_he": [
-    "AUTO ALIGN מהיר בהרבה על לופים: בערך 2.5 שניות ללופ של תיבה אחת (לפני כן עד 9)."
+    "העיצוב הקלאסי בצבע קרם חזר, בפריסה רחבה: התצוגה למעלה והכפתורים למטה.",
+    "מראה בהיר אחד בלבד: כפתור ערכת הצבעים הוסר.",
+    "מעבר בין עברית לאנגלית משנה רק את המילים; שום דבר לא זז."
    ]
   },
   "LH Cutter": {
@@ -152,17 +158,17 @@
    ]
   },
   "LH Voice Pitch": {
-   "version": "2.46.0",
+   "version": "2.75.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.46.0/LH-Voice-Pitch-Setup-2.46.0.exe",
-   "sha256": "4b49b3b1107cce2a17648d7c6542abdc4d8a8eb52bd62f48ba65dab5eb965688",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Voice-Pitch-Setup-2.75.0.exe",
+   "sha256": "401d3ab940652308d02c8ebdfc3851cf1223e76a5091ccfe56264959da9bbe84",
    "notes_en": [
-    "Cleaner layout: LINK removed and more room between PITCH and FORMANT.",
-    "The knob rings now start from the centre, so 0 looks empty."
+    "The original cream Art Deco design is back.",
+    "The value rings of PITCH, FORMANT and OUTPUT still start empty at zero and grow to the side you turn."
    ],
    "notes_he": [
-    "סידור נקי יותר: LINK הוסר ויש יותר מקום בין PITCH ל-FORMANT.",
-    "טבעות הכפתורים מתחילות עכשיו מהאמצע, אז 0 נראה ריק."
+    "העיצוב המקורי בצבע קרם בסגנון ארט דקו חזר.",
+    "טבעות הערך של PITCH, ‏FORMANT ו-OUTPUT עדיין ריקות באפס וגדלות לצד שאליו מסובבים."
    ]
   },
   "LH Orbit": {
@@ -178,15 +184,19 @@
    ]
   },
   "LH Bass Lines": {
-   "version": "2.69.0",
+   "version": "2.75.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Bass-Lines-Setup-2.69.0.exe",
-   "sha256": "a6de634581693dd1d97a1380b4c4a0614893de56a0c5f2878deccd26ebfe3c56",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Bass-Lines-Setup-2.75.0.exe",
+   "sha256": "26ceb5f5f49c975e8f4a1c3b05d5b9a6bd586b8a70ae5eecc224b39fa385c7a1",
    "notes_en": [
-    "Two new grooves in MY REMIXES: GROOVE 28 and GROOVE 28 SHORT"
+    "New sound SAMPLE: drag a one-note bass audio file onto the plugin and the grooves play it at every pitch.",
+    "The note of the file is found automatically; you can also set it by hand or remove the file from the SOUND menu.",
+    "A new bounce groove was added to MY REMIXES."
    ],
    "notes_he": [
-    "שני גרוב חדשים ב-MY REMIXES: GROOVE 28 ו-GROOVE 28 SHORT"
+    "סאונד חדש SAMPLE: גוררים קובץ אודיו של בס בתו אחד אל הפלאגין, והגרובים מנגנים אותו בכל גובה.",
+    "התו של הקובץ מזוהה לבד; אפשר גם לקבוע אותו ידנית או להסיר את הקובץ מתפריט SOUND.",
+    "נוסף גרוב באונס חדש ל-MY REMIXES."
    ]
   },
   "LH Distortion": {
@@ -202,15 +212,19 @@
    ]
   },
   "LH Kick": {
-   "version": "2.48.0",
+   "version": "2.75.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Kick-Setup-2.48.0.exe",
-   "sha256": "6558ab1755a5e116e06fada041404d32f26e6fee862a1c3dcbfabb5817c7111d",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Kick-Setup-2.75.0.exe",
+   "sha256": "cd8591019acbf1aa1c4e4d4b8509f62086a6b3cce91d39a73222d5bd3476ca2e",
    "notes_en": [
-    "New look: the house turquoise design. Controls and sound are unchanged."
+    "57 new factory kicks in nine styles: Remix, Wedding, Club, Trance, Punchy, Full, Acoustic, Soft and 808.",
+    "Three new preset groups: ACOUSTIC, SOFT and 808. The new kicks come first in each style's menu.",
+    "The BODY switch has a new ACOUSTIC choice with the overtones of a real drum skin."
    ],
    "notes_he": [
-    "מראה חדש: עיצוב הטורקיז של הבית. הכפתורים והסאונד לא השתנו."
+    "57 קיקים חדשים מהמפעל בתשעה סגנונות: רמיקס, חתונה, מועדון, טראנס, פאנצ'י, מלא, אקוסטי, רך ו-808.",
+    "שלוש קבוצות פריסטים חדשות: ACOUSTIC, ‏SOFT ו-808. הקיקים החדשים מופיעים ראשונים בתפריט של כל סגנון.",
+    "במתג BODY נוספה אפשרות ACOUSTIC עם הצלילים העיליים של עור תוף אמיתי."
    ]
   },
   "LH Clipper": {
@@ -480,15 +494,19 @@
    ]
   },
   "LH Resonance": {
-   "version": "2.71.0",
+   "version": "2.75.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Resonance-Setup-2.71.0.exe",
-   "sha256": "69cc4bd8cb1505c3d1e0f6d1ceb3a80bbb51a6d5285a0d2613dbcb164d6edf1d",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Resonance-Setup-2.75.0.exe",
+   "sha256": "3a6f6c0a71dc2322348c1542114bde0352d7cf090bb4056c72516017f2637a04",
    "notes_en": [
-    "The readout numbers are calm and easy to read (4 updates a second)"
+    "New white design with a black display and black knobs: mode, DEPTH, DETAIL / FOCUS / MIX and ATTACK / RELEASE on the left, the resonance field on the right.",
+    "New AUTO GAIN in the bottom bar gives back the level that the processing takes away.",
+    "Your own presets, undo / redo and A | B compare in the header."
    ],
    "notes_he": [
-    "מספרי התצוגה רגועים וקלים לקריאה (מתעדכנים 4 פעמים בשנייה)"
+    "עיצוב לבן חדש עם תצוגה שחורה וכפתורים שחורים: מצב, DEPTH, ‏DETAIL / FOCUS / MIX ו-ATTACK / RELEASE משמאל, שדה התהודות מימין.",
+    "AUTO GAIN חדש בשורה התחתונה מחזיר את העוצמה שהעיבוד מוריד.",
+    "פריסטים משלך, ביטול / חזרה והשוואת A | B בשורה העליונה."
    ]
   },
   "LH MotionBox": {
