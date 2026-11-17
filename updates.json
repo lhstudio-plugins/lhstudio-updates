@@ -32,17 +32,19 @@
    ]
   },
   "LH Drummer": {
-   "version": "2.44.0",
+   "version": "2.76.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.44.0/LH-Drummer-Setup-2.44.0.exe",
-   "sha256": "0787cf2786493adcf012aaa77040fa88b7288174977d1d8d6a3d8609bfd1e301",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.76.0/LH-Drummer-Setup-2.76.0.exe",
+   "sha256": "0ce0fccb5e9ffe7273f76adb6ad25619f114241ac11c949d6718bee28ecdcd42",
    "notes_en": [
-    "The SPLIT screen moved out: splitting a drum loop now lives in LH Loop DNA.",
-    "Drummer is lighter and simpler again: beats, fills, PADS and YOUR GROOVE."
+    "New FILLS browser: pick the exact fill you want from groups - tom fills, long builds, one bar, half a bar, pickups and electronic.",
+    "15 new tom fills and a four-bar kick-doubling build into the chorus.",
+    "A fill you picked stays when you press NEW LOOP; NEW FILL frees it."
    ],
    "notes_he": [
-    "מסך SPLIT יצא מהדראמר: פירוק לופ תופים נמצא עכשיו ב-LH Loop DNA.",
-    "הדראמר שוב קל ופשוט: ביטים, מילויים, פדים ו-YOUR GROOVE."
+    "דפדפן מעברים חדש: בוחרים את המעבר המדויק מתוך קבוצות - מעברי טומים, בילדים ארוכים, תיבה אחת, חצי תיבה, פיקאפים ואלקטרוני.",
+    "15 מעברי טומים חדשים ובילד של הכפלת קיק בארבע תיבות אל הפזמון.",
+    "מעבר שבחרת נשאר גם כשלוחצים NEW LOOP; ‏NEW FILL משחרר אותו."
    ]
   },
   "LH Sample Finder": {
@@ -815,22 +817,6 @@
     "עיפרון: ציור חופשי של הצורה על הגרף; UNDO מבטל משיכה שלמה."
    ]
   },
-  "LH Key Fit": {
-   "version": "2.71.0",
-   "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Key-Fit-Setup-2.71.0.exe",
-   "sha256": "9543ee670988f7e695e558e1e82141cf9aa0de64bce8aeebd4b523f0a32e68c6",
-   "notes_en": [
-    "First release: finds how many semitones to move a song so it fits your voice",
-    "Drag in the original (MIDI or the singer's vocal), sing your range, press FIX IT FOR ME",
-    "Drag the fixed MIDI - or a WAV in your key - straight back into Cubase"
-   ],
-   "notes_he": [
-    "גרסה ראשונה: מוצא בכמה חצאי טונים להזיז שיר כדי שיתאים לקול שלך",
-    "גוררים את המקור (MIDI או השירה של הזמר), שרים את הטווח ולוחצים תסדר לי",
-    "גוררים את ה-MIDI המתוקן - או WAV בסולם שלך - ישר לקיובייס"
-   ]
-  },
   "LH Tesovev": {
    "version": "2.71.0",
    "important": false,
@@ -887,6 +873,22 @@
     "פלאגין חדש: קומפרסור באס סטריאו בסגנון ראק, עם גלאי NEW / OLD, ‏THRUST, שלוש ברכיים וקישור L/R משתנה.",
     "AUTOMAT מאזין כמה שניות ומכוון את הכפתורים. מדי LED לצמצום העוצמה עם המספר המדויק ב-dB.",
     "פיצוי עוצמה אוטומטי או ידני, כפתור MIX, ותוויות בעברית או באנגלית."
+   ]
+  },
+  "LH Brickwall": {
+   "version": "2.76.0",
+   "important": false,
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.76.0/LH-Brickwall-Setup-2.76.0.exe",
+   "sha256": "401874786096f2077f06ddbcc0480f25f6f0fc6b14689e298691ac24ea5731da",
+   "notes_en": [
+    "New plugin: a simple brickwall limiter. Set the THRESHOLD and nothing passes above it.",
+    "RELEASE by hand or AUTO, stereo LINK, and DIC that also catches the peaks between the samples.",
+    "IN / GR / OUT meters with held peak numbers (click a number to reset it). English / Hebrew labels."
+   ],
+   "notes_he": [
+    "פלאגין חדש: לימיטר בריקוול פשוט. קובעים THRESHOLD ושום דבר לא עובר מעליו.",
+    "RELEASE ידני או AUTO, קישור סטריאו LINK, ו-DIC שתופס גם את הפיקים שבין הדגימות.",
+    "מדי IN / GR / OUT עם מספרי פיק מוחזקים (לחיצה על מספר מאפסת אותו). תוויות בעברית או באנגלית."
    ]
   }
  },
