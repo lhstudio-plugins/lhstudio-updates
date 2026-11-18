@@ -876,19 +876,17 @@
    ]
   },
   "LH Brickwall": {
-   "version": "2.76.0",
+   "version": "2.77.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.76.0/LH-Brickwall-Setup-2.76.0.exe",
-   "sha256": "401874786096f2077f06ddbcc0480f25f6f0fc6b14689e298691ac24ea5731da",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.77.0/LH-Brickwall-Setup-2.77.0.exe",
+   "sha256": "b71151407af97068658546811e5b261b7cc9edac6bca876be9f8655b3af36bdd",
    "notes_en": [
-    "New plugin: a simple brickwall limiter. Set the THRESHOLD and nothing passes above it.",
-    "RELEASE by hand or AUTO, stereo LINK, and DIC that also catches the peaks between the samples.",
-    "IN / GR / OUT meters with held peak numbers (click a number to reset it). English / Hebrew labels."
+    "Easier to read: the meter scale numbers, the tick lines and all the labels are now bright white.",
+    "The threshold value and the three peak numbers (INPUT / GR / OUTPUT) are white as well."
    ],
    "notes_he": [
-    "פלאגין חדש: לימיטר בריקוול פשוט. קובעים THRESHOLD ושום דבר לא עובר מעליו.",
-    "RELEASE ידני או AUTO, קישור סטריאו LINK, ו-DIC שתופס גם את הפיקים שבין הדגימות.",
-    "מדי IN / GR / OUT עם מספרי פיק מוחזקים (לחיצה על מספר מאפסת אותו). תוויות בעברית או באנגלית."
+    "קל יותר לקרוא: מספרי הסקאלה של המדים, הקווים וכל הכיתובים עכשיו בלבן בוהק.",
+    "גם ערך ה-THRESHOLD ושלושת מספרי הפיק (INPUT / GR / OUTPUT) בלבן."
    ]
   }
  },
