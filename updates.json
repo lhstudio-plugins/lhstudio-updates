@@ -888,6 +888,22 @@
     "קל יותר לקרוא: מספרי הסקאלה של המדים, הקווים וכל הכיתובים עכשיו בלבן בוהק.",
     "גם ערך ה-THRESHOLD ושלושת מספרי הפיק (INPUT / GR / OUTPUT) בלבן."
    ]
+  },
+  "LH 2A": {
+   "version": "2.78.0",
+   "important": false,
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.78.0/LH-2A-Setup-2.78.0.exe",
+   "sha256": "b3bdf0758035d65f953940c5a06756ff4a6247b49ea809221a1108c7754a3bc7",
+   "notes_en": [
+    "First release: an optical leveling amplifier in a silver rack look.",
+    "PEAK REDUCTION and GAIN, COMP / LIMIT, an HF trimmer, MIX and a digital reduction meter.",
+    "AUTOMAT listens for six seconds and sets the reduction and the gain."
+   ],
+   "notes_he": [
+    "גרסה ראשונה: מגבר פילוס אופטי במראה ראק כסוף.",
+    "הפחתת שיאים והגברה, דחיסה או הגבלה, טרימר לגבוהים, מיקס ומד הפחתה דיגיטלי.",
+    "אוטומט מקשיב שש שניות ומכוון את ההפחתה ואת ההגברה."
+   ]
   }
  },
  "announcement": {
