@@ -374,15 +374,19 @@
    ]
   },
   "LH 176": {
-   "version": "2.48.0",
+   "version": "2.78.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-176-Setup-2.48.0.exe",
-   "sha256": "851f1e7b384c170d3f1aab4e0cd3f0ae81db9f1c557a2605d275884ce34dc486",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.78.0/LH-176-Setup-2.78.0.exe",
+   "sha256": "93e8402f186fafe82ff4805cf5d56645e23692fd3590f704894ef5a79ed10a0c",
    "notes_en": [
-    "New look: the dark turquoise L.H Studio finish. Controls and sound are unchanged."
+    "New look: one wide rack row like the hardware unit.",
+    "New digital meter: a blue LED arc with the exact number in dB.",
+    "All names and numbers are now bright white and easier to read."
    ],
    "notes_he": [
-    "מראה חדש: הגימור הטורקיז הכהה של L.H Studio. הכפתורים והסאונד לא השתנו."
+    "מראה חדש: שורת ראק רחבה אחת, כמו המכשיר המקורי.",
+    "מד דיגיטלי חדש: קשת נורות כחולה עם המספר המדויק.",
+    "כל השמות והמספרים עכשיו בלבן בוהק וקלים יותר לקריאה."
    ]
   },
   "LH Saturn": {
