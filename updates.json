@@ -134,17 +134,15 @@
    ]
   },
   "LH Dyna": {
-   "version": "2.81.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.81.0/LH-Dyna-Setup-2.81.0.exe",
-   "sha256": "37c1495c2b4daa89dc031e8f25734ef084be8f4aac4fbedbb980bc75da6af02e",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Dyna-Setup-2.82.0.exe",
+   "sha256": "3fbf18b0906de048e705b4680d03614417cea428d72c3453953b126d82774c4f",
    "notes_en": [
-    "New AUTO GAIN button: keeps the output as loud as the input (off by default).",
-    "Simpler band panel: the WORKING bar is gone and the four knobs are spread evenly."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "כפתור AUTO GAIN חדש: שומר את היציאה באותה עוצמה כמו הכניסה (כבוי כברירת מחדל).",
-    "פאנל הבנד פשוט יותר: פס ה-WORKING הוסר וארבעת הכפתורים מפוזרים באופן שווה."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Tops": {
@@ -176,15 +174,15 @@
    ]
   },
   "LH Orbit": {
-   "version": "2.57.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.57.0/LH-Orbit-Setup-2.57.0.exe",
-   "sha256": "f8fa706626c90730bccadfac2add628a4f8594ee886af1b856426125641fb37b",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Orbit-Setup-2.82.0.exe",
+   "sha256": "49fd3d3694fa99aa800d80aa8a08add85c7870b0b8049b10c8db066414911805",
    "notes_en": [
-    "10 new presets: Fall After The Drop, Long 16-Bar Build, Snare Roll Fly-By, Vocal Chops Ping-Pong, Adlibs Around and more - 22 in total."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "10 פריסטים חדשים: נפילה אחרי הדרופ, בילד ארוך של 16 תיבות, סנר שעובר ליד, צ'ופים של ווקאל מצד לצד, אדליבים מסביב ועוד - 22 בסך הכול."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Bass Lines": {
@@ -232,17 +230,15 @@
    ]
   },
   "LH Clipper": {
-   "version": "2.81.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.81.0/LH-Clipper-Setup-2.81.0.exe",
-   "sha256": "753f07287da83877585033938528ea99cc48e3d715cb0cb998c40a99e3439a90",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Clipper-Setup-2.82.0.exe",
+   "sha256": "cd8e0a5d7d86debc87f545219b0d868b2744cb78e22e8106a3cbd55df9a479e8",
    "notes_en": [
-    "Fix: the scope's scale is now fixed (+6 to -18 dB) and no longer jumps while CEILING is turned.",
-    "The CEILING knob stops at -18 dB. Old projects and automation keep working."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "תיקון: הסקאלה של התצוגה קבועה עכשיו (‎+6 עד ‎-18 dB) ולא קופצת יותר כשמסובבים את CEILING.",
-    "כפתור CEILING נעצר ב-‎-18 dB. פרויקטים ישנים ואוטומציה ממשיכים לעבוד."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Core": {
@@ -274,15 +270,15 @@
    ]
   },
   "LH Gate": {
-   "version": "2.53.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.53.0/LH-Gate-Setup-2.53.0.exe",
-   "sha256": "3fe75a11a757a4b85fbbada3b0ee1603b6836c8c88969be963ff720a4363c2bd",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Gate-Setup-2.82.0.exe",
+   "sha256": "48f51d8849585739f4653498cadd68fa6237ef2cb908770f810ebf14bfd12a0c",
    "notes_en": [
-    "AUTOMAT: the threshold no longer drops far too low on quiet material, and bass / low notes are no longer taken for a vocal."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "AUTOMAT: הסף כבר לא יורד נמוך מדי בחומר שקט, ובס / תווים נמוכים כבר לא מזוהים כווקאל."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Lift": {
@@ -328,41 +324,39 @@
    ]
   },
   "LH Ember": {
-   "version": "2.48.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Ember-Setup-2.48.0.exe",
-   "sha256": "eefb32f016e096ae7d8c10afaa1224756a9b26d625bb21b01e73b5b12a0fde3d",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Ember-Setup-2.82.0.exe",
+   "sha256": "7bd5fe6bbd6bd3143537bdddda4398457a4241c139d133583c0f4c9a18dcbd2e",
    "notes_en": [
-    "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Scorch": {
-   "version": "2.71.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Scorch-Setup-2.71.0.exe",
-   "sha256": "cf66487994372a97842c0daf063c9d1875ab982267d1ea5bc76aba247eb37559",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Scorch-Setup-2.82.0.exe",
+   "sha256": "27b0e4a2a12715ad03e8bed876a3a74b07c79294bc845390f8eda816e4c7ac01",
    "notes_en": [
-    "The readout numbers are calm and easy to read (4 updates a second)"
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "מספרי התצוגה רגועים וקלים לקריאה (מתעדכנים 4 פעמים בשנייה)"
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Velvet": {
-   "version": "2.71.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Velvet-Setup-2.71.0.exe",
-   "sha256": "6d8d578fb5b5656b6134a2f43632c816a4764336fc8dfca8fbed5efe226d2e69",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Velvet-Setup-2.82.0.exe",
+   "sha256": "75b179bc0626d25284e193447bb85a6e8219f9ad544b45961995f0a51589ead1",
    "notes_en": [
-    "Meter numbers now hold the peak like Cubase - click a number to reset it",
-    "The meter bars stay live"
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "מספרי המדים מחזיקים את השיא כמו בקיובייס - לחיצה על המספר מאפסת",
-    "פסי המדים ממשיכים לזוז בזמן אמת"
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Remix Rise": {
@@ -392,15 +386,15 @@
    ]
   },
   "LH Saturn": {
-   "version": "2.48.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.48.0/LH-Ember-Setup-2.48.0.exe",
-   "sha256": "eefb32f016e096ae7d8c10afaa1224756a9b26d625bb21b01e73b5b12a0fde3d",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Ember-Setup-2.82.0.exe",
+   "sha256": "7bd5fe6bbd6bd3143537bdddda4398457a4241c139d133583c0f4c9a18dcbd2e",
    "notes_en": [
-    "New look: the dark turquoise L.H Studio finish (one dark look). Controls and sound are unchanged."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "מראה חדש: הגימור הטורקיז הכהה של L.H Studio (מראה כהה אחד). הכפתורים והסאונד לא השתנו."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Atmos": {
@@ -514,17 +508,15 @@
    ]
   },
   "LH MotionBox": {
-   "version": "2.54.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.54.0/LH-MotionBox-Setup-2.54.0.exe",
-   "sha256": "2e2a14d1acef9cb081d6fa8d22df57e17ae690bf72a7d462f751d4cb4c918daf",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-MotionBox-Setup-2.82.0.exe",
+   "sha256": "ebffe213ea89bffa6588170d6665f21ac973fa12d26398f5228ca6e880baeba4",
    "notes_en": [
-    "Bigger graph in every module: the module knobs moved down next to GLOBAL MIX / OUTPUT.",
-    "New tile row: 10 quick shapes per module + 10 slots for your own envelopes."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "גרף גדול יותר בכל המודולים: הכפתורים של המודול ירדו למטה ליד המיקס הכללי והיציאה.",
-    "שורת אריחים חדשה: 10 צורות מהירות לכל מודול + 10 מקומות למעטפות שלך."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH 73": {
@@ -542,17 +534,15 @@
    ]
   },
   "LH Chorus": {
-   "version": "2.55.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.55.0/LH-Chorus-Setup-2.55.0.exe",
-   "sha256": "fe14c69ce31e42926d72753bf448941b2ef54a7b142a0b21fabc7205f4808672",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Chorus-Setup-2.82.0.exe",
+   "sha256": "ec9043641d1413881fa51be0434a1df4706fb16e4b00a46f93afae2952680503",
    "notes_en": [
-    "First release: a stereo chorus with CLASSIC, DIMENSION, ENSEMBLE and LUSH modes.",
-    "2 / 4 / 6 voices, tempo sync, low / high cut and MIX."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "גרסה ראשונה: קורוס סטריאו עם מצבי CLASSIC, DIMENSION, ENSEMBLE ו-LUSH.",
-    "2 / 4 / 6 קולות, סנכרון לטמפו, חיתוך נמוכים / גבוהים ו-MIX."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Throw": {
@@ -638,49 +628,43 @@
    ]
   },
   "LH Fusion": {
-   "version": "2.71.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Fusion-Setup-2.71.0.exe",
-   "sha256": "9b99bcb06cda8ab74c8b8fc66187251006c9834b08c3cdf1b0e1dd994af7c2d1",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Fusion-Setup-2.82.0.exe",
+   "sha256": "c73e0c072a70c1b6ceac645a291684f5ee2d7ecf96980251221496972e4ad0c8",
    "notes_en": [
-    "Meter numbers now hold the peak like Cubase - click a number to reset it",
-    "The meter bars stay live"
+    "MB (multiband) reworked: the page opens empty - click the graph to create a band, up to 4",
+    "Every band shows its range as a belly that is always there; the line moves only when the band compresses (lower THRESHOLD)",
+    "Drag a band to move it, mouse wheel = narrower / wider, double-click = remove; band SOLO plays only that band"
    ],
    "notes_he": [
-    "מספרי המדים מחזיקים את השיא כמו בקיובייס - לחיצה על המספר מאפסת",
-    "פסי המדים ממשיכים לזוז בזמן אמת"
+    "ה-MB (מולטיבנד) נבנה מחדש: העמוד נפתח ריק - לחיצה על הגרף יוצרת באנד, עד 4",
+    "כל באנד מראה את הטווח שלו כבטן שתמיד נמצאת; הקו זז רק כשהבאנד דוחס (מורידים THRESHOLD)",
+    "גרירה מזיזה באנד, גלגלת העכבר מצרה / מרחיבה, דאבל-קליק מוחק; הסולו משמיע רק את הבאנד"
    ]
   },
   "LH Duck": {
-   "version": "2.66.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.66.0/LH-Duck-Setup-2.66.0.exe",
-   "sha256": "1e08b0444095e5fd4eed13d254a15f6334eee546f42f7ada760fa4a523a82d6b",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Duck-Setup-2.82.0.exe",
+   "sha256": "3e6b3caaa91fbff0ecdf72e25f1dc7dd8d09854f1b0a5c079fb3411cab1ae3d1",
    "notes_en": [
-    "Curve names are translated to Hebrew.",
-    "Menus now open and close correctly.",
-    "The window size is remembered correctly."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "שמות העקומות מתורגמים לעברית.",
-    "תפריטים נפתחים ונסגרים כמו שצריך.",
-    "גודל החלון נשמר נכון."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Carve": {
-   "version": "2.66.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.66.0/LH-Carve-Setup-2.66.0.exe",
-   "sha256": "4bb26d4915980c54cfdecf21ad0d15c7ab85d53352205fd91c12ac4ca4c6494c",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Carve-Setup-2.82.0.exe",
+   "sha256": "92d0855af8ae4af758cc9d38a2b734d2075401d0dfcf8b234f39114a1c9414d1",
    "notes_en": [
-    "Pumping and sub response retuned on real kick and bass; the bass returns with tighter timing after the hit.",
-    "MAX DEPTH now defaults to OFF (no limit).",
-    "The graph stays flat outside LOW / HIGH, and the stereo modes have clearer names."
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "הפמפום והסאב כוונו מחדש לפי קיק ובאס אמיתיים, והבאס חוזר בתזמון מדויק יותר אחרי המכה.",
-    "ברירת המחדל של העומק המרבי היא עכשיו OFF, בלי הגבלה.",
-    "הגרף נשאר שטוח מחוץ לטווח LOW ו-HIGH, ומצבי הסטריאו קיבלו שמות ברורים."
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH Tape": {
@@ -846,15 +830,15 @@
    ]
   },
   "LH Filter": {
-   "version": "2.71.0",
+   "version": "2.82.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Filter-Setup-2.71.0.exe",
-   "sha256": "06ec0ed19d00ef305ae06cb07562264c4c2a469ff4de537b369cd39fe40ba348",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Filter-Setup-2.82.0.exe",
+   "sha256": "01321bacdab0e3e3fee8c06b4a5b74092c179858580419485d0973a96c1ae7ca",
    "notes_en": [
-    "The readout numbers are calm and easy to read (4 updates a second)"
+    "Removed the pop-up explanation box over the graph"
    ],
    "notes_he": [
-    "מספרי התצוגה רגועים וקלים לקריאה (מתעדכנים 4 פעמים בשנייה)"
+    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
    ]
   },
   "LH 2500": {
