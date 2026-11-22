@@ -160,17 +160,19 @@
    ]
   },
   "LH Voice Pitch": {
-   "version": "2.75.0",
+   "version": "2.85.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Voice-Pitch-Setup-2.75.0.exe",
-   "sha256": "401d3ab940652308d02c8ebdfc3851cf1223e76a5091ccfe56264959da9bbe84",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.85.0/LH-Voice-Pitch-Setup-2.85.0.exe",
+   "sha256": "ad42e172f41833b48b401e2d167114ecb70f1aacbc493f5a6dd1588f491ab9f5",
    "notes_en": [
-    "The original cream Art Deco design is back.",
-    "The value rings of PITCH, FORMANT and OUTPUT still start empty at zero and grow to the side you turn."
+    "New look: a golden-oak frame, black panels and white numbers, in a compact wide window.",
+    "New DRIVE knob: adds saturation and warmth to the processed voice (0 = off).",
+    "OUTPUT, VOICES, LINK and the pitch graph are no longer on screen (automation still reaches them). The pitch engine is unchanged."
    ],
    "notes_he": [
-    "העיצוב המקורי בצבע קרם בסגנון ארט דקו חזר.",
-    "טבעות הערך של PITCH, ‏FORMANT ו-OUTPUT עדיין ריקות באפס וגדלות לצד שאליו מסובבים."
+    "עיצוב חדש: מסגרת עץ אלון, פאנלים שחורים ומספרים לבנים, בחלון רחב ונמוך.",
+    "כפתור DRIVE חדש: מוסיף רוויה וחום לקול המעובד (0 = כבוי).",
+    "OUTPUT, VOICES, LINK והגרף כבר לא מופיעים במסך (האוטומציה עדיין מגיעה אליהם). מנוע הפיץ' לא השתנה."
    ]
   },
   "LH Orbit": {
@@ -494,15 +496,17 @@
    ]
   },
   "LH MotionBox": {
-   "version": "2.82.0",
+   "version": "2.85.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-MotionBox-Setup-2.82.0.exe",
-   "sha256": "ebffe213ea89bffa6588170d6665f21ac973fa12d26398f5228ca6e880baeba4",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.85.0/LH-MotionBox-Setup-2.85.0.exe",
+   "sha256": "78b7ecfeb1eb2894aa1b680b6462581d3d32011a4607958fbe06ee3e4fd6bc8c",
    "notes_en": [
-    "Removed the pop-up explanation box over the graph"
+    "Bigger graph in the classic shaper size, with all the page controls in one row.",
+    "New SCOPE: see the real waveform behind the curve - the input or the output (SCOPE IN | OUT)."
    ],
    "notes_he": [
-    "הוסרה חלונית ההסבר שקפצה מעל הגרף"
+    "גרף גדול יותר בגודל של שייפר קלאסי, וכל כפתורי העמוד בשורה אחת.",
+    "SCOPE חדש: רואים את צורת הגל האמיתית מאחורי העקומה - של הכניסה או של היציאה (SCOPE IN | OUT)."
    ]
   },
   "LH 73": {
