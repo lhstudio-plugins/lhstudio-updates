@@ -296,31 +296,17 @@
    ]
   },
   "LH Limit": {
-   "version": "2.81.0",
+   "version": "2.84.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.81.0/LH-Limit-Setup-2.81.0.exe",
-   "sha256": "8bb4db0d8cd15788afa2b9172ee6a41211bc913ea6bda470af5b9dff48ce64a8",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.84.0/LH-Limit-Setup-2.84.0.exe",
+   "sha256": "27c4538ec23752d1d182bcfa343f73af191b83960e35573ee102a1f748458a9f",
    "notes_en": [
-    "New layout around one big LIMITING scope, with 1 / 3 / 6 second zoom, FREEZE and a held gain-reduction number (click resets).",
-    "LOUDNESS column: INTEGRATED, SHORT-TERM, TRUE PEAK and the new loudness RANGE.",
-    "CEILING is now a knob. STEREO LINK and RESET METERS left the panel; old projects keep their settings."
+    "Smoother GR meter: it drops at once and returns evenly - no more jumpy bar while playing.",
+    "The sound is unchanged."
    ],
    "notes_he": [
-    "פריסה חדשה סביב תצוגת LIMITING אחת גדולה, עם זום של 1 / 3 / 6 שניות, FREEZE ומספר הנחתה שנשאר (לחיצה מאפסת).",
-    "עמודת LOUDNESS: ‏INTEGRATED, ‏SHORT-TERM, ‏TRUE PEAK והמדד החדש RANGE.",
-    "CEILING הוא עכשיו כפתור סיבוב. STEREO LINK ו-RESET METERS ירדו מהפאנל; פרויקטים ישנים שומרים על ההגדרות שלהם."
-   ]
-  },
-  "LH Rider": {
-   "version": "2.71.0",
-   "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Rider-Setup-2.71.0.exe",
-   "sha256": "fc24e5bb499b7d1b7c41c782c27a6fcc51edfd2d60d627826712b0fec79454e7",
-   "notes_en": [
-    "The readout numbers are calm and easy to read (4 updates a second)"
-   ],
-   "notes_he": [
-    "מספרי התצוגה רגועים וקלים לקריאה (מתעדכנים 4 פעמים בשנייה)"
+    "מד GR חלק יותר: יורד מיד וחוזר בהדרגה - בלי קפיצות בזמן ניגון.",
+    "הסאונד לא השתנה."
    ]
   },
   "LH Ember": {
@@ -628,19 +614,17 @@
    ]
   },
   "LH Fusion": {
-   "version": "2.82.0",
+   "version": "2.84.0",
    "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Fusion-Setup-2.82.0.exe",
-   "sha256": "c73e0c072a70c1b6ceac645a291684f5ee2d7ecf96980251221496972e4ad0c8",
+   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.84.0/LH-Fusion-Setup-2.84.0.exe",
+   "sha256": "f486a034fdb788d383c9d432ead26e6c210ca2f748ff05f8f935a2f41442c787",
    "notes_en": [
-    "MB (multiband) reworked: the page opens empty - click the graph to create a band, up to 4",
-    "Every band shows its range as a belly that is always there; the line moves only when the band compresses (lower THRESHOLD)",
-    "Drag a band to move it, mouse wheel = narrower / wider, double-click = remove; band SOLO plays only that band"
+    "AUTOMAT: new VOICE tile - choose AUTO, MALE or FEMALE so the analysis fits the voice.",
+    "The choice stays after RESET and when loading presets."
    ],
    "notes_he": [
-    "ה-MB (מולטיבנד) נבנה מחדש: העמוד נפתח ריק - לחיצה על הגרף יוצרת באנד, עד 4",
-    "כל באנד מראה את הטווח שלו כבטן שתמיד נמצאת; הקו זז רק כשהבאנד דוחס (מורידים THRESHOLD)",
-    "גרירה מזיזה באנד, גלגלת העכבר מצרה / מרחיבה, דאבל-קליק מוחק; הסולו משמיע רק את הבאנד"
+    "AUTOMAT: אריח VOICE חדש - בוחרים AUTO, MALE או FEMALE כדי שהניתוח יתאים לקול.",
+    "הבחירה נשמרת גם אחרי RESET וגם כשטוענים פריסט."
    ]
   },
   "LH Duck": {
