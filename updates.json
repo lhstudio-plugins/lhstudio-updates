@@ -563,34 +563,6 @@
     "מספרי התצוגה רגועים וקלים לקריאה (מתעדכנים 4 פעמים בשנייה)"
    ]
   },
-  "LH Band": {
-   "version": "2.58.0",
-   "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.58.0/LH-Band-Setup-2.58.0.exe",
-   "sha256": "db7536c44eec3f18a49c7119047f05ef3ee4c0b3280b6bdb1d3efcb372c9d324",
-   "notes_en": [
-    "New: an instrument strip with five pages - bass, drums, guitars, keys and percussion.",
-    "Simple faders for each instrument and 60 ready presets."
-   ],
-   "notes_he": [
-    "חדש: ערוץ לכלים עם חמישה עמודים - בס, תופים, גיטרות, קלידים וכלי הקשה.",
-    "פיידרים פשוטים לכל כלי ו-60 פריסטים מוכנים."
-   ]
-  },
-  "LH Scatter": {
-   "version": "2.62.0",
-   "important": false,
-   "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.62.0/LH-Scatter-Setup-2.62.0.exe",
-   "sha256": "437bb693acdc3563a5d3d47b65a79d5af57442739d6ed4e3c12379ae50873a3d",
-   "notes_en": [
-    "GLIDE now really sweeps to the sides and lands before the next hit",
-    "LENGTH starts at 100 ms, plus 14 new presets for hats, shakers and percussion"
-   ],
-   "notes_he": [
-    "הגלישה זזה עכשיו באמת לצדדים ומגיעה לפני המכה הבאה",
-    "האורך מתחיל ב-100 מילישניות, ועוד 14 פריסטים חדשים להיי-האטים, שייקרים וכלי הקשה"
-   ]
-  },
   "LH Dive": {
    "version": "2.71.0",
    "important": false,
