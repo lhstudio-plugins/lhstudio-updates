@@ -48,19 +48,15 @@
       ]
     },
     "LH Sample Finder": {
-      "version": "2.69.0",
+      "version": "2.89.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Sample-Finder-Setup-2.69.0.exe",
-      "sha256": "f10dfde2c2e4477ca85ee45b7b37ae0c64dd5ac2e64079a10f96a7af0b6be153",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.89.0/LH-Sample-Finder-Setup-2.89.0.exe",
+      "sha256": "b7b3ab069ef406017f1dc5ad2d63326ccb5ea5b52339ed79b91276e7ef5b229e",
       "notes_en": [
-        "Sample-rate column, and right-click converts a file to 44.1 or 48 kHz",
-        "Change key: a transposed copy that keeps the tempo of loops",
-        "New SOUND filters: punchy, fat, short, long, bright, dark, soft"
+        "Favourites are kept once per sound: a sound you starred is lit on its other copies too."
       ],
       "notes_he": [
-        "עמודת קצב דגימה, ולחיצה ימנית ממירה קובץ ל-44.1 או ל-48",
-        "שינוי סולם: עותק מוזז שלופים שומרים בו על הטמפו",
-        "סינון סאונד חדש: פאנצ'י, שמן, קצר, ארוך, חד, כהה, רך"
+        "מועדף אחד לכל סאונד: סאונד שסימנת בכוכב מואר גם בעותקים שלו."
       ]
     },
     "LH Auto Phase": {
@@ -300,17 +296,15 @@
       ]
     },
     "LH Limit": {
-      "version": "2.84.0",
+      "version": "2.89.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.84.0/LH-Limit-Setup-2.84.0.exe",
-      "sha256": "27c4538ec23752d1d182bcfa343f73af191b83960e35573ee102a1f748458a9f",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.89.0/LH-Limit-Setup-2.89.0.exe",
+      "sha256": "1e5681af65e2724479c1fc2b9248a53f0f9ca514499723f1d805634a35e3cbdf",
       "notes_en": [
-        "Smoother GR meter: it drops at once and returns evenly - no more jumpy bar while playing.",
-        "The sound is unchanged."
+        "A lighter graph: the scope draws much faster, same look."
       ],
       "notes_he": [
-        "מד GR חלק יותר: יורד מיד וחוזר בהדרגה - בלי קפיצות בזמן ניגון.",
-        "הסאונד לא השתנה."
+        "גרף קל יותר: התצוגה מצוירת הרבה יותר מהר, באותו מראה."
       ]
     },
     "LH Ember": {
@@ -661,22 +655,6 @@
         "DUCK מנמיך את האפקט בזמן שרים או מנגנים."
       ]
     },
-    "LH Stutter": {
-      "version": "2.68.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Stutter-Setup-2.68.0.exe",
-      "sha256": "c85e43896710e2c1801ff2e03d01bee10d088df0411108585fcbab32bc1f6892",
-      "notes_en": [
-        "First release: a beat-repeat effect locked to your tempo.",
-        "Interval, Offset, Gate, Grid with Variation, Chance, Pitch and Decay, plus a filter.",
-        "A live strip shows exactly which part repeats."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: אפקט חזרות (סטאטר) שנעול לטמפו.",
-        "Interval, Offset, Gate, Grid עם Variation, Chance, Pitch ו-Decay, ופילטר.",
-        "פס חי מראה בדיוק איזה קטע חוזר."
-      ]
-    },
     "LH Sweep": {
       "version": "2.69.0",
       "important": false,
@@ -808,19 +786,19 @@
       ]
     },
     "LH Chord Sections": {
-      "version": "2.88.0",
+      "version": "2.89.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.88.0/LH-Chord-Sections-Setup-2.88.0.exe",
-      "sha256": "4387018050ba5b3a9869085a4c8d5f3ef0cf4eb2e17d081b2b330a0940df9dc7",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.89.0/LH-Chord-Sections-Setup-2.89.0.exe",
+      "sha256": "acb35bbe793a654a3169f67033deb848a6815a05618bac17545d87f8c5716dda",
       "notes_en": [
-        "First release: keeps the chords of every song part (verse / chorus) on Cubase's real bars",
-        "Drag each part's chords or bass as MIDI - grid, quantize and full editing",
-        "MY SONGS: every song is saved and can be loaded again"
+        "Zoom on the bar ruler, with beat lines.",
+        "New vocal waveform lane: drop a vocal on it to see it against the parts.",
+        "The plugin no longer takes keys from Cubase."
       ],
       "notes_he": [
-        "גרסה ראשונה: שומר את האקורדים של כל חלק בשיר (בית / פזמון) על התיבות האמיתיות של Cubase",
-        "גרירת האקורדים או הבס של כל חלק כ-MIDI – גריד, קוונטייז ועריכה מלאה",
-        "השירים שלי: כל שיר נשמר ואפשר לטעון אותו שוב"
+        "זום בסרגל התיבות, עם קווי פעמות.",
+        "שורת גל לווקאל: גוררים אליה ווקאל ורואים אותו מול החלקים.",
+        "הפלאגין כבר לא תופס מקשים מ-Cubase."
       ]
     }
   },
