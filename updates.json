@@ -129,18 +129,6 @@
         "פסי המדים ממשיכים לזוז בזמן אמת"
       ]
     },
-    "LH Dyna": {
-      "version": "2.82.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Dyna-Setup-2.82.0.exe",
-      "sha256": "3fbf18b0906de048e705b4680d03614417cea428d72c3453953b126d82774c4f",
-      "notes_en": [
-        "Removed the pop-up explanation box over the graph"
-      ],
-      "notes_he": [
-        "הוסרה חלונית ההסבר שקפצה מעל הגרף"
-      ]
-    },
     "LH Tops": {
       "version": "2.46.0",
       "important": true,
@@ -156,19 +144,15 @@
       ]
     },
     "LH Voice Pitch": {
-      "version": "2.85.0",
+      "version": "2.90.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.85.0/LH-Voice-Pitch-Setup-2.85.0.exe",
-      "sha256": "ad42e172f41833b48b401e2d167114ecb70f1aacbc493f5a6dd1588f491ab9f5",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.90.0/LH-Voice-Pitch-Setup-2.90.0.exe",
+      "sha256": "b843dbbc1d46a5538f60b46a532cc8d8be35d49bc88b41efb458d0a7d88136ba",
       "notes_en": [
-        "New look: a golden-oak frame, black panels and white numbers, in a compact wide window.",
-        "New DRIVE knob: adds saturation and warmth to the processed voice (0 = off).",
-        "OUTPUT, VOICES, LINK and the pitch graph are no longer on screen (automation still reaches them). The pitch engine is unchanged."
+        "Finer knobs: PITCH and FORMANT move in smaller steps when you drag (Shift = finer still)."
       ],
       "notes_he": [
-        "עיצוב חדש: מסגרת עץ אלון, פאנלים שחורים ומספרים לבנים, בחלון רחב ונמוך.",
-        "כפתור DRIVE חדש: מוסיף רוויה וחום לקול המעובד (0 = כבוי).",
-        "OUTPUT, VOICES, LINK והגרף כבר לא מופיעים במסך (האוטומציה עדיין מגיעה אליהם). מנוע הפיץ' לא השתנה."
+        "קנובים עדינים יותר: PITCH ו-FORMANT זזים בצעדים קטנים יותר בגרירה (Shift = עוד יותר עדין)."
       ]
     },
     "LH Orbit": {
@@ -209,22 +193,6 @@
       ],
       "notes_he": [
         "AUTOMAT מחליט על יותר סוגי חומר (למשל לופים של סנר) ושומר על עוצמת יציאה תואמת."
-      ]
-    },
-    "LH Kick": {
-      "version": "2.75.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.75.0/LH-Kick-Setup-2.75.0.exe",
-      "sha256": "cd8591019acbf1aa1c4e4d4b8509f62086a6b3cce91d39a73222d5bd3476ca2e",
-      "notes_en": [
-        "57 new factory kicks in nine styles: Remix, Wedding, Club, Trance, Punchy, Full, Acoustic, Soft and 808.",
-        "Three new preset groups: ACOUSTIC, SOFT and 808. The new kicks come first in each style's menu.",
-        "The BODY switch has a new ACOUSTIC choice with the overtones of a real drum skin."
-      ],
-      "notes_he": [
-        "57 קיקים חדשים מהמפעל בתשעה סגנונות: רמיקס, חתונה, מועדון, טראנס, פאנצ'י, מלא, אקוסטי, רך ו-808.",
-        "שלוש קבוצות פריסטים חדשות: ACOUSTIC, ‏SOFT ו-808. הקיקים החדשים מופיעים ראשונים בתפריט של כל סגנון.",
-        "במתג BODY נוספה אפשרות ACOUSTIC עם הצלילים העיליים של עור תוף אמיתי."
       ]
     },
     "LH Clipper": {
@@ -307,18 +275,6 @@
         "גרף קל יותר: התצוגה מצוירת הרבה יותר מהר, באותו מראה."
       ]
     },
-    "LH Ember": {
-      "version": "2.82.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Ember-Setup-2.82.0.exe",
-      "sha256": "7bd5fe6bbd6bd3143537bdddda4398457a4241c139d133583c0f4c9a18dcbd2e",
-      "notes_en": [
-        "Removed the pop-up explanation box over the graph"
-      ],
-      "notes_he": [
-        "הוסרה חלונית ההסבר שקפצה מעל הגרף"
-      ]
-    },
     "LH Scorch": {
       "version": "2.82.0",
       "important": false,
@@ -353,32 +309,6 @@
       ],
       "notes_he": [
         "חזרה לעיצוב הניאון המקורי; AUTO RISE נשאר."
-      ]
-    },
-    "LH 176": {
-      "version": "2.81.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.81.0/LH-176-Setup-2.81.0.exe",
-      "sha256": "e1a5c3218fbd8fe5f8d74b7eeecb44e2d63435e4a109a3cf275fa560d5af5f7c",
-      "notes_en": [
-        "The meter number now holds the largest value (the deepest reduction or the loudest level) instead of following the arc.",
-        "The held number clears by itself after 5 seconds of silence, or with a click on the meter."
-      ],
-      "notes_he": [
-        "המספר במד נשאר עכשיו על הערך הכי גדול (ההורדה הכי עמוקה או העוצמה הכי גבוהה) במקום לעקוב אחרי הקשת.",
-        "המספר מתאפס לבד אחרי 5 שניות של שקט, או בלחיצה על המד."
-      ]
-    },
-    "LH Saturn": {
-      "version": "2.82.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.82.0/LH-Ember-Setup-2.82.0.exe",
-      "sha256": "7bd5fe6bbd6bd3143537bdddda4398457a4241c139d133583c0f4c9a18dcbd2e",
-      "notes_en": [
-        "Removed the pop-up explanation box over the graph"
-      ],
-      "notes_he": [
-        "הוסרה חלונית ההסבר שקפצה מעל הגרף"
       ]
     },
     "LH Atmos": {
@@ -547,30 +477,18 @@
         "שמירת סגנונות משלכם: הפריסטים שלי לומדים מהזריקות שקבעתם."
       ]
     },
-    "LH One": {
-      "version": "2.71.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-One-Setup-2.71.0.exe",
-      "sha256": "b858047b19a2faddeb616afabe508919c18bdea6641e4125f3ae6752751525a8",
-      "notes_en": [
-        "The readout numbers are calm and easy to read (4 updates a second)"
-      ],
-      "notes_he": [
-        "מספרי התצוגה רגועים וקלים לקריאה (מתעדכנים 4 פעמים בשנייה)"
-      ]
-    },
     "LH Dive": {
-      "version": "2.71.0",
+      "version": "2.90.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Dive-Setup-2.71.0.exe",
-      "sha256": "969bdd38ce397fda04110fa5c61efe7204fc86d260e8381b883d49a62326f9fa",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.90.0/LH-Dive-Setup-2.90.0.exe",
+      "sha256": "313bf6a49a1a34c53aba59c884f22d0728c5f1ad1ef87bf932f80ee6d9fcd8e8",
       "notes_en": [
-        "Meter numbers now hold the peak like Cubase - click a number to reset it",
-        "The meter bars stay live"
+        "A cleaner screen: the underwater filter, REVERB and DELAY as big knobs, and OTT.",
+        "20 presets, including piano and vocal ones."
       ],
       "notes_he": [
-        "מספרי המדים מחזיקים את השיא כמו בקיובייס - לחיצה על המספר מאפסת",
-        "פסי המדים ממשיכים לזוז בזמן אמת"
+        "מסך נקי יותר: פילטר מתחת למים, ריוורב ודיליי כקנובים גדולים, ו-OTT.",
+        "20 פריסטים, כולל לפסנתר ולווקאל."
       ]
     },
     "LH Shuffle": {
@@ -609,34 +527,6 @@
       ],
       "notes_he": [
         "הוסרה חלונית ההסבר שקפצה מעל הגרף"
-      ]
-    },
-    "LH Tape": {
-      "version": "2.71.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.71.0/LH-Tape-Setup-2.71.0.exe",
-      "sha256": "915816a604179568a9dd60476e78ad62a4c685cf0637f1539761f02ac779bcc9",
-      "notes_en": [
-        "Meter numbers now hold the peak like Cubase - click a number to reset it",
-        "The meter bars stay live"
-      ],
-      "notes_he": [
-        "מספרי המדים מחזיקים את השיא כמו בקיובייס - לחיצה על המספר מאפסת",
-        "פסי המדים ממשיכים לזוז בזמן אמת"
-      ]
-    },
-    "LH Pan Tremolo": {
-      "version": "2.69.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.69.0/LH-Pan-Tremolo-Setup-2.69.0.exe",
-      "sha256": "361f118dddb8f2e3a7d3788e17f7847bea42d416f4fb255b7f991ff485a79cc9",
-      "notes_en": [
-        "More aggressive out of the box: full depth (100 %) by default",
-        "Tremolo now defaults to a hard, gate-like chop (MORPH +100)"
-      ],
-      "notes_he": [
-        "אגרסיבי יותר מההתחלה: עומק מלא (100 %) כברירת מחדל",
-        "הטרמולו נפתח עכשיו בחיתוך חד כמו גייט (MORPH +100)"
       ]
     },
     "LH Eclipse": {
@@ -695,20 +585,6 @@
       "notes_he": [
         "MAGNET חדש: נקודות שגוררים ומוסיפים ננעלות על הגריד",
         "מחזיקים ALT כדי למקם נקודה חופשי"
-      ]
-    },
-    "LH Pitch Rise": {
-      "version": "2.68.0",
-      "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.68.0/LH-Pitch-Rise-Setup-2.68.0.exe",
-      "sha256": "1b64497eb2af09437afbf9e8eddaad753aa8f9aeef961a866e05c6dbfff1f96f",
-      "notes_en": [
-        "First release: a vocal pitch riser you drive with automation.",
-        "PITCH 0..12 semitones up or down (the bottom of the lane is always 0), GLIDE or STEP, and MIX."
-      ],
-      "notes_he": [
-        "גרסה ראשונה: מרים פיץ' לווקאל שמפעילים עם אוטומציה.",
-        "PITCH מ-0 עד 12 חצאי טון למעלה או למטה (התחתית של האוטומציה תמיד 0), GLIDE או STEP, ו-MIX."
       ]
     },
     "LH Mosaic": {
@@ -771,34 +647,34 @@
         "הסולו עוקב אחרי הרוחב והמיקום של הבאנד על הגרף"
       ]
     },
-    "LH 2A": {
-      "version": "2.81.0",
+    "LH Chord Sections": {
+      "version": "2.90.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.81.0/LH-2A-Setup-2.81.0.exe",
-      "sha256": "24fdbde7d149265d30605f46a12c17bd0039eb398b8adcdb517d436040c13e75",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.90.0/LH-Chord-Sections-Setup-2.90.0.exe",
+      "sha256": "1bc6759029a5dc15c002f21aa178f687412f642284de10f8fda6fd9c41f8f589",
       "notes_en": [
-        "The meter number now holds the largest value instead of running. The arc stays live.",
-        "The held number clears by itself after 5 seconds of silence, with a click on the meter, or when the meter selector is turned."
+        "Mark the parts yourself at the Cubase cursor (half-bar steps); exported MIDI starts on the bar line.",
+        "New STYLES view: 7 ways to play every part (no bass, bass only, octaves, open, arpeggio...), loop play and drag MIDI.",
+        "Fixed: the last chord of a recording could get lost. New: + add chord, reset, save with a name."
       ],
       "notes_he": [
-        "המספר במד נשאר עכשיו על הערך הכי גדול במקום לרוץ. הקשת ממשיכה לזוז חי.",
-        "המספר מתאפס לבד אחרי 5 שניות של שקט, בלחיצה על המד, או כשמסובבים את בורר המד."
+        "סימון חלקים ידני במקום הסמן של Cubase (בחצאי תיבה); ה-MIDI שיוצא מתחיל על קו התיבה.",
+        "תצוגת סגנונות חדשה: 7 דרכים לנגן כל חלק (בלי בס, רק בס, אוקטבות, פתוח, ארפג'יו...), ניגון בלופ וגרירת MIDI.",
+        "תוקן: האקורד האחרון בהקלטה יכול היה ללכת לאיבוד. חדש: הוספת אקורד, איפוס, שמירה עם שם."
       ]
     },
-    "LH Chord Sections": {
-      "version": "2.89.0",
+    "LH Pump": {
+      "version": "2.90.0",
       "important": false,
-      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.89.0/LH-Chord-Sections-Setup-2.89.0.exe",
-      "sha256": "acb35bbe793a654a3169f67033deb848a6815a05618bac17545d87f8c5716dda",
+      "url": "https://github.com/lhstudio-plugins/lhstudio-updates/releases/download/v2.90.0/LH-Pump-Setup-2.90.0.exe",
+      "sha256": "d9b11d6c37958b4960e1464aae1e7aee819888b3ce2cbb0d45fb84fd4bca2b92",
       "notes_en": [
-        "Zoom on the bar ruler, with beat lines.",
-        "New vocal waveform lane: drop a vocal on it to see it against the parts.",
-        "The plugin no longer takes keys from Cubase."
+        "First release: one knob pumps the volume to the song's tempo - a sidechain feel without a sidechain.",
+        "RATE and OFFSET to set the groove; 0 = untouched."
       ],
       "notes_he": [
-        "זום בסרגל התיבות, עם קווי פעמות.",
-        "שורת גל לווקאל: גוררים אליה ווקאל ורואים אותו מול החלקים.",
-        "הפלאגין כבר לא תופס מקשים מ-Cubase."
+        "גרסה ראשונה: קנוב אחד שמנשים את הווליום לפי הטמפו - תחושת סיידצ'יין בלי סיידצ'יין.",
+        "RATE ו-OFFSET לכיוון הגרוב; 0 = בלי שינוי."
       ]
     }
   },
